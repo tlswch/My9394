@@ -114,9 +114,7 @@
             "ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },   
        
-        {
-            
-        },
+       
         {
             "key":"csp_GitCafe",
             "name":"纸条📃",
@@ -135,15 +133,7 @@
             "quickSearch":1,
             "filterable":0
         },
-        {
-           
-        },
-        {
-            
-        },
-        {
-            
-        },
+        
         {
             "key":"csp_xpath_网络搜集库112",
             "name":"工人",
