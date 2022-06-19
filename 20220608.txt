@@ -2,61 +2,12 @@
     "sites":[
         {
             "key":"csp_77",
-            "name":"默认主页",
-            "type":3,
-            "api":"csp_Kunyu77",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
-        },
-        {
-            "key":"csp_xpath_qiyou",
-            "name":"奇优",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/603-qiyou.js"
-        },
-        {
-            "key":"csp_77",
             "name":"七七🐞",
             "type":3,
             "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key":"csp_xpath_网络搜集库huaya",
-            "name":"虎牙🎤",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/huya.js"
-        },
-        {
-            "key":"csp_xpath_网络搜集库qiumi",
-            "name":"球迷🏀",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
-        },
-        {
-            "key":"csp_xpath_A33",
-            "name":"MTV🎸",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/mtv"
         },
         {
             "key":"csp_CZSPP",
@@ -72,6 +23,15 @@
             "name":"苹果🐞",
             "type":3,
             "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+             "key":"csp_Cokemv",
+            "name":"Coke🐞",
+            "type":3,
+            "api":"csp_Cokemv",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -95,23 +55,67 @@
             "filterable":1
         },
         {
-            "key":"csp_Cokemv",
-            "name":"Coke🐞",
+            "key":"csp_XBiubiubiubiu_libvio",
+            "name":"libvio(B)",
             "type":3,
-            "api":"csp_Cokemv",
+            "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":0,
+            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
         },
         {
-            "key":"csp_XBiubiubiubiu_蓝光影视",
+         "key":"csp_XBiubiubiubiu_蓝光影视",
             "name":"蓝光🐞",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"   
+        },
+        {
+          "key":"csp_Qicui",
+            "name":"奇粹🐞",
+            "type":3,
+            "api":"csp_Qicui",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1   
+        },
+        {
+          "key":"csp_DY1990",
+            "name":"990🐞",
+            "type":3,
+            "api":"csp_DY1990",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0  
+        },
+        {
+          "key":"csp_appysv2_9e国语",
+            "name":"9E国语",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"  
+        },
+       
+        {
+            "key":"csp_XBiubiubiubiu_lezhu",
+            "name":"乐猪(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+        },   
+       
+        {
+            
         },
         {
             "key":"csp_GitCafe",
@@ -132,32 +136,13 @@
             "filterable":0
         },
         {
-            "key":"csp_Qicui",
-            "name":"奇粹🐞",
-            "type":3,
-            "api":"csp_Qicui",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+           
         },
         {
-            "key":"csp_DY1990",
-            "name":"990🐞",
-            "type":3,
-            "api":"csp_DY1990",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
+            
         },
         {
-            "key":"csp_appysv2_9e国语",
-            "name":"9E国语",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"
+            
         },
         {
             "key":"csp_xpath_网络搜集库112",
@@ -189,26 +174,8 @@
             "filterable":1,
             "ext":"https://gitea.com/99/x/raw/branch/main/saohuo.json"
         },
-        {
-            "key":"csp_XBiubiubiubiu_libvio",
-            "name":"libvio(B)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
-        },
-        {
-            "key":"csp_XBiubiubiubiu_lezhu",
-            "name":"乐猪(B)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
-        },
+        
+        
         {
             "key":"csp_XBiubiubiubiu_555",
             "name":"555(B)",
