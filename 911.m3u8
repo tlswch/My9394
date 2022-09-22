@@ -1,19 +1,6 @@
 {
   "sites": [
-{
-"key": "csp_xBPQ_追剧","name": "️追剧FreeOK(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
-},
+
 
 
 
