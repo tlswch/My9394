@@ -1,8 +1,8 @@
 {
   "sites": [
 {
-"key": "csp_xBPQ_追剧","name": "️追剧FreeOK(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "{\"免嗅\":\"1\",
+"key": "csp_xBPQ_追剧","name": "️追剧FreeOK(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
+\"免嗅\":\"1\",
 \"导演\": \"导演：&&</div\",
 \"主演\": \"主演：&&</div\",
 \"简介\": \"module-info-introduction-content&&</div>\",
@@ -12,8 +12,8 @@
 \"播放标题\":\"span>&&<\",
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",
 \"分类url\":\"https://www.86516.tk/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}",
- "jar":"https://agit.ai/qi169/My9394/raw/branch/master/jar/xBPQ.jar"
-}, 
+"jar":"https://agit.ai/qi169/My9394/raw/branch/master/jar/xBPQ.jar"
+},  
 {"key": "csp_xBPQ_voflix","name": "voflix","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
 \"免嗅\":\"1\",
 \"导演\": \"导演：&&</div\",
