@@ -14,19 +14,7 @@
 \"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
 },
-{"key": "csp_xBPQ_voflix","name": "voflix","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"https://www.hktv03.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
-},
+
 {
 "key": "csp_xBPQ_F7","name": "️F7看剧(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
 \"免嗅\":\"1\",                     
@@ -35,19 +23,7 @@
 \"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}--------{catePg}---.html\"}",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
 },
-{"key": "csp_xBPQ_极品","name": "极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"http://sogouyy.cn/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699" 
-},  
+
 {"key":"少儿教育","name":"👪少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%84%bf%e7%ab%a5.txt"},
 {"key":"小学课堂","name":"🙅‍♂️小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%b0%8f%e5%ad%a6.txt"},
 {"key":"初中课堂","name":"🙋初中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%88%9d%e4%b8%ad.txt"},
