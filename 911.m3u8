@@ -27,6 +27,16 @@
 \"分类url\":\"https://www.hktv03.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar" 
 },
+{
+"key": "csp_xBPQ_F7","name": "️F7看剧(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
+\"免嗅\":\"1\",
+\"播放标题\":\"span>&&<\",                    
+\"播放数组\":\"class=\\\"module-play-list&&</div>\",                     
+\"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}--------{catePg}---.html\",
+"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar"
+},
+"jar":"https://agit.ai/qi169/My9394/raw/branch/master/jar/xBPQ.jar"
+},  
 {"key": "csp_xBPQ_极品","name": "极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
 \"免嗅\":\"1\",
 \"导演\": \"导演：&&</div\",
