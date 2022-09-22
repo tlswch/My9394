@@ -26,11 +26,12 @@
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
+//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV快.速","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url=","ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name": "GGTV你啊","type":1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url=","ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
