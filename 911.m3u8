@@ -11,7 +11,7 @@
 \"线路标题\": \"<span>&&</span>\",
 \"播放标题\":\"span>&&<\",
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"电影$2#剧集$1#动漫$3#动漫$4#学习$27",\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
+\"分类url\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
 "jar":"https://agit.ai/qi169/My9394/raw/branch/master/jar/xBPQ.jar"
 }, 
 {"key": "csp_xBPQ_voflix","name": "voflix","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
