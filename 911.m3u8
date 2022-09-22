@@ -35,8 +35,6 @@
 \"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}--------{catePg}---.html\",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
 },
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922DE9D661BF941776ED1F6D9A4699"
-},  
 {"key": "csp_xBPQ_极品","name": "极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
 \"免嗅\":\"1\",
 \"导演\": \"导演：&&</div\",
