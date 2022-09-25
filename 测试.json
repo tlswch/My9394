@@ -460,7 +460,7 @@
 	           },
                
                {
-               "name": "BT5V",
+               "name": "rx",
                 "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
                 "type": 1
                 
