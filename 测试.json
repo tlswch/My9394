@@ -456,7 +456,8 @@
                     "name": "GGTV你啊",
                     "type": 1,
                     "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="
-                 }, {
+                 }, 
+                 {
                         "name": "ckplayer",
                         "type": 0,
                         "url": "https://www.ckplayer.vip/jiexi/?url="
