@@ -452,11 +452,27 @@
                     "type": 1,
                     "url": "https://cache.json.icu/home/api?type=ys&uid=58291&key=bchlnozEGKMRSVWY79&url="
                 },
+                
+                {
+                   "name": "rongxing",
+                   "type": 1,
+                   "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
+	           },
+               
+               {
+               "name": "BT5V",
+                "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+                "type": 1
+                
+                },
+                
                 {
                     "name": "GGTV你啊",
                     "type": 1,
                     "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="
-                 }, 
+                
+                }, 
+                 
                  {
                         "name": "ckplayer",
                         "type": 0,
