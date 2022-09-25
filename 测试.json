@@ -471,20 +471,20 @@
 "type": 0,
 "url": "https://chaxun.truechat365.com/?url=",
 "ext": {
-"flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]
-}},{   
+"flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"
+]}},{   
 "name": "cygc",
 "type": 1,
-"url": "https://api.cygc.xyz/analysis/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]
-}, {  
+"url": "https://api.cygc.xyz/analysis/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"
+]}}, {  
 "name":"icu",
 "type":1,
 "url":"https://cache.json.icu/home/api?type=ys&uid=1362243&key=acfgklqwFLMORSTVZ6&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","bilibili","ltnb","renrenmi"
 ]}},{ 
 "name":"1.117","type":0,"url":"http://1.117.152.239:39000/?url=" 
 },{
-"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]
-}},{
+"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"
+]}},{
 "name": "ckplayer",
 "type": 0,
 "url": "https://www.ckplayer.vip/jiexi/?url="
