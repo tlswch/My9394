@@ -445,7 +445,9 @@
             }, {
                 "name": "GGTV快.速",
                 "type": 1,
-                "url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url=}, {
+                "url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
+                
+            }, {
                     "name": "GGTV共青春",
                     "type": 1,
                     "url": "https://cache.json.icu/home/api?type=ys&uid=58291&key=bchlnozEGKMRSVWY79&url="
@@ -453,7 +455,8 @@
                 {
                     "name": "GGTV你啊",
                     "type": 1,
-                    "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url=}, {
+                    "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="
+                 }, {
                         "name": "ckplayer",
                         "type": 0,
                         "url": "https://www.ckplayer.vip/jiexi/?url="
