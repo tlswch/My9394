@@ -1963,7 +1963,7 @@
   "wasu",
   "bilibili",
   "renrenmi"
- ],
+ }],
 "ijk":[
 {"group":"硬解码","options":[
 {"category":4,"name":"opensles","value":"0"},
