@@ -26,6 +26,7 @@
 {"key":"QC 影视","name":"QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"
  }
  ],
+ "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
  "parses": [
   {
    "name": "🌐Ⓤ",
