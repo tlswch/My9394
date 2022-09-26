@@ -87,6 +87,7 @@
 {"name":"托乌","type":0,"url":"https://jx.ppjbk.cn/?url="},
 {"name": "rongxing","type": 1,"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="},
 {"name": "rx","url": "https://rx.bt5v.com/json/jsonindex.php/?url=","type": 1},
+{"name":"re","type":0,"url":"http://drpy.fuqizhishi.com/vod?rule=人人影视&ext=&play_url="},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV快.速","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
 {"name":"icu","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1362243&key=acfgklqwFLMORSTVZ6&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","bilibili","ltnb","renrenmi"]}},
