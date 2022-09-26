@@ -93,6 +93,7 @@
 {"name": "rongxing","type": 1,"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="},
 {"name": "rx","type":1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"re","type":1,"url": "http://drpy.fuqizhishi.com/vod?rule=人人影视&ext=&play_url="},
+{"name":"hfys","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV快.速","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
 {"name":"icu","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1362243&key=acfgklqwFLMORSTVZ6&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","bilibili","ltnb","renrenmi"]}},
