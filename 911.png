@@ -39,25 +39,7 @@
 {"key": "csp_xBPQ_COKEMV", "name": "COKEMV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 {"key": "csp_xBPQ_真不卡","name": "️真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\"}"},     
 {"key": "csp_xBPQ_鸭奈飞","name": "鸭奈飞","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},      
-      
-            
-      
-      
-      
-      
-      
-      
-      
-{ 
-      "key": "csp_Jianying",
-      "name": "简影（SP）",
-      "type": 3,
-      "api": "csp_JianYing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"39126D24A7D1D0A507039AE31EB879DE"
-    },
+{"key": "csp_Jianying","name": "简影（SP）","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/txt/Jianying.txt"},
 //{"key": "csp_Ddys","name": "Ddys","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"3EDY","name":"🌴3EDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"小熊","name":"🐨小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
