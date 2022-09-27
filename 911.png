@@ -46,6 +46,7 @@
 {"key":"海玉影视","name":"海玉影视","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"阿里影视","name":"阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MX 影院","name":"MX影院","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key": "千寻时光","name":"千寻时光(聚)","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key":"M3U8资源","name":"M3U8资源","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"盘看影视","name":"盘看影视","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
