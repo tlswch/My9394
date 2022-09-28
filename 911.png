@@ -1,8 +1,5 @@
 {
   "sites": [
-
-
-
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%a5%ad%e5%9b%a2HDXB.json"},
 {"key":"csp_xbb_AB影院","name":"🍀AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xbb_剧白白","name":"🍀剧白白2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
