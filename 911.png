@@ -1,5 +1,13 @@
 {
   "sites": [
+
+
+
+{"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%a5%ad%e5%9b%a2HDXB.json"},
+{"key":"csp_xbb_AB影院","name":"🍀AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_xbb_剧白白","name":"🍀剧白白2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
+{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/voflix%20HDXB.json"},
+{"key":"csp_xbb_31看影视","name":"🍀31看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/31%e7%9c%8b%e5%bd%b1%e8%a7%86XB.json"},
 {"key": "csp_xb_ysgc", "name": "工厂(R)",  "type": 3,  "api": "csp_XBiu",  "searchable": 1, "quickSearch": 1, "filterable": 0,  "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key": "csp_xf_naifeiya","name": "️鸭鸭奈非","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_0926.jar"},
 {"key": "csp_xf_PR","name": "️PR影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/pc123.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_0926.jar"},
