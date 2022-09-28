@@ -2,7 +2,8 @@
   "sites": [
 {"key":"csp_xbb_AB影院","name":"🆎影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_xb_543ys",  "name":"®️543影院",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/"},
-{  "key": "csp_xb_lxys", "name":"®️冷曦", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"},
+{"key": "csp_xb_lxys", "name":"®️冷曦", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"},
+{"key": "csp_xb_番茄",  "name": "®️番茄",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
 {"key":"dr_玄天","name":"🏄玄天影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=玄天","searchable":2,"quickSearch":0,"filterable":0}, 		
 {"key":"csp_xbb_剧白白","name":"🅱️剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
 {"key":"dr_人人影视","name":"🏄人人影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0}, 		
