@@ -1,0 +1,58 @@
+{
+    "title": "段友",
+    "author": "JMG0927",
+    "Headers": "MOBILE_UA",
+    //UTF-8，GBK，GB2312
+    "Coding_format": "UTF-8",
+    "PicNeedProxy": "0",
+    "homeContent": "1",
+    "rcmed_url": "https://shangjihuoke.com",
+    "home_arr_rule": "body&&.module-items",
+    "hmepi_arr_rule": "a",
+    "home_is_jsoup": "1",
+    "home_title": "a&&title",
+    "home_url": "a&&href",
+    "home_pic": "img&&data-original",
+    "home_subtitle": ".module-item-note&&Text",
+    "home_prefix": "https://shangjihuoke.com",
+    
+    "firstpage": "1",
+    "class_url": "https://shangjihuoke.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "class_name": "电影&电视剧&动漫&综艺&B站",
+    "class_value": "1&2&4&3&31",
+    "filterdata": {},
+
+    "cat_mode": "1",
+    "cat_arr_rule": ".module-items&&a",
+   
+    "SHeaders": "User-Agent$PC_UA",
+    "search_url": "https://shangjihuoke.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup": "1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "search_prefix": "https://shangjihuoke.com/index.php/vod/detail/id/",
+    "search_suffix": ".html",
+
+    "proj_is_jsoup": "1",
+    "proj_actor": ".module-info&&.module-info-item,2&&Text!主演：",
+    "proj_plot": ".module-info&&.module-info-content&&Text",
+
+    "tab_arr_rule": ".module-tab-items&&.module-tab-item",
+    "tab_title": "Text",
+
+    "list_arr_rule": "body&&.module-play-list",
+    "epi_arr_rule": "a",
+    "epi_is_jsoup": "1",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://shangjihuoke.com",
+    "epiurl_suffix": "",
+    "Anal_MacPlayer": "0",
+    "ManualSniffer": "1",
+    "VideoFormat": ".m3u8",
+    "VideoFilter": ".html#url="
+}
