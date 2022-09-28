@@ -1,5 +1,6 @@
 {
   "sites": [
+{"key": "csp_xf_naifeiya","name": "️鸭鸭奈非","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/yanaifei.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
