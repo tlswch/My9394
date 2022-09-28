@@ -9,7 +9,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://www.35ju.com/HAO/{cateId}-{catePg}.html"
+	"ext": "https://www.35ju.com/BO/{cateId}-{catePg}.html"
 },  
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
