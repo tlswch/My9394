@@ -62,7 +62,6 @@
 {"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"土狗2345","name":"土狗2345(官)","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"土狗360","name":"土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"鑫总资源","name":"鑫总资源","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"尘云影视","name":"尘云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"QC 影视","name":"QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
