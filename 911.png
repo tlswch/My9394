@@ -109,6 +109,10 @@
 {"key":"小学课堂","name":"🙅‍♂️小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%b0%8f%e5%ad%a6.txt"},
 {"key":"初中课堂","name":"🙋初中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%88%9d%e4%b8%ad.txt"},
 {"key":"高中教育","name":"🤷‍♂️高中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e9%ab%98%e4%b8%ad.txt"},
+{"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/yan11xx/tvbox/main/sub/ext/演唱会.txt"},
+{"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://raw.iqiq.io/yan11xx/tvbox/main/sub/ext/歌曲.txt"},
+{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/yan11xx/tvbox/main/sub/ext/相声.txt"},
+{"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/yan11xx/tvbox/main/sub/ext/戏曲.txt"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
