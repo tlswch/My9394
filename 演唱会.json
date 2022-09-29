@@ -1,233 +1,631 @@
 {
-  "classes": [
+  "spider": "https://raw.githubusercontents.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ff678226422bf7377f15b573bb0ee0e0",
+  "sites": [
     {
-      "type_name": "演唱会筛选",
-      "type_id": "演唱会超清"
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
     },
     {
-      "type_name": "粤语",
-      "type_id": "粤语歌曲超清"
+      "key": "朱古力",
+      "name": "朱古力",
+      "type": 3,
+      "api": "csp_Pig",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "热榜",
-      "type_id": "2022年热们歌曲超清"
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "抖音神曲",
-      "type_id": "抖音神曲超清"
+      "key": "Supjav",
+      "name": "Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "经典老歌",
-      "type_id": "经典老歌超清"
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "DJ",
-      "type_id": "DJ歌曲超清"
+      "key": "madouse.la",
+      "name": "成人01",
+      "type": 1,
+      "api": "http://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "网红翻唱",
-      "type_id": "网红翻唱歌曲超清"
+      "key": "51smt4.xyz",
+      "name": "成人02",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
     },
     {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团演唱会超清"
+      "key": "ggmmzy.com",
+      "name": "成人03",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bttcj.com",
+      "name": "成人04",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cjmygzy.com",
+      "name": "成人05",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jcspcj8.com",
+      "name": "成人06",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wmcj8.com",
+      "name": "成人07",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "secj8.com",
+      "name": "成人08",
+      "type": 0,
+      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "成人09",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.kudian70.com",
+      "name": "成人10",
+      "type": 1,
+      "api": "http://api.kudian70.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apilj.com",
+      "name": "成人11",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zmcj88.com",
+      "name": "成人12",
+      "type": 0,
+      "api": "http://zmcj88.com/sapi?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.putaozy.net",
+      "name": "成人13",
+      "type": 1,
+      "api": "http://api.putaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mygzycj.com",
+      "name": "成人14",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "llzxcj.com",
+      "name": "成人15",
+      "type": 0,
+      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "99zywcj.com",
+      "name": "成人16",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jializyzapi.com",
+      "name": "成人17",
+      "type": 1,
+      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "f2dcj6.com",
+      "name": "成人18",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "91md.me",
+      "name": "成人19",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sdszyapi.com",
+      "name": "成人20",
+      "type": 0,
+      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "010aizy.com",
+      "name": "成人21",
+      "type": 0,
+      "api": "http://www.010aizy.com/API/macs.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feifei67.com",
+      "name": "成人22",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.kdapi.info",
+      "name": "成人23",
+      "type": 1,
+      "api": "http://api.kdapi.info/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xjjzyapi.com",
+      "name": "成人24",
+      "type": 0,
+      "api": "http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "99zy.pw",
+      "name": "成人25",
+      "type": 1,
+      "api": "http://99zy.pw/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji25.com",
+      "name": "成人26",
+      "type": 0,
+      "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji21.com",
+      "name": "成人27",
+      "type": 0,
+      "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji26.com",
+      "name": "成人28",
+      "type": 0,
+      "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji24.com",
+      "name": "成人29",
+      "type": 0,
+      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.11bat.com",
+      "name": "成人30",
+      "type": 0,
+      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "leyuzyapi.com",
+      "name": "成人31",
+      "type": 1,
+      "api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "成人32",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "888dav.com",
+      "name": "成人33",
+      "type": 1,
+      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "987caiji.com",
+      "name": "成人34",
+      "type": 0,
+      "api": "http://www.987caiji.com/api/max.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mgzyz1.com",
+      "name": "成人35",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gdlsp.com",
+      "name": "成人36",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mgav1.cc",
+      "name": "成人37",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.ykapi.net",
+      "name": "成人38",
+      "type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji07.com",
+      "name": "成人39",
+      "type": 0,
+      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shayuapi.com",
+      "name": "成人40",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji02.com",
+      "name": "成人41",
+      "type": 0,
+      "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.huakuiapi.com",
+      "name": "成人42",
+      "type": 1,
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji01.com",
+      "name": "成人43",
+      "type": 0,
+      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kxgav.com",
+      "name": "成人44",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji08.com",
+      "name": "成人45",
+      "type": 0,
+      "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "msnii.com",
+      "name": "成人46",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apittzy.com",
+      "name": "成人47",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji09.com",
+      "name": "成人48",
+      "type": 0,
+      "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dmmapi.com",
+      "name": "成人49",
+      "type": 0,
+      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lbapi9.com",
+      "name": "成人50",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kkzy.me",
+      "name": "成人51",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.caomeiapi.com",
+      "name": "成人52",
+      "type": 1,
+      "api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.naichaapi.com",
+      "name": "成人53",
+      "type": 1,
+      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji05.com",
+      "name": "成人54",
+      "type": 0,
+      "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "siwazyw.cc",
+      "name": "成人55",
+      "type": 1,
+      "api": "https://siwazyw.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji10.com",
+      "name": "成人56",
+      "type": 0,
+      "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji03.com",
+      "name": "成人57",
+      "type": 0,
+      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kudouzy.com",
+      "name": "成人58",
+      "type": 1,
+      "api": "https://kudouzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xx55zyapi.com",
+      "name": "成人59",
+      "type": 0,
+      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.523zyw.com",
+      "name": "成人60",
+      "type": 1,
+      "api": "https://caiji.523zyw.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji04.com",
+      "name": "成人61",
+      "type": 0,
+      "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "52zyapi.com",
+      "name": "成人62",
+      "type": 0,
+      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji22.com",
+      "name": "成人63",
+      "type": 0,
+      "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "afasu.com",
+      "name": "成人64",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.xiuseapi.com",
+      "name": "成人65",
+      "type": 1,
+      "api": "https://api.xiuseapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xrbsp.com",
+      "name": "成人66",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji23.com",
+      "name": "成人67",
+      "type": 0,
+      "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jgczyapi.com",
+      "name": "成人68",
+      "type": 0,
+      "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.yinwoapi.com",
+      "name": "成人69",
+      "type": 1,
+      "api": "https://api.yinwoapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sewozyapi.com",
+      "name": "成人70",
+      "type": 1,
+      "api": "https://sewozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人71",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cj.apiabzy.com",
+      "name": "成人72",
+      "type": 1,
+      "api": "http://cj.apiabzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "3865f0ab8f124688ad786a262af9b940"
     }
-    
-    
-  ],
-  "filter": {
-    "演唱会超清": [
-      {"key": "order","name": "排序","value": [
-{"n": "综合排序","v": "0"},
-{"n": "最多点击","v": "click"},
-{"n": "最新发布","v": "pubdate"},
-{"n": "最多弹幕","v": "dm"},
-{"n": "最多收藏","v": "stow"}
-]
-},
-{
-        "key": "tid",
-        "name": "分类",
-        "value": [
-{"n":"全部","v":"演唱会超清"},
-{"n":"A阿杜","v":"阿杜演唱会超清"},
-{"n":"A阿黛尔","v":"阿黛尔演唱会超清"},
-{"n":"BBeyond","v":"Beyond演唱会超清"},
-{"n":"BBy2","v":"By2演唱会超清"},
-{"n":"BBIGBANG","v":"BIGBANG演唱会超清"},
-{"n":"B布兰妮","v":"布兰妮演唱会超清"},
-{"n":"B坂井泉水","v":"坂井泉水演唱会超清"},
-{"n":"C陈奕迅","v":"陈奕迅演唱会超清"},
-{"n":"C蔡依林","v":"蔡依林演唱会超清"},
-{"n":"C初音未来","v":"初音未来演唱会超清"},
-{"n":"C蔡健雅","v":"蔡健雅演唱会超清"},
-{"n":"C陈小春","v":"陈小春演唱会超清"},
-{"n":"C草蜢","v":"草蜢演唱会超清"},
-{"n":"C陈慧娴","v":"陈慧娴演唱会超清"},
-{"n":"C崔健","v":"崔健演唱会超清"},
-{"n":"C仓木麻衣","v":"仓木麻衣演唱会超清"},
-{"n":"D戴荃","v":"戴荃演唱会超清"},
-{"n":"D动力火车","v":"动力火车演唱会超清"},
-{"n":"D邓丽君","v":"邓丽君演唱会超清"},
-{"n":"D丁当","v":"丁当演唱会超清"},
-{"n":"D刀郎","v":"刀郎演唱会超清"},
-{"n":"D邓紫棋","v":"邓紫棋演唱会超清"},
-{"n":"D戴佩妮","v":"戴佩妮演唱会超清"},
-{"n":"D邓丽君","v":"邓丽君演唱会超清"},
-{"n":"F飞儿乐队","v":"飞儿乐队演唱会超清"},
-{"n":"F费玉清","v":"费玉清演唱会超清"},
-{"n":"F费翔","v":"费翔演唱会超清"},
-{"n":"F方大同","v":"方大同演唱会超清"},
-{"n":"F房东的猫","v":"房东的猫演唱会超清"},
-{"n":"F凤飞飞","v":"凤飞飞演唱会超清"},
-{"n":"F凤凰传奇","v":"凤凰传奇演唱会超清"},
-{"n":"G郭采洁","v":"郭采洁演唱会超清"},
-{"n":"G光良","v":"光良演唱会超清"},
-{"n":"G郭静","v":"郭静演唱会超清"},
-{"n":"G郭富城","v":"郭富城演唱会超清"},
-{"n":"H胡彦斌","v":"胡彦斌演唱会超清"},
-{"n":"H胡夏","v":"胡夏演唱会超清"},
-{"n":"H韩红","v":"韩红演唱会超清"},
-{"n":"H黄品源","v":"黄品源演唱会超清"},
-{"n":"H黄小琥","v":"黄小琥演唱会超清"},
-{"n":"H花儿乐队","v":"花儿乐队演唱会超清"},
-{"n":"H黄家强","v":"黄家强演唱会超清"},
-{"n":"H后街男孩","v":"后街男孩演唱会超清"},
-{"n":"J经典老歌","v":"经典老歌演唱会超清"},
-{"n":"J贾斯丁比伯","v":"贾斯丁比伯演唱会超清"},
-{"n":"J金池","v":"金池演唱会超清"},
-{"n":"J金志文","v":"金志文演唱会超清"},
-{"n":"J焦迈奇","v":"焦迈奇演唱会超清"},
-{"n":"K筷子兄弟","v":"筷子兄弟演唱会超清"},
-{"n":"L李玟","v":"李玟演唱会超清"},
-{"n":"L林忆莲","v":"林忆莲演唱会超清"},
-{"n":"L李克勤","v":"李克勤演唱会超清"},
-{"n":"L刘宪华","v":"刘宪华演唱会超清"},
-{"n":"L李圣杰","v":"李圣杰演唱会超清"},
-{"n":"L林宥嘉","v":"林宥嘉演唱会超清"},
-{"n":"L梁静茹","v":"梁静茹演唱会超清"},
-{"n":"L李健","v":"李健演唱会超清"},
-{"n":"L林俊杰","v":"林俊杰演唱会超清"},
-{"n":"L李玉刚","v":"李玉刚演唱会超清"},
-{"n":"L林志炫","v":"林志炫演唱会超清"},
-{"n":"L李荣浩","v":"李荣浩演唱会超清"},
-{"n":"L李宇春","v":"李宇春演唱会超清"},
-{"n":"L洛天依","v":"洛天依演唱会超清"},
-{"n":"L林子祥","v":"林子祥演唱会超清"},
-{"n":"L李宗盛","v":"李宗盛演唱会超清"},
-{"n":"L黎明","v":"黎明演唱会超清"},
-{"n":"L刘德华","v":"刘德华演唱会超清"},
-{"n":"L罗大佑","v":"罗大佑演唱会超清"},
-{"n":"L林肯公园","v":"林肯公园演唱会超清"},
-{"n":"LLadyGaga","v":"LadyGaga演唱会超清"},
-{"n":"L旅行团乐队","v":"旅行团乐队演唱会超清"},
-{"n":"M莫文蔚","v":"莫文蔚演唱会超清"},
-{"n":"M毛不易","v":"毛不易演唱会超清"},
-{"n":"M梅艳芳","v":"梅艳芳演唱会超清"},
-{"n":"M迈克尔杰克逊","v":"迈克尔杰克逊演唱会超清"},
-{"n":"N南拳妈妈","v":"南拳妈妈演唱会超清"},
-{"n":"P朴树","v":"朴树演唱会超清"},
-{"n":"Q齐秦","v":"齐秦演唱会超清"},
-{"n":"Q青鸟飞鱼","v":"青鸟飞鱼演唱会超清"},
-{"n":"R容祖儿","v":"容祖儿演唱会超清"},
-{"n":"R任贤齐","v":"任贤齐演唱会超清"},
-{"n":"S水木年华","v":"水木年华演唱会超清"},
-{"n":"S孙燕姿","v":"孙燕姿演唱会超清"},
-{"n":"S苏打绿","v":"苏打绿演唱会超清"},
-{"n":"SSHE","v":"SHE演唱会超清"},
-{"n":"S孙楠","v":"孙楠演唱会超清"},
-{"n":"T陶喆","v":"陶喆演唱会超清"},
-{"n":"T谭咏麟","v":"谭咏麟演唱会超清"},
-{"n":"T田馥甄","v":"田馥甄演唱会超清"},
-{"n":"T谭维维","v":"谭维维演唱会超清"},
-{"n":"T逃跑计划","v":"逃跑计划演唱会超清"},
-{"n":"T田震","v":"田震演唱会超清"},
-{"n":"T谭晶","v":"谭晶演唱会超清"},
-{"n":"T屠洪刚","v":"屠洪刚演唱会超清"},
-{"n":"T泰勒·斯威夫特","v":"泰勒·斯威夫特演唱会超清"},
-{"n":"W王力宏","v":"王力宏演唱会超清"},
-{"n":"W王杰","v":"王杰演唱会超清"},
-{"n":"W吴克群","v":"吴克群演唱会超清"},
-{"n":"W王心凌","v":"王心凌演唱会超清"},
-{"n":"W王靖雯","v":"好声音王靖雯演唱会超清"},
-{"n":"W汪峰","v":"汪峰演唱会超清"},
-{"n":"W伍佰","v":"伍佰演唱会超清"},
-{"n":"W王菲","v":"王菲演唱会超清"},
-{"n":"W五月天","v":"五月天演唱会超清"},
-{"n":"W汪苏泷","v":"汪苏泷演唱会超清"},
-{"n":"X徐佳莹","v":"徐佳莹演唱会超清"},
-{"n":"X弦子","v":"弦子演唱会超清"},
-{"n":"X萧亚轩","v":"萧亚轩演唱会超清"},
-{"n":"X许巍","v":"许巍演唱会超清"},
-{"n":"X薛之谦","v":"薛之谦演唱会超清"},
-{"n":"X许嵩","v":"许嵩演唱会超清"},
-{"n":"X小虎队","v":"小虎队演唱会超清"},
-{"n":"X萧敬腾","v":"萧敬腾演唱会超清"},
-{"n":"X谢霆锋","v":"谢霆锋演唱会超清"},
-{"n":"X徐小凤","v":"徐小凤演唱会超清"},
-{"n":"X信乐队","v":"信乐队演唱会超清"},
-{"n":"Y夜愿乐队","v":"夜愿乐队演唱会超清"},
-{"n":"Y羽泉","v":"羽泉演唱会超清"},
-{"n":"Y郁可唯","v":"郁可唯演唱会超清"},
-{"n":"Y叶倩文","v":"叶倩文演唱会超清"},
-{"n":"Y杨坤","v":"杨坤演唱会超清"},
-{"n":"Y庾澄庆","v":"庾澄庆演唱会超清"},
-{"n":"Y尤长靖","v":"尤长靖演唱会超清"},
-{"n":"Y易烊千玺","v":"易烊千玺演唱会超清"},
-{"n":"Y袁娅维","v":"袁娅维演唱会超清"},
-{"n":"Y杨丞琳","v":"杨丞琳演唱会超清"},
-{"n":"Y杨千嬅","v":"杨千嬅演唱会超清"},
-{"n":"Y杨宗纬","v":"杨宗纬演唱会超清"},
-{"n":"Z郑秀文","v":"郑秀文演唱会超清"},
-{"n":"Z周杰伦","v":"周杰伦演唱会超清"},
-{"n":"Z张学友","v":"张学友演唱会超清"},
-{"n":"Z张信哲","v":"张信哲演唱会超清"},
-{"n":"Z张宇","v":"张宇演唱会超清"},
-{"n":"Z周华健","v":"周华健演唱会超清"},
-{"n":"Z张韶涵","v":"张韶涵演唱会超清"},
-{"n":"Z周深","v":"周深演唱会超清"},
-{"n":"Z纵贯线","v":"纵贯线演唱会超清"},
-{"n":"Z赵雷","v":"赵雷演唱会超清"},
-{"n":"Z周传雄","v":"周传雄演唱会超清"},
-{"n":"Z张国荣","v":"张国荣演唱会超清"},
-{"n":"Z周慧敏","v":"周慧敏演唱会超清"},
-{"n":"Z张惠妹","v":"张惠妹演唱会超清"},
-{"n":"Z周笔畅","v":"周笔畅演唱会超清"},
-{"n":"Z郑中基","v":"郑中基演唱会超清"},
-{"n":"Z张艺兴","v":"张艺兴演唱会超清"},
-{"n":"Z张震岳","v":"张震岳演唱会超清"},
-{"n":"Z张雨生","v":"张雨生演唱会超清"},
-{"n":"Z郑智化","v":"郑智化演唱会超清"},
-{"n":"Z卓依婷","v":"卓依婷演唱会超清"},
-{"n":"Z中岛美雪","v":"中岛美雪演唱会超清"}
-        ]
-          },
-      {
-        "key": "duration",
-        "name": "时长",
-        "value": [
-          {
-            "n": "全部",
-            "v": "0"
-          },
-          {
-            "n": "60分钟以上",
-            "v": "4"
-          },
-          {
-            "n": "30~60分钟",
-            "v": "3"
-          },
-          {
-            "n": "10~30分钟",
-            "v": "2"
-          },
-          {
-            "n": "10分钟以下",
-            "v": "1"
-          }
-        ]
-      }
-    ]
-  }
+  ]
 }
