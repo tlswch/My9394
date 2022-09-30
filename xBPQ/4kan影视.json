@@ -1,0 +1,11 @@
+{
+  "key": "csp_xb_4kanys",
+  "name": "4kan影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---/",
+  "jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/jar-1/XBiu.jar"
+},
