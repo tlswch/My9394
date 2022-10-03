@@ -1,5 +1,6 @@
 {
   "sites": [
+ {"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
  {
   "key": "csp_xb_jpys",
   "name": "极品影视(R)",
