@@ -28,7 +28,7 @@
 {"key":"csp_xp_完美看看","name":"完美看看","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8bXPathMac.json"},
 {"key":"csp_xp_电影牛","name":"电影牛","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%94%b5%e5%bd%b1%e7%89%9b.json"},
 {"key":"csp_xp_豆角网","name":"豆角网","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b1%86%e8%a7%92%e7%bd%91.json"},
-
+{"key":"csp_xpath_heihu","name":"黑狐 (XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 
 
 
