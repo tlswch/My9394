@@ -16,6 +16,22 @@
 {"key": "csp_xb_爱酷酷","name":"®️爱酷酷",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 {"key":"csp_xb_达龟",  "name": "®️达达龟",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 
+{"key":"csp_xp_万能","name": "万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86%e7%bb%bcxp.json"},
+{"key":"csp_xp_007","name": "零零七影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"},
+{"key":"csp_xp_348电影网","name":"348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/348.json"},
+{"key":"csp_xp_94","name":"94神马","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/94%e7%a5%9e%e9%a9%ac.json"},
+{"key":"csp_xp_99","name":"久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/99%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_xp_UM","name":"UM影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/UM%e5%bd%b1%e9%99%a2.json"},
+{"key":"csp_xp_cokemv","name":"cokemv","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/cokemv.json"},
+{"key":"csp_xp_Bttoo","name":"两个BT","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%a4%e4%b8%aaBT.json"},
+{"key":"csp_xp_剧白白","name":"剧白白","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
+{"key":"csp_xp_完美看看","name":"完美看看","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8bXPathMac.json"},
+{"key":"csp_xp_电影牛","name":"电影牛","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%94%b5%e5%bd%b1%e7%89%9b.json"},
+{"key":"csp_xp_豆角网","name":"豆角网","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b1%86%e8%a7%92%e7%bd%91.json"},
+
+
+
+
 {"key":"csp_xbb_剧白白","name":"🅱️剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
 {"key":"dr_人人影视","name":"🏄人人影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0}, 		
 {"key": "csp_xb_vofixs","name":"®️vofixHD","type": 3,"api":"csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
