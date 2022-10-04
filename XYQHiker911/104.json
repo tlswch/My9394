@@ -10,7 +10,7 @@
 
 
 
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1004_mac2.jar",
+//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1004_mac2.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
