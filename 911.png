@@ -30,7 +30,8 @@
 {"key":"csp_xp_电影牛","name":"电影牛","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%94%b5%e5%bd%b1%e7%89%9b.json"},
 {"key":"csp_xp_豆角网","name":"豆角网","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b1%86%e8%a7%92%e7%bd%91.json"},
 {"key":"csp_xpath_heihu","name":"黑狐 (XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
-
+{"key":"csp_xpath_工人","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/suanjin/tv/raw/master/main/MaooXP/gongreng.json"},
+{"key": "csp_xpath_旧梦影视","name": "旧梦影视(XPMF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/suanjin/tv/raw/master/main/MaooXP/旧梦影视.json"},
 
 
 {"key":"csp_xbb_剧白白","name":"🅱️剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
@@ -128,8 +129,9 @@
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
+"spider":"https://notabug.org/suanjin/tv/raw/master/TVJAR/Yoursmile.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b",   
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911.jar;md5;D3E46201839B49C1FD537D6EADF9549F",
+//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911.jar;md5;D3E46201839B49C1FD537D6EADF9549F",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "parses":[
