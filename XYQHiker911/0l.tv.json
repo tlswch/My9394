@@ -6,7 +6,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/小纸条.json"
     },
     {
       "key": "Upyunso",
@@ -17,7 +17,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/Upyunso.json"
     },
     {
       "key": "FindZY",
@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/FindZY.json"
     },
     {
       "key": "AliPS",
@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/AliPS.json"
     },
     {
       "key": "csp_Yiso",
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/csp_Yiso.json"
     },
     {
       "key": "push_agent",
@@ -57,5 +57,5 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvbox99tv/qi169.json"
+      "ext": "clan://tvbox99tv/push_agent.json"
     },
