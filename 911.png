@@ -26,9 +26,7 @@
 //{"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_TV云播","name":"TV云播(dr)","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
-
 //==================================xpath==================================================================
-
 {"key": "csp_xpath_UM","name": "UM影院(XPMF)", "type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://agit.ai/ceshi01/TVBox01/raw/branch/main/XPathMacFilter/UM.json"},
 {"key": "csp_xpath_fantuan","name": "饭团HD(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xp_万能","name": "万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86%e7%bb%bcxp.json"},
@@ -47,9 +45,7 @@
 {"key":"csp_xpath_heihu","name":"黑狐 (XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 {"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/gongren.json"},
 {"key":"csp_xp_nmys","name":"👨‍🌾农民影视(XP)","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/nmys.json"},
-
 //==================================XBiubiu==================================================================
-
 {"key":"csp_xbb_AB影院","name":"🆎影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_xb_ysgc", "name": "®️工厂(R)",  "type": 3,  "api": "csp_XBiu",  "searchable": 1, "quickSearch": 1, "filterable": 0,  "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 {"key": "csp_xb_lx","name":"®️冷曦", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
@@ -66,9 +62,7 @@
 {"key": "csp_xb_饭团", "name":"®️饭团","type": 3,"api":"csp_XBiu","searchable": 1, "quickSearch": 1,"filterable": 0,  "ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 {"key": "csp_xb_段友",  "name": "®️段友",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 {"key":"csp_xbb_31看影视","name":"🅱️31看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/31%e7%9c%8b%e5%bd%b1%e8%a7%86XB.json"},
-
 //==================================xBPQ==================================================================
-
 {"key":"csp_xBPQ_素白白","name":"🍀素白白","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"},
 {"key": "csp_xBPQ_段友影院","name": "段友影院(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 {"key":"csp_xBPQ_um","name":"UM影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"},
@@ -86,9 +80,7 @@
 {"key":"csprp123","name":"RENPE影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/RENPE.json"},
 {"key": "csp_xb_mzt",  "name": "®️莫扎兔",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key": "csp_xb_543",  "name":"®️543影院",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
-
 //==================================XYQHiker==================================================================
-
 {"key": "csp_xf_PR","name": "️🐋PR影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/pc123.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_0926.jar"},
 {"key": "csp_xf_子子","name": "️🦀子子影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%ad%90%e5%ad%90%e5%bd%b1%e8%a7%86.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_0926.jar"},
 {"key": "csp_xf_naifeiya","name": "️鸭鸭奈非","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1003.jar"},
@@ -99,9 +91,7 @@
 {"key": "csp_xf_疯狗","name": "️疯狗影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%96%af%e7%8b%97%e5%bd%b1%e9%99%a2.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1003.jar"},
 {"key": "csp_xf_狂人","name": "️狂人看片","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%9c%8b%e7%89%87%e7%8b%82%e4%ba%ba.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1003.jar"},
 {"key": "csp_xf_宝仙tv","name": "️宝仙​HD","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%ae%9d%e4%bb%99HD.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1003.jar"},
-
 //==================================采集资源==================================================================
-
 {"key":"江湖官采","name":"江湖官采","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"北雁资源","name":"北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
 {"key":"csp_appysv2_独优","name":"独优影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
@@ -123,9 +113,7 @@
 {"key":"土狗360","name":"土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"尘云影视","name":"尘云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"QC 影视","name":"QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
-
 //==================================Bili==================================================================
-
 {"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"少儿教育","name":"👪少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%84%bf%e7%ab%a5.txt"},
 {"key":"小学课堂","name":"🙅‍♂️小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%b0%8f%e5%ad%a6.txt"},
@@ -135,9 +123,7 @@
 {"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%ad%8c%e6%9b%b2.json"},
 {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json"},
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"},
-
 //==================================盘搜==================================================================
-
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
