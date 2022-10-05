@@ -1,0 +1,22 @@
+{
+"key": "csp_xBPQ_皮皮泡影视",
+"name": "皮皮泡影视",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"0\",
+\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+\"分类\":\"国产剧$13#电视剧$dianshiju#动漫$dongman#电影$dianyin#综艺$zongyi#纪录片$jilupian\",
+\"分类url\":\"https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.htmll\",
+\"年份\":\"2000-2022\",
+\"筛选\":\"0\"
+}",
+
+"jar":"clan://xBPQ.jar"},
