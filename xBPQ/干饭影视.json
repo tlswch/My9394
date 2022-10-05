@@ -1,0 +1,22 @@
+{
+"key": "csp_xBPQ_干饭影视",
+"name": "️️干饭影视",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"1\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"简介\": \"module-info-introduction-content&&</div>\",
+
+
+
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",
+\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",
+\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}",
+"jar":"clan://xBPQ.jar"
+},
