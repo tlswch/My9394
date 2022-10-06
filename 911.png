@@ -97,6 +97,9 @@
 {"key":"铭轩影视","name":"铭轩影视┃App","type":1,"api":"http://lz0716.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"小猫咪","name":"小猫咪┃官","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"诺讯资源┃官","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_appysv2_天空TV","name":"天空TV┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+{"key":"csp_appysv2_佳佳影视","name":"佳佳影视┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
+{"key":"csp_appysv2_醉璃笙TV","name":"醉璃笙TV┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"},
 {"key":"海玉影视","name":"海玉影视┃App","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"阿里影视","name":"阿里影视┃App","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MX 影院","name":"MX影院┃App","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -107,9 +110,13 @@
 {"key":"幻风影视","name":"幻风影视┃App","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"土狗2345","name":"土狗2345┃官","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"土狗360","name":"土狗360┃官","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"龙腾资源","name":"龙腾资源┃App","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"尘云影视","name":"尘云影视┃App","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"csp_AppYsV2","name":"优众影视┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"QC 影视","name":"QC影视┃App","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_渔渔影视","name":"渔渔影视┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"key":"csp_appysv2_369TV","name":"369TV┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"},
+
 //==================================Bili==================================================================
 {"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"少儿教育","name":"👪少儿教育┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%84%bf%e7%ab%a5.txt"},
