@@ -4,6 +4,7 @@
 {"key": "csp_MGTV","name":" 🍋芒果视频┃官", "type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name":"🥝爱奇艺视频┃官","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_QQ","name": "  🐧腾讯视频┃官","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_voflix","name": "🌀voflix.HD","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"},
 {"key": "csp_Sp快看","name":"👀快看影视┃Sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_PQ_lgyy","name":"蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%93%9d%e5%85%89TV.json"},
 {"key":"csp_biu_饭团","name":"饭团影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaolelek/TVBOXjk/raw/branch/master/json/%e9%a5%ad%e5%9b%a2.json"},
@@ -46,6 +47,7 @@
 {"key":"csp_xp_gongreng","name":"👷工人影视┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/gongren.json"},
 {"key":"csp_xp_nmys","name":"🌾农民影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/nmys.json"},
 //==================================XBiubiu==================================================================
+{"key":"csp_biu_旧梦影视","name":"旧梦影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/jmys.json"},
 {"key":"csp_xbb_AB影院","name":"🆎影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_xb_ysgc", "name": "®️工厂┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1, "quickSearch": 1, "filterable": 0,  "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
 {"key": "csp_xb_lx","name":"®️冷曦┃XBiuR", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
