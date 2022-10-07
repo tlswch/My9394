@@ -31,6 +31,11 @@
 //==================================xpath==================================================================
 {"key": "csp_xp_jLgyy","name": "▶️蓝光影院","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_xpath_rttks","name":"人人影视ks┃xpath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%ba%ba%e4%ba%barttks.json"},
+{"key":"csp_xpath_miaomiao","name":"喵喵┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.134584.xyz/0907/miaomiao.json"},
+{"key":"csp_xpath_hyingku","name":"海影库┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.134584.xyz/0907/hyingku.json"},
+{"key": "csp_xpath_dm84","name":"动漫巴士┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://js.134584.xyz/0907/dm84.json"},
+{"key":"csp_xpath_17skr","name":"路漫漫动漫┃XPMF","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://js.134584.xyz/0907/17skr.json"},
+{"key": "csp_xpath_美剧虫","name":"美剧虫┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://js.134584.xyz/0907/MJC.json"},
 {"key": "csp_xpath_UM","name": "UM影院┃XPMF", "type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://agit.ai/ceshi01/TVBox01/raw/branch/main/XPathMacFilter/UM.json"},
 {"key": "csp_xpath_fantuan","name": "饭团HD┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xp_万能","name": "万能影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86%e7%bb%bcxp.json"},
