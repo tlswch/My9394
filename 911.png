@@ -230,6 +230,7 @@
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+{"key":"csp_xpath_clss","name":"🧲磁搜","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"},
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
