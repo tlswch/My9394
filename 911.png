@@ -6,6 +6,7 @@
 {"key": "csp_QQ","name": "  🐧腾讯视频┃官","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_voflix","name": "🌀voflix.HD","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"},
 {"key": "csp_Sp快看","name":"👀快看影视┃Sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Relax","name": "轻松视频","type": 3,"api": "csp_RelaxSP","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "68747470733A2F2F792E7173617070323233332E6D65"}
 {"key":"csp_PQ_lgyy","name":"蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%93%9d%e5%85%89TV.json"},
 {"key":"csp_biu_饭团","name":"饭团影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaolelek/TVBOXjk/raw/branch/master/json/%e9%a5%ad%e5%9b%a2.json"},
 {"key":"csp_b_wukong","name":"悟空影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaolelek/TVBOXjk/raw/branch/master/json/wukong.json"},
