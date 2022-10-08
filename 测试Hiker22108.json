@@ -18,7 +18,7 @@
 {"key": "csp_XYQ_狂人","name": "️狂人看片┃Hiker","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%9c%8b%e7%89%87%e7%8b%82%e4%ba%ba.json"},
 {"key": "csp_SM_91pian","name": "️宝片视频","type": 3,"api":"csp_XYQHiker","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%ae%9d%e7%89%87%e8%a7%86%e9%a2%91.json"}
 ],
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1007.jar;md5;6BD5CEE97B43F0D7F1D7E8742F5F5F3F",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1007.jar;md5;3444C48682B48D6752668E923B8DBCBE",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
