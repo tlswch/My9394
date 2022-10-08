@@ -7,7 +7,7 @@
 {"key": "csp_Sp快看","name":"👀快看影视┃Sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp苹果","name":"🍎小苹果视频┃Sp","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_LibVio","name":"🔷LibVio┃Sp","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_voflix","name": "🌀voflix.HD","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"},
+{"key":"csp_voflix","name": "🌀voflix┃HD","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"},
 {"key":"csp_XYQBiu","name":"🛸凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/QXBiubiu/%e5%87%8c%e4%ba%91%e5%bd%b1%e8%a7%86.json"},
 {"key":"csp_XYQ_e9","name":"🍃E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/QXBiubiu/99e.json"},
 {"key":"csp_PQ_lgyy","name":"蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%93%9d%e5%85%89TV.json"},
