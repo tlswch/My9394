@@ -168,8 +168,8 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
-"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
+//"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
