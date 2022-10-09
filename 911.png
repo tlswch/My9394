@@ -1,7 +1,7 @@
 {
   "sites": [
 {"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
-{"key":"csp_XBiu_星空","name":"星空影院┃XBiuR","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBiu.jar"},
+{"key":"csp_XBiu_星空","name":"星空影院┃XBiuR","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key":"360_spider","name":"💘360影视┃官","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_MGTV","name":" 🍋芒果视频┃官", "type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name":"🥝爱奇艺视频┃官","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -234,7 +234,7 @@
 {"key": "dr_drpy","name": "drpy┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=drpy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "dr_番茄影视","name": "番茄影视┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=番茄影视","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_玄天","name": "玄天┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=玄天","searchable": 2,"quickSearch": 0,"filterable": 0},
-{"key": "dr_菜狗","name": "菜狗(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=菜狗","searchable": 2,"quickSearch": 0,"filterable": 1},
+{"key": "dr_菜狗","name": "菜狗┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=菜狗","searchable": 2,"quickSearch": 0,"filterable": 1},
 {"key": "dr_人人影视","name": "人人影视┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=人人影视","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_007影视","name": "007影视┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=007影视","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_凌云影视","name": "凌云影视┃dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=凌云影视","searchable": 0,"quickSearch": 0,"filterable": 0},
