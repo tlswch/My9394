@@ -72,7 +72,7 @@
 {"key": "csp_biu_骚火","name": "🔥骚火电影┃XBiu","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"},
 {"key":"csp_xbb_AB影院","name":"🆎影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_xb_ysgc", "name": "®️工厂┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1, "quickSearch": 1, "filterable": 0,  "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key": "csp_xb_lx","name":"®️冷曦┃XBiuR", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html","jar":""},
+{"key": "csp_xb_lx","name":"®️冷曦┃XBiuR", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html},
 {"key": "csp_xb_番茄","name":"®️番茄┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
 {"key": "csp_xb_爱酷酷","name":"®️爱酷酷┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
 {"key":"csp_xb_达龟",  "name": "®️达达龟┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
