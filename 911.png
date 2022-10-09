@@ -88,7 +88,7 @@
 {"key": "csp_xb_段友",  "name": "®️段友┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_biubiu_达达龟","name":"达达龟┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%be%be%e8%be%be%e9%be%9f.json"},
 {"key":"csp_xbb_31看影视","name":"🅱️31看影视┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/31%e7%9c%8b%e5%bd%b1%e8%a7%86XB.json"},
-{"key": "csp_xb_4kan","name": "4kan影视┃XBiuR","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---/"},
+{"key": "csp_xb_4kan","name": "4kan影视┃XBiuR","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---."},
 { "key": "csp_大师兄","name": "大师兄┃XBiuR","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 //==================================QXBiu==================================================================
 {"key": "csp_XYQBiu_凌云影视", "name": "凌云影视┃XYQ", "type": 3,  "api": "csp_XYQBiu", "searchable": 1,  "quickSearch": 1, "filterable": 0, "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e5%87%8c%e4%ba%91%e5%bd%b1%e8%a7%86.json" },
