@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
+//{"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
 //{"key":"csp_XBiu_星空","name":"星空影院┃XBiuR","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key":"360_spider","name":"💘360影视┃官","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_MGTV","name":" 🍋芒果视频┃官", "type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -188,9 +188,8 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
-"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
+"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar;md5;F986344CC3A8DB05BAB25E8E4BE8010B",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
