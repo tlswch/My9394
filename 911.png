@@ -18,6 +18,7 @@
 {"key":"csp_PQ_皮皮","name":"皮泡影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1%e5%bd%b1%e8%a7%86.json"}, 
 {"key":"csp_XBiu_","name":"鸭奈飞┃XBiuR","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflix.mom/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiu_","name":"电影迷┃XBiuR","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dym8.com/vod/type/{cateId}-{catePg}.html"},
+ {"key":"csp_Dy555","name":"555影视┃Sp","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_Bttoo","name":"✌两个BT┃Sp","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Sp_AppTT","name":"图图影视┃Sp","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_gbBd","name":"哔嘀影视┃Sp","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
