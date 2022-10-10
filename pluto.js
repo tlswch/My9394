@@ -1,6 +1,6 @@
 {
 "sites":[
-{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
  //==================================pluto.js版======================================================================================================================================================================================================
 {"key": "牛马TV(DR)","name": "牛马TV[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/牛马TV.js"},
 {"key": "酷云77(DR)","name": "酷云77[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/酷云77.js"},
