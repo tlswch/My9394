@@ -2,7 +2,7 @@
 "sites":[
 //{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
  //==================================pluto.js版======================================================================================================================================================================================================
-{"key": "牛马TV(DR)","name": "牛马TV[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/牛马TV.js"},
+{"key": "牛马TV(DR)","name": "牛马TV[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%89%9b%e9%a9%acTV.js"},
 {"key": "酷云77(DR)","name": "酷云77[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/酷云77.js"},
 {"key": "LIBVIO(DR)","name": "LIBVIO[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
 {"key": "555影视(DR)","name": "555影视[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"},
