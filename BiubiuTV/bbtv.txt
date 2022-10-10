@@ -43,10 +43,9 @@
 ],
 
 "zhujiexi":[
-{"name":"解析01","url":"https://json.5lp.net/json.php?url="},
-{"name":"解析02","url":"http://api.vip123kan.vip/?url="},
-{"name":"解析03","url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="},
-{"name":"解析04","url":"http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url="},
+{"name":"解析01","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+{"name":"解析02","url":"http://newjiexi.gotka.top/keyu3.php?url="},
+{"name":"解析03","url":"http://119.91.206.244:9999/jx/hfys.php?url="},
 {"name":"rx","url":"https://rx.bt5v.com/json/jsonindex.php/?url="}
 ], 
 
@@ -69,7 +68,7 @@
 {"name":"备解16","url":"https://svip.bljiex.cc/?v="}
 ],
 
-"dianshizhibo":"https://image.api.losfer.cn/down.php/b8441b70d90878c5e2f44805e55a9e95.txt&159357",
+"dianshizhibo":"https://m.zhibo8.net",
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
