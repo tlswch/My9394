@@ -4,6 +4,7 @@
  //==================================pluto.js版======================================================================================================================================================================================================
 {"key": "牛马TV(DR)","name": "牛马TV[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/牛马TV.js"},
 {"key": "酷云77(DR)","name": "酷云77[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/酷云77.js"},
+{"key": "LIBVIO(DR)","name": "LIBVIO[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
 {"key": "555影视(DR)","name": "555影视[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"},
 {"key": "追剧喵(DR)","name": "追剧喵[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/追剧喵.js"},
 {"key": "玄天(DR)","name": "玄天[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/玄天.js"},
@@ -19,7 +20,6 @@
 {"key": "爱奇艺(DR)","name": "爱奇艺[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/奇珍异兽.js"},
 {"key": "优酷(DR)","name": "优酷[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/优酷.js"},
 {"key": "搜狗(DR)","name": "搜狗[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/菜狗.js"},
-{"key": "LIBVIO(DR)","name": "LIBVIO[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
 {"key": "鸭奈飞(DR)","name": "鸭奈飞[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/鸭奈飞.js"},
 {"key": "蓝光影院(DR)","name": "蓝光影院[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/蓝光影院.js"},
 {"key": "万能影视(DR)","name": "万能影视[JS]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/万能影视.js"}
