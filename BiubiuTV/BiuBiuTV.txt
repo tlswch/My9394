@@ -156,8 +156,10 @@
       "qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"
     }
   ],
-"guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#player#cnzz.com#cc/vodplay#muiplayer",
-  "zhujiexi": "http://newjiexi.gotka.top/keyu3.php?url=#http://119.91.206.244:9999/jx/hfys.php?url=#https://rx.bt5v.com/json/jsonindex.php/?url=",
+
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",  
+"zhujiexi": "http://newjiexi.gotka.top/keyu3.php?url=#http://119.91.206.244:9999/jx/hfys.php?url=#https://rx.bt5v.com/json/jsonindex.php/?url=",
   "beiyongjiexi": "https://dm.xmflv.com:4433/?url=#https://www.yemu.xyz/?url=#http://42.193.18.62:9999/analysis.php?v=#https://vipjx.cc/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.aidouer.net/?url=#https://svip.bljiex.cc/?v=#https://bd.jx.cn/vip/?url=#https://z1.m1907.cn/?jx=#https://vip.2ktvb.com/player/?url=",
   "dianshizhibo": "",
   "tiyuzhibo": "https://m.zhibo8.net",
