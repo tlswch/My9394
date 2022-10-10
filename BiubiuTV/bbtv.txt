@@ -1,7 +1,7 @@
 {"Home": [
-{"key":"APP","title":"APP","pic":"https://pic.netbian.com/uploads/allimg/220716/001159-1657901519eb96.jpg"},
-{"key":"网页","title":"网页","pic":"https://pic.netbian.com/uploads/allimg/220716/000946-16579013861fe3.jpg"},
 {"key":"采集","title":"采集站","pic":"https://pic.netbian.com/uploads/allimg/220716/000857-1657901337b7b9.jpg"},
+{"key":"网页","title":"网页","pic":"https://pic.netbian.com/uploads/allimg/220716/000946-16579013861fe3.jpg"},
+{"key":"APP","title":"APP","pic":"https://pic.netbian.com/uploads/allimg/220716/001159-1657901519eb96.jpg"},
 {"key":"直播","title":"直播","pic":"https://pic.netbian.com/uploads/allimg/220715/235203-16579003239a93.jpg"},
 {"key":"历史","title":"历史","pic":"https://pic.netbian.com/uploads/allimg/220421/225912-16505531526c39.jpg"},
 {"key":"收藏","title":"收藏","pic":"https://pic.netbian.com/uploads/allimg/220206/161011-16441350118bb4.jpg"},
@@ -24,9 +24,9 @@
 ],
 
 "caijizhan": [
-{"name":"77","url":"http://api.kunyu77.com/api.php"},
-{"name":"多多资源","url":"https://www.ddzyz1.com/api.php"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"},
+{"name":"多多资源","url":"https://www.ddzyz1.com/api.php"},
+{"name":"77","url":"http://api.kunyu77.com/api.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php"},
 {"name":"晓辉资源","url":"https://www.xhzy01.com/api.php"},
 {"name":"老子采集","url":"http://cj.lziapi.com/api.php"},
