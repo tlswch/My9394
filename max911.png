@@ -112,6 +112,8 @@
 {"key":"csp_xbb口袋影院","name":"🥑口袋影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_biubiu_达达龟","name":"🥑达达龟┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%be%be%e8%be%be%e9%be%9f.json"},
 //==================================XBiuR==================================================================
+{key:'csp_xb_lgyy","name":"🥑蓝光影院┃XBiuR","type:3,api:'csp_XBiu',searchable:1,quickSearch:1,filterable:0,ext:'https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{key:'csp_xb_luozhu","name":"🥑乐猪影视┃XBiuR","type:3,api:'csp_XBiu',searchable:1,quickSearch:1,filterable:0,ext:'http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
 {"key": "csp_xb_vofixs","name":"🥑vofixHD┃XBiuR","type": 3,"api":"csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,  "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
 {"key": "csp_xb_饭团", "name":"🥑饭团影视┃XBiuR","type": 3,"api":"csp_XBiu","searchable": 1, "quickSearch": 1,"filterable": 0,  "ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
 {"key": "csp_xb_段友",  "name": "🥑段友影视┃XBiuR",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
