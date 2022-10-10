@@ -72,7 +72,7 @@
 {"name": "GGTV你啊","type":1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},
 {"name":"ckplayer","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name": "kuanjv","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
-{"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+//{"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"托乌","type":0,"url":"https://jx.ppjbk.cn/?url="},
 {"name":"icu","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1362243&key=acfgklqwFLMORSTVZ6&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","bilibili","ltnb","renrenmi"]}},
 {"name":"kumyun","type":1,"url":"http://www.kumyun.cn/home/api?type=ys&uid=12970&key=eopDJKLMNPSTVXY015&url="},
