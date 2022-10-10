@@ -51,7 +51,7 @@
 {"key": "drpy_js_1080P_2","name": " 1080P┃DRPY2","type": 3,"api": "  https://github.com/heroaku/TVboxo/raw/main/drpy/drpy.js","ext": " https://github.com/heroaku/TVboxo/raw/main/Js/1080P.js"},
 {"key": "drpy_js_AnFunsC_2","name": " AnFuns┃DRPY2","type": 3,"api": " https://github.com/heroaku/TVboxo/raw/main/drpy/drpy.js","ext": " https://github.com/heroaku/TVboxo/raw/main/Js/AnFuns.js"}
 ],
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
