@@ -1,6 +1,6 @@
 {
 "sites":[
-{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
  //==================================js版======================================================================================================================================================================================================
 {"key": "drpy_js_360影视","name": " 360影视┃DRPY","type": 3,"api": " https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": " https://github.com/heroaku/TVboxo/raw/main/Js/360影视.js"},
 {"key": "drpy_js_555影视","name": " 555影视┃DRPY","type": 3,"api": " https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": " https://github.com/heroaku/TVboxo/raw/main/Js/555影视.js"},
@@ -99,7 +99,7 @@
 {"name": "GGTV你啊","type":1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},
 {"name":"ckplayer","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name": "kuanjv","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
-{"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+//{"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"托乌","type":0,"url":"https://jx.ppjbk.cn/?url="},
 {"name":"icu","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1362243&key=acfgklqwFLMORSTVZ6&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","bilibili","ltnb","renrenmi"]}},
 {"name":"kumyun","type":1,"url":"http://www.kumyun.cn/home/api?type=ys&uid=12970&key=eopDJKLMNPSTVXY015&url="},
