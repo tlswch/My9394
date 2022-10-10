@@ -1,0 +1,1 @@
+https://notabug.org/qizhen15800/My9394/raw/master/max22108.json
