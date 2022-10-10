@@ -9,6 +9,7 @@
 {"key": " py_bilimd","name": " 哔哩影视┃PY","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_bilimd.py"},
 {"key": " py_中医药","name": " 中医药┃PY","type": 3,"api": "py_中医药","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%8c%bb%e8%8d%af.py"},
 {"key": " py_中国文化","name": " 中国文化┃PY","type": 3,"api": "py_中国文化","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%9b%bd%e6%96%87%e5%8c%96.py"},
+{"key": " py_yixi","name": " 一席┃PY","type": 3,"api": "py_yixi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"},
 {"key": " py_3qu","name": " 快播影视┃PY","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_3qu.py"},
 {"key": "py_zxzj","name": " 在线之家┃PY","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_zxzj.py"},
 {"key":"py_lezhu","name":"乐猪影视┃PY","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/py_lezhu.py"},
