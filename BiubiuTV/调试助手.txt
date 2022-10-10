@@ -8,7 +8,6 @@
 {"key":"推送","title":"推送","pic":"https://pic.netbian.com/uploads/allimg/211222/213101-16401798611c4d.jpg"},
 {"key":"待添加","title":"待添加","pic":"https://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"}
 ],
-
 "zhuyejiekou": [
 {"name":"佳佳影视","url":"https://www.jiajia.pub/api.php/v1.vod"},
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
@@ -27,7 +26,6 @@
 {"name":"优众影视","url": "http://121.205.88.194:7878/xgtv.php/v1/"},
 {"name":"爱影视","url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"}
 ],
-
 "caijizhan": [
 {"name":"量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"},
@@ -77,7 +75,7 @@
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
-"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
+"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 
 "zidingyi": [
