@@ -1,27 +1,14 @@
 {
   "sites": [
 //==================================XBiu==================================================================
-{"key":"csp_biu_旧梦影视","name":"旧梦影视┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/jmys.json"},
-{"key":"csp_biu_rr520","name":"人人520┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86520.json"},
-{"key": "csp_xb_ysgc", "name": "®️工厂┃XBiuR", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key": "csp_xb_lx","name":"®️冷曦┃XBiuR", "type": 3, "api":"csp_XBiu","searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html},
-{"key": "csp_xb_番茄","name":"®️番茄┃XBiuR", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
-{"key": "csp_xb_爱酷酷","name":"®️爱酷酷┃XBiuR", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
-{"key":"csp_xb_达龟", "name": "®️达达龟┃XBiuR", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_biu_速搜影视","name":"速搜影视┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%80%9f%e6%90%9c%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_biubiu_23影院","name":"2️⃣23影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/23%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_biubiu_骚火电影","name":"骚火电影┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"},
-{"key":"csp_biubiu_VIP1280","name":"Vip电影┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/VIP1280.json"},
-{"key":"csp江湖影院","name":"江湖影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e6%b1%9f%e6%b9%96.json"},
-{"key":"csp_xbb_剧白白","name":"🅱️剧白白┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89XB.json"},
-{"key":"csp_xbb口袋影院","name":"口袋影院┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"},
-{"key": "csp_xb_vofixs","name":"®️vofixHD┃XBiuR","type": 3,"api":"csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
-{"key": "csp_xb_饭团", "name":"®️饭团┃XBiuR","type": 3,"api":"csp_XBiu","searchable": 1, "quickSearch": 1,"filterable": 0, "ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
-{"key": "csp_xb_段友", "name": "®️段友┃XBiuR", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_biubiu_达达龟","name":"达达龟┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%be%be%e8%be%be%e9%be%9f.json"},
-{"key":"csp_xbb_31看影视","name":"🅱️31看影视┃XBiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/31%e7%9c%8b%e5%bd%b1%e8%a7%86XB.json"},
-{"key": "csp_xb_4kan","name": "4kan影视┃XBiuR","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---/"}
-
+{"key": "csp_xb_lgyy","name": " 蓝光影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key": "csp_xb_aiku","name": " 爱酷影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
+{"key": "csp_xb_luozhu","name": " 乐猪(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
+{"key": "csp_xb_shm","name": " 神马影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
+{"key": "csp_xb_qsp","name": " 氢视频(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
+{"key": "csp_xb_fg","name": " 疯狗影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
+{"key": "csp_xb_huix","name": " 回响(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
+{"key": "csp_xb_aikan ","name": "爱看影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
