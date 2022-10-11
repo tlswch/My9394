@@ -1,7 +1,8 @@
 {
   "sites": [
 //==================================python========================================================================   
-{"key": "t4public","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
+//{"key": "t4public","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "Gitcafe","name": "🔖小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
 {"key": "FindZY","name": "📇找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
 {"key": "Upyunso","name": "🌤UP云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
