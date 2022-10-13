@@ -1,5 +1,5 @@
 {
-  "sites": [
+"sites": [
 {"key": "csp_Bili","name":"视频合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e5%93%94%e5%93%a9%e5%90%88%e9%9b%86.json"},
 {"key": "csp_Bili","name":"美食合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%be%8e%e9%a3%9f.json"},
 {"key":"csp_Bili","name":"演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e9%9f%b3%e4%b9%90%e7%8e%b0%e5%9c%ba.json"},
@@ -17,7 +17,7 @@
 {"key":"csp_Bili","name":"🎈国粹戏曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"},
 {"key":"csp_Bili","name": "体育合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%bd%93%e8%82%b2.json"},
 {"key":"csp_Bili","name": "球类合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%90%83%e7%b1%bb.json"},
-{"key":"csp_Bili","name": "棋牌娱乐┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/uncle_ven/tvbox/raw/branch/master/bili/棋牌.json"},
+{"key":"csp_Bili","name": "棋牌娱乐┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e6%a3%8b%e7%89%8c.json"},
 {"key":"csp_Bili","name": "教程合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e6%95%99%e7%a8%8b.json"},
 {"key":"csp_看视频","name":"短视频┃合集","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%9f%ad%e8%a7%86%e9%a2%91.json"}
 ],
