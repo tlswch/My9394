@@ -19,7 +19,8 @@
 {"key":"csp_Bili","name": "球类合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%90%83%e7%b1%bb.json"},
 {"key":"csp_Bili","name": "棋牌娱乐┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/uncle_ven/tvbox/raw/branch/master/bili/棋牌.json"},
 {"key":"csp_Bili","name": "教程合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e6%95%99%e7%a8%8b.json"},
-{"key":"csp_看视频","name":"短视频┃合集","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%9f%ad%e8%a7%86%e9%a2%91.json"}]
+{"key":"csp_看视频","name":"短视频┃合集","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%9f%ad%e8%a7%86%e9%a2%91.json"}
+],
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
