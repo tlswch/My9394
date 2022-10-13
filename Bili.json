@@ -6,7 +6,7 @@
 {"key":"高中教育","name":"🤷‍♂️高中课堂┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e9%ab%98%e4%b8%ad.txt"},
 {"key":"csp_哔哩","name":"视频合集┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e5%93%94%e5%93%a9%e5%90%88%e9%9b%86.json"},
 {
-  "key": "csp_哔哩",
+  "key": "csp_美食",
   "name": "美食合集┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -16,7 +16,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%be%8e%e9%a3%9f.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_演唱会",
   "name": "演唱会┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -26,7 +26,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_歌曲MV",
   "name": "歌曲MV┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -36,7 +36,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%ad%8c%e6%9b%b2.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_相声小品",
   "name": "相声小品┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -56,7 +56,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_学堂教育",
   "name": "学堂教育┃合集",
   "type": 3,
   "api": "csp_Bili",
@@ -66,7 +66,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e5%ad%a6%e5%a0%82%e6%95%99%e8%82%b2.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_少儿教育",
   "name": "少儿教育┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -76,7 +76,7 @@
   "ext": "https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%84%bf%e7%ab%a5.txt"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_小学课堂",
   "name": "小学课堂┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -86,7 +86,7 @@
   "ext": "https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%b0%8f%e5%ad%a6.txt"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_初中课堂",
   "name": "初中课堂┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -96,7 +96,7 @@
   "ext": "https://agit.ai/qi169/My9394/raw/branch/master/json/%e5%88%9d%e4%b8%ad.txt"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_高中课堂",
   "name": "高中课堂┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -106,7 +106,7 @@
   "ext": "https://agit.ai/qi169/My9394/raw/branch/master/json/%e9%ab%98%e4%b8%ad.txt"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_演唱会",
   "name": "演唱会┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -116,7 +116,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e9%9f%b3%e4%b9%90%e7%8e%b0%e5%9c%ba.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_歌曲MV",
   "name": "歌曲MV┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -126,7 +126,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%ad%8c%e6%9b%b2.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_相声小品",
   "name": "相声小品┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -136,7 +136,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_国粹戏曲",
   "name": "国粹戏曲┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -146,7 +146,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_体育合集",
   "name": "体育合集┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -156,7 +156,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%bd%93%e8%82%b2.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_球类合集",
   "name": "球类合集┃哔哩",
   "type": 3,
   "api": "csp_Bili",
@@ -166,7 +166,7 @@
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/%e7%90%83%e7%b1%bb.json"
 },
 {
-  "key": "csp_哔哩",
+  "key": "csp_棋牌娱乐",
   "name": "棋牌娱乐┃哔哩",
   "type": 3,
   "api": "csp_Bili",
