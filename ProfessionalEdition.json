@@ -1,7 +1,7 @@
 {
   "sites": [
-{"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
-{"key":"csp_Bili戏曲","name":"🎈国粹戏曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"}
+{"key":"mtv_pc_完美","name":"完美看看┃SP","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
