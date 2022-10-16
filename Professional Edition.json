@@ -77,8 +77,6 @@
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
-]},
-
 ]}
 ],
 "wallpaper":"https://tool.weetai.cn/api",
