@@ -1,30 +1,17 @@
 {
   "sites": [
 //==================================xpath==================================================================
+{"key": "csp_xpath_fantuan","name": "饭团HD┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xp_libvio","name":"libvio┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"},
+{"key":"csp_xp_剧白白","name":"剧白白┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
 {"key": "csp_xp_jLgyy","name": "蓝光影院┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_xpath_rttks","name":"人人影视ks┃xpath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%ba%ba%e4%ba%barttks.json"},
-{"key":"csp_xpath_miaomiao","name":"喵喵┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%96%b5%e5%96%b5.json"},
-{"key":"csp_xpath_hyingku","name":"海影库┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e6%b5%b7%e5%bd%b1%e5%ba%93.json"},
+
 {"key": "csp_xpath_dm84","name":"动漫巴士┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"},
 {"key":"csp_xpath_17skr","name":"路漫漫动漫┃XPMF","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b7%af%e6%bc%ab%e6%bc%ab%e5%8a%a8%e6%bc%ab.json"},
-{"key": "csp_xpath_美剧虫","name":"美剧虫┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%be%8e%e5%89%a7%e8%99%ab.json"},
-{"key": "csp_xpath_UM","name": "UM影院┃XPMF", "type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/umkan.json"},
-{"key": "csp_xpath_fantuan","name": "饭团HD┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
-{"key":"csp_xp_万能","name": "万能影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86%e7%bb%bcxp.json"},
-{"key":"csp_xp_aiyingshis","name":"爱影视┃XPF","type":3, "api":"csp_XPathFilter","searchable":1,"quickSearch":1, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%88%b1%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xp_007","name": "零零七影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"},
-{"key":"csp_xp_348电影网","name":"348电影┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/348.json"},
-{"key":"csp_xp_94","name":"94神马┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/94%e7%a5%9e%e9%a9%ac.json"},
-{"key":"csp_xp_99","name":"久久影视┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/99%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xp_UM","name":"UM影视┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/UM%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_xp_cokemv","name":"cokemv┃xpath","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/cokemv.json"},
-{"key":"csp_xp_Bttoo","name":"两个BT┃xpath","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e4%b8%a4%e4%b8%aaBT.json"},
-{"key":"csp_xp_剧白白","name":"剧白白┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
-{"key":"csp_xp_完美看看","name":"完美看看┃XPMF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8bXPathMac.json"},
-{"key":"csp_xp_电影牛","name":"电影牛┃XPMF","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%94%b5%e5%bd%b1%e7%89%9b.json"},
-{"key":"csp_xp_豆角网","name":"豆角网┃XPMF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b1%86%e8%a7%92%e7%bd%91.json"},
+
+
 {"key":"csp_xpath_heihu","name":"黑狐┃xpath","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
+{"key":"csp_xp_007","name": "零零七影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"},
 {"key":"csp_xp_gongreng","name":"工人影视┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
