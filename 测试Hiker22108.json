@@ -2,7 +2,7 @@
   "sites": [
 {"key": "csp_XYQ_fantuanhd","name": "️饭团HD影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%a5%ad%e5%9b%a2HD.json"},  
 {"key": "csp_XYQ_czspp","name": "️厂长影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/czspp.json"},  
-{"key": "csp_XYQ_Auete","name": "️Auete影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/xyqh_Auete%e5%bd%b1%e8%a7%86.json"},
+{"key": "csp_XYQ_Auete","name": "️Auete影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/auete.org.json"},
 {"key": "csp_XYQ_jiujiu","name": "️jiujiu影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e4%b9%9d%e4%b9%9d_xyqhz_.json"},  
 {"key":"douban","name":"豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},  
 {"key": "csp_XYQ_ksksl","name": "️看了么影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%9c%8b%e4%ba%86%e4%b9%88.json"},
