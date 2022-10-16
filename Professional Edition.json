@@ -1,5 +1,5 @@
 {
-  "sites": [
+"sites": [
 {"key": "T4","name": "首页推荐┃爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"},
 {"key":"mtv_pc_完美","name":"完美看看┃SP","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Gitcafe","name": "🔖小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
@@ -8,7 +8,7 @@
 {"key": "csp_Yiso","name": "🔍易搜","type": 3,"api": "csp_Yiso", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
 {"key": "AliPS","name": "📀盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
 {"key": "push_agent","name": "📨推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"},
-
+{"key": "csp_xb_快看","name": "快看影视","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"},
 {"key": "csp_xpath_fantuan","name":"🌤️饭团HD影视┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key": "csp_xp_jLgyy","name": "🌤️蓝光影院┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_xp_剧白白","name":"🌤️剧白白影视┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
@@ -59,7 +59,7 @@
 {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}	
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
