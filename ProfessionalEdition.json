@@ -1,14 +1,18 @@
 {
   "sites": [
 //==================================xpath==================================================================
+{"key":"csp_xp_gongreng","name":"工人影视┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"},
 {"key": "csp_xpath_fantuan","name": "饭团HD┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xp_libvio","name":"libvio┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"},
 {"key":"csp_xp_剧白白","name":"剧白白┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
 {"key":"csp_xBPQ_达达龟","name":" 达达龟┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/ddgui.json"},	  	  
 {"key":"csp_xBPQ_饭团","name":" 饭团┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"},	  	
-{"key":"csp_xBPQ_厂长资源","name":" 厂长资源┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.json"},
-
-
+{"key":"csp_XBPQ真不卡","name":" 真不卡┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9c%9f%e4%b8%8d%e5%8d%a1.json"},
+{"key":"csp_XBPQ六度TV","name":" 六度TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LiuDuTV.json"},
+{"key":"csp_XBPQ皮皮泡影视","name":" 皮皮泡影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/PiPiPaoYs.json"},
+{"key":"csp_xBPQ_番茄影视","name":" 番茄影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/FanQieYs.json"},
+{"key":"csp_xBPQ_um影院", "name":"UM影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/UMYy.json"},
+{"key":"csp_XBPQ花猫TV","name":" 花猫TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"},
 {"key":"csp_xBPQ_1080在线","name":" 1080在线┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/1080%e5%9c%a8%e7%ba%bf.json"},
 {"key":"csp_xBPQ_素白白","name":"素白白┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"},
 {"key":"csp_xBPQ_蓝光影院","name":" 蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"},
@@ -16,17 +20,14 @@
 {"key":"csp_xBPQ_瓜皮TV","name":" 瓜皮TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/GuaPiTV.json"},
 {"key":"csp_xBPQ_Fositv","name":" Fositv ┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Fositv.json"},
 {"key":"csp_xBPQ_追剧猫","name":" 追剧猫┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%bf%bd%e5%89%a7%e7%8c%ab.json"},
-
-{"key": "csp_xpath_dm84","name":"动漫巴士┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"},
 {"key":"csp_xpath_17skr","name":"路漫漫动漫┃XPMF","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b7%af%e6%bc%ab%e6%bc%ab%e5%8a%a8%e6%bc%ab.json"},
-
-
 {"key":"csp_xpath_heihu","name":"黑狐┃xpath","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 {"key":"csp_xp_007","name": "零零七影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"},
-{"key":"csp_xp_gongreng","name":"工人影视┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"}
+{"key": "csp_xpath_dm84","name":"动漫巴士┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"}
 ],
+"spider": "./jar/top97.jar",
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
+//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
