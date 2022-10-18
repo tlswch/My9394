@@ -27,18 +27,7 @@
 ],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "spider": "./jar/top97.jar",
-//"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-"parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-],
-{"name":"💡奇米","type":1,"url":"https://qimihe.com/?url="}
-],
-"flags": ["youku","qq","iqiyi","qiyi","letv","le","sohu","tudou","pptv","mgtv","wasu","xigua","cntv","ltnb","rx","ppayun","CL4K","xfyun","wuduzy","renrenmi","duoduozy","zy1080","bilibili","RongXingVR","RongXing","LT","ltnb","wuduyun","wuduzy","xfy","muxm3u8","dbm3u8","canglan","le","m1905","niuxyun","xueren","789pan","1905","优播线路","腾播线路","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩","哔哩","西瓜","4k蓝光","内部蓝光"],
+
 "ijk":[
 {"group":"硬解码","options":[
 {"category":4,"name":"opensles","value":"0"},
