@@ -3,6 +3,7 @@
 //==================================xpath==================================================================
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_gongreng","name":"工人影视┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"},
+{"key": "csp_xBiu_爱看影视","name": " 爱看影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
 {"key": "csp_xpath_fantuan","name": "饭团HD┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xp_libvio","name":"libvio┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"},
 {"key": "csp_xBPQ_南瓜影视", "name": "南瓜影视", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page/{catePg}.html"},
@@ -25,7 +26,6 @@
 {"key":"csp_xpath_17skr","name":"路漫漫动漫┃XPMF","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e8%b7%af%e6%bc%ab%e6%bc%ab%e5%8a%a8%e6%bc%ab.json"},
 {"key":"csp_xpath_heihu","name":"黑狐┃xpath","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 {"key":"csp_xp_007","name": "零零七影视┃XPF","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"},
-{"key": "csp_xBiu_爱看影视","name": " 爱看影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
 {"key": "csp_xBPQ_8hysw", "name": "8hysw", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "http://www.8hysw.com/frim/{cateId}-{catePg}.html"},
 //==================================XBiu==================================================================
 {"key": "csp_xBPQ_美剧影视", "name": "美剧影视", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.yayameiju.com/frim/list{cateId}/page/{catePg}.html"},
