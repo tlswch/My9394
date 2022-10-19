@@ -70,6 +70,8 @@
 
 {"key": "csp_xb_蓝光1", "name":   "蓝光",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html" },
 
+{"key": "csp_xb_柠檬TV", "name":   "柠檬TV",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "http://www.lu1.cc/c/tv/sjtv/{cateId}.htm" },
+
 {"key": "csp_xb_黑洞1", "name":   "黑洞",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html" },
 {"key": "csp_xb_黑洞2", "name":   "黑洞",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.nulltm.com/vodtype/{cateId}.html" },
 {"key": "csp_xb_段友1", "name":   "段友",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html" },
