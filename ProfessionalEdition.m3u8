@@ -102,7 +102,9 @@
 {"key": "csp_xb_胖虎", "name":     "胖虎",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "http://www.panghuys.com/vodshow/{cateId}/page/{catePg}.html" },
 {"key": "csp_xb_玄天", "name":     "玄天",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html" },
 {"key": "csp_xb_冷曦", "name":     "冷曦",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html" },
-{"key": "csp_xb_厂长", "name":     "厂长",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www./www.c-zzy/{cateId}/page/{catePg}" },
+
+{"key": "csp_xb_厂长", "name":     "厂长",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.c-zzy.com/{cateId}/page/{catePg}" },
+
 {"key": "csp_xb_牛马", "name":     "牛马",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.niumatv.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html" },
 {"key": "csp_xb_花猫", "name":     "花猫",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "http://www.huamaotv.com/type/{cateId}-{catePg}.html"},
 {"key": "csp_xb_奈非", "name":     "奈非",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://netflixya.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
