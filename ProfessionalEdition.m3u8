@@ -4,6 +4,24 @@
 {"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key": "csp_xBPQ_电视直播",
+	"name": "电视直播",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "{
+\"分类\":\"电视直播$ys.html#\",
+\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",
+\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",
+\"图片\":\"http://\",
+\"播放图片\":\"http://\",
+\"线路合并\":\"1\"
+}"},
+
+
+
 {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Bili","name": "哔哩","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
