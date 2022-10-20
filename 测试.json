@@ -16,8 +16,6 @@
 \"播放图片\":\"http://\",
 \"不分线路\":\"1\"
 }"},
-"spider" : "./drpy/proxy.jar",
-"sites" : [
 {
 "key" : "drpy_js_360影视",
 "name" : "360影视[DRPY]",
