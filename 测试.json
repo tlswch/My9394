@@ -1,3 +1,6 @@
+{
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/ProfessionalEdition.jar;md5;DA635D01AEBCC44ED05A4F1314CBE6C9",
+    "sites" : [
 {"key": "csp_xBPQ_电视直播",
 "name": "电视直播",
 "type": 3,
@@ -13,7 +16,6 @@
 \"播放图片\":\"http://\",
 \"不分线路\":\"1\"
 }"},
-{
 "spider" : "./drpy/proxy.jar",
 "sites" : [
 {
@@ -477,7 +479,6 @@
 "type" : 3,
 "api" : "./drpy/lib/drpy.ym.js",
 "ext" : "./drpy/js/AGE动漫.js"
-
 }],
 "lives" : [
 {
