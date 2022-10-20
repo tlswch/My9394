@@ -126,7 +126,7 @@
 {"key": "csp_xpath_dm84","name":"巴士┃动漫","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"}
 ],
 "spider": "./jar/top97.jar",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/ProfessionalEdition.jar;md5;DA635D01AEBCC44ED05A4F1314CBE6C9",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1020.jar;md5;D8DD568CF347E05F5FD8A0A20853DC69",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/ProfessionalEdition.jar",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
