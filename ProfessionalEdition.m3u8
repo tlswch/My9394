@@ -3,6 +3,13 @@
 //==================================xpath==================================================================
 {"key":"T4","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_云盘","name":"纸条┃云盘","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
+{"key": "csp_MGTV","name":" 🍋芒果视频┃官", "type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"360_spider","name":"💘360影视┃官","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key": "csp_IQIYI","name":"🥝爱奇艺视频┃官","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_QQ","name": "  🐧腾讯视频┃官","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Sp快看","name":"👀快看影视┃Sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XYQ_kgmv","name":"酷狗MV┃XYQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json" },
+{"key":"csp_Sp苹果","name":"🍎小苹果视频┃Sp","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lb","name":"LibVio┃Sp","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_SP","name":"Auete┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP","name":"爱看┃SP","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
