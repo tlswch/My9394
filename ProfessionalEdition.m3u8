@@ -145,7 +145,7 @@
 
 {"key":"b","name":"巴士动漫┃R","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"}
 ],
-//"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Yoursmile.jar",
+"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/%e9%95%bf%e8%80%81.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1020.jar;md5;D8DD568CF347E05F5FD8A0A20853DC69",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/ProfessionalEdition.jar",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar",
