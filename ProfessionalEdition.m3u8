@@ -3,7 +3,7 @@
 //==================================xpath==================================================================
 {"key":"T4","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_云盘","name":"纸条┃云盘","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
-["{"key":"csp_SP","name":"LibVio┃SP","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
+{"key":"csp_SP","name":"LibVio┃SP","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_SP","name":"Auete┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP","name":"爱看┃SP","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_SP","name":"360┃SP","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
