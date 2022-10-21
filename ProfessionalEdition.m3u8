@@ -2,28 +2,16 @@
   "sites": [
 //==================================xpath==================================================================
 {"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch": 1,"filterable":0},
 {"key": "Ddrk","name": "低端","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
 {"key":"csp_Auete" ,"name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_fantuan","name": "饭团┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"},
 {"key":"csp_xpath_heihu","name":"黑狐┃xpath","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 {"key":"csp_xp_libvio","name":"libvio┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"},
+{"key":"csp_xBPQ_电视直播","name": "电视直播线路","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},
 
-{"key": "csp_xBPQ_电视直播线路",
-	"name": "电视直播线路",
-	"type": 3,
-	"api": "csp_xBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "{
-\"分类\":\"电视直播$ys.html#\",
-\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",
-\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",
-\"图片\":\"http://\",
-\"播放图片\":\"http://\",
-\"不分线路\":\"1\"
-}"},
+
+{"key": "csp_RENPE","name":"RENPE┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#4K专区$40#连续剧$2#综艺$3#动漫$4#纪录$35\",\"分类url\":\"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/\",\"年份\":\"2000-2022\"}"},
 
 
 {"key":"csp_xp_gongreng","name":"工人┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"},
@@ -57,7 +45,7 @@
 {"key":"douban","name":"豆瓣荐片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
-//{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch": 1,"filterable":0},
+
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
