@@ -9,6 +9,23 @@
 {"key":"csp_xpath_heihu","name":"黑狐┃xpath","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"}, 
 {"key":"csp_xp_libvio","name":"libvio┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"},
 
+{"key": "csp_xBPQ_电视直播线路",
+	"name": "电视直播线路",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "{
+\"分类\":\"电视直播$ys.html#\",
+\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",
+\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",
+\"图片\":\"http://\",
+\"播放图片\":\"http://\",
+\"不分线路\":\"1\"
+}"},
+
+
 {"key":"csp_xp_gongreng","name":"工人┃XPMF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"},
 {"key": "csp_xBPQ","name": " 爱看","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
 {"key": "csp_xBPQ_007影视", "name": "007", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.007ts.me/channel/{cateId}-{catePg}.html"},  
