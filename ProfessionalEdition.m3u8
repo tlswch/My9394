@@ -11,6 +11,7 @@
 {"key":"csp_xBPQ_电视直播","name": "电视直播线路","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},
 
 
+{"key": "csp_xBPQ_影视工厂","name": "XBPQ|影视工厂","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"二次截取\": \"myui-vodlist clearfix&&</ul>\",\"副标题\": \"pic-text text-right\\\">&&</span>\",\"简介\": \"sketch content\\\">&&</span>\",\"线路数组\": \"<a href=\\\"#playlist&&</li>\",\"线路标题\": \">&&<\",\"播放数组\": \"myui-content__list scrollbar sort-list clearfix&&</ul>\",\"分类\":\"电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://www.ysgc.tv/vodtype/{cateId}-{catePg}.html\"}"},
 {"key": "csp_RENPE","name":"RENPE┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#4K专区$40#连续剧$2#综艺$3#动漫$4#纪录$35\",\"分类url\":\"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/\",\"年份\":\"2000-2022\"}"},
 
 
