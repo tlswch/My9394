@@ -108,6 +108,36 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"
 },
 {
+"key":"学习乐园",
+"name":"学习乐园",
+"type":3,
+"api":"csp_Bili",
+"searchable":0,
+"quickSearch":0,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php"
+},
+{
+"key": "csp_Bili演唱会",
+"name": "🎸演唱会┃哔哩",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 0,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
+},
+{
+"key": "csp_Bili戏曲",
+"name": "🎸戏曲┃哔哩",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 0,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2.php"
+},  
+{
 "key": "csp_Nmys",
 "name": "🥝农民",
 "type": 3,
