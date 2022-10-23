@@ -108,6 +108,24 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"
 },
 {
+"key": "Dy555",
+"name": "555",
+"type": 3,
+"api": "csp_Dy555",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+{
+"key": "AppTT",
+"name": "图图",
+"type": 3,
+"api": "csp_AppTT",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},  
+{
 "key":"学习乐园",
 "name":"学习乐园",
 "type":3,
@@ -284,7 +302,7 @@
 },
 {
 "key": "csp_Bd",
-"name": "💥bidi",
+"name": "💥bidi┃SP",
 "type": 3,
 "api": "csp_Bdys01",
 "searchable": 1,
@@ -302,15 +320,55 @@
 "ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
 },
 {
-"key": "csp_Nmys",
-"name": "🥝农民",
+"key": "Cokemv",
+"name": "可乐┃SP",
 "type": 3,
-"api": "csp_Nmys",
+"api": "csp_Cokemv",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
+"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"                                                                                          
 },
+{
+"key": "Xiaoh",
+"name": "Xiaoh",
+"type": 3,
+"api": "csp_Xiaoh",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"                                                                                          
+},
+{
+"key": "AliPS",
+"name": "盘搜",
+"type": 3,
+"api": "csp_AliPS",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://刚刚.live/json/alitoken.json"
+},
+{
+"key": "push_agent",
+"name": "PushAgent",
+"type": 3,
+"api": "csp_PushAgent",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://刚刚.live/json/alitoken.json"
+},                                                                                           
+{
+"key": "If101",
+"name": "101┃墙外",
+"type": 3,
+"api": "csp_If101",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
+},                                                                                          
 {
 "key": "csp_xp_jLgyy",
 "name": "蓝光影院┃XPMF",
