@@ -58,7 +58,7 @@
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1022.jar;md5;72B16A9306AE31A397789DA43CA304BE",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL0hvbWVFZGl0aW9uVFYudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&extaHR0cDovL2VwZy41MXptdC50b3A6ODAwMC9hcGkvZGl5cC8="]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
