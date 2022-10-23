@@ -730,7 +730,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/json/alitoken.json"
+			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
 		},
 		{
 			"key": "Alips",
@@ -763,7 +763,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://刚刚.live/json/alitoken.json"
+			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
 		},
 		{
 			"key": "csp_BR",
@@ -801,7 +801,7 @@
 			"url": "Web"
 		},
 		{
-			"name": "Json1",
+			"name": "Q1",
 			"type": 1,
 			"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
 			"ext": {
@@ -809,7 +809,7 @@
 			}
 		},
 		{
-			"name": "Web2",
+			"name": "Q2",
 			"type": 0,
 			"url": "https://vip.parwix.com:4433/player/?url=",
 			"ext": {
@@ -817,7 +817,7 @@
 			}
 		},
 		{
-			"name": "Json3",
+			"name": "Q3",
 			"type": 1,
 			"url": "http://newjiexi.gotka.top/keyu3.php?url=",
 			"ext": {
@@ -828,7 +828,7 @@
 			}
 		},
 		{
-			"name": "Web4",
+			"name": "Q4",
 			"type": 0,
 			"url": "https://dm.xmflv.com:4433/?url=",
 			"ext": {
@@ -836,7 +836,7 @@
 			}
 		},
 		{
-			"name": "Web5",
+			"name": "Q5",
 			"type": 0,
 			"url": "https://www.yemu.xyz/?url=",
 			"ext": {
@@ -844,7 +844,7 @@
 			}
 		},
 		{
-			"name": "Json9",
+			"name": "Q9",
 			"type": 1,
 			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=",
 			"ext": {
@@ -852,7 +852,7 @@
 			}
 		},
 		{
-			"name": "Web7",
+			"name": "Q7",
 			"type": 0,
 			"url": "http://42.193.18.62:9999/analysis.php?v=",
 			"ext": {
@@ -860,7 +860,7 @@
 			}
 		},
 		{
-			"name": "Json8",
+			"name": "Q8",
 			"type": 1,
 			"url": "http://119.91.206.244:9999/jx/hfys.php?url=",
 			"ext": {
@@ -868,12 +868,12 @@
 			}
 		},
 		{
-			"name": "Json10",
+			"name": "Q10",
 			"type": 1,
 			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
 		},
 		{
-			"name": "Web6",
+			"name": "Q6",
 			"type": 0,
 			"url": "https://www.ckplayer.vip/jiexi/?url="
 		}
