@@ -40,8 +40,8 @@
 "filterable": 1
 },
 {
-"key": "csp_xBPQ_98影院",
-"name": "98影院",
+"key": "98影院",
+"name": "98影院┃xBPQ",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -430,7 +430,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%88%b1%e5%bd%b1%e8%a7%86.json"
 },
 {
-"key": "csp_xp_007",
+"key": "007",
 "name": "零零七影视┃XPF",
 "type": 3,
 "api": "csp_XPathFilter",
@@ -440,8 +440,8 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"
 },
 {
-"key": "csp_xb_auete",
-"name": "AUETE(R)",
+"key": "auete",
+"name": "AUETE┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -450,8 +450,8 @@
 "ext": "http://home.jundie.top:666/json/XBiu/auete.json"
 },
 {
-"key": "csp_xb_lib",
-"name": "LIB(R)",
+"key": "lib",
+"name": "LIB┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -460,8 +460,8 @@
 "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
 },
 {
-"key": "csp_xb_dmxq",
-"name": "大米星球(R)",
+"key": "dmxq",
+"name": "大米星球┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -470,8 +470,8 @@
 "ext": "https://www.dmxq.fun/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_xb_lgyy",
-"name": "蓝光影院(R)",
+"key": "lgyy",
+"name": "蓝光影院┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -480,8 +480,8 @@
 "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_xb_jpys",
-"name": "极品影视(R)",
+"key": "jpys",
+"name": "极品影视┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -490,8 +490,8 @@
 "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_xb_zbk",
-"name": "真不卡(R)",
+"key": "zbk",
+"name": "真不卡┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -500,8 +500,8 @@
 "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_xb_lez2",
-"name": "乐猪(R)",
+"key": "lez2",
+"name": "乐猪┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -510,8 +510,8 @@
 "ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"
 },
 {
-"key": "csp_xb_5G",
-"name": "5G(R)",
+"key": "5G",
+"name": "5G┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -520,8 +520,8 @@
 "ext": "https://www.91dyy.tv/te/{cateId}-{catePg}.html"
 },
 {
-"key": "csp_xb_9sha",
-"name": "9杀(R)",
+"key": "9sha",
+"name": "9杀┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -530,8 +530,8 @@
 "ext": "https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_xb_webdillo",
-"name": "宝仙HD(R)",
+"key": "webdillo",
+"name": "宝仙HD┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -540,8 +540,8 @@
 "ext": "https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 },
 {
-"key": "csp_xb_ysgc",
-"name": "影视工厂(R)",
+"key": "ysgc",
+"name": "影视工厂┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -550,8 +550,8 @@
 "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
 },
 {
-"key": "csp_xb_cokemv",
-"name": "cokemv(R)",
+"key": "cokemv",
+"name": "cokemv┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -560,7 +560,7 @@
 "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
 },
 {
-"key": "csp_XBiu_REPEN",
+"key": "REPEN",
 "name": "RENPE┃R",
 "type": 3,
 "api": "csp_XBiu",
@@ -570,15 +570,15 @@
 "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
 {
-"key": "drpy_js_360影视",
+"key": "360影视",
 "name": "360影视[DRPY]",
 "type": 3,
 "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.js",
 "ext": "http://home.jundie.top:666/JS/dr_py/js/360影视.js"
 },
 {
-"key": "csp_xBPQ_爱看影视",
-"name": "xBPQ | 爱看影视",
+"key": "爱看",
+"name": "爱看影视┃xBPQ",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -587,8 +587,8 @@
 "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
 },
 {
-"key": "csp_xBiu_爱看影视",
-"name": "xBiu | 爱看影视",
+"key": "爱看",
+"name": "爱看影视┃R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -597,8 +597,8 @@
 "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
 },
 {
-"key": "csp_xBPQ_花猫",
-"name": "️XBPQ | 花猫tv",
+"key": "花猫",
+"name": "️花猫tv",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -607,8 +607,8 @@
 "ext": "副标题$class=\"pic-text\">&&</span>#线路数组$/span><h3 class=\"title&&/h3>#搜索后缀$/detail/#播放数组$class=\"stui-content__playlist&&</div>#分类url$http://www.huamaotv.com/type/{cateId}-{catePg}.html"
 },
 {
-"key": "csp_xBPQ_巨人影院",
-"name": "巨人影院(xBPQ)",
+"key": "巨人",
+"name": "巨人影院┃xBPQ",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -617,8 +617,8 @@
 "ext": "{\"免嗅\":\"0\",\"播放数组\":\"<ul class=\\\"hl-plays-list&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3#动画片$6\",\"分类url\":\"https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html\"}"
 },
 {
-"key": "奇粹影视",
-"name": "️奇粹影视",
+"key": "奇粹",
+"name": "️奇粹影视┃xBPQ",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -627,7 +627,7 @@
 "ext": "{\"分类url\":\"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\",\"数组\":\"class=\\\"module-item-pic&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"span>&&<[替换:多多广告>>免嗅秒播]\",\"免嗅\": \"0\",\"分类\":\"电影$20#连续剧$21#动漫$22#海外$23#综艺$24\",\"播放数组\":\"class=\\\"sort-item&&</div>\",\"播放列表\": \"<a&&/a>[不含序号:2]\",\"简介\": \"剧情：&&</p>\",\"搜索后缀\":\"/vod/detail/id/\"}"
 },
 {
-"key": "csp_xml_搬运工",
+"key": "搬运工",
 "name": "搬运工┃资源",
 "type": 1,
 "api": "https://cj.banyung.xyz/",
@@ -1030,4 +1030,7 @@
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
 ]
+}public static void main(String []args) {
+       System.out.println("Hello World");
+    }
 }
