@@ -9,17 +9,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_云盘",
-			"name": "纸条┃云盘",
-			"type": 3,
-			"api": "csp_Gitcafe",
-			"searchable": 1,
-			"playerType": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
-		},
-		{
 			"key": "CZSPP",
 			"name": "厂长资源┃Sp",
 			"type": 3,
@@ -761,7 +750,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://home.jundie.top:666/token.txt"
+			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
 		},
 		{
 			"key": "push_agent",
@@ -772,6 +761,17 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
+			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
+		},
+        {
+			"key": "csp_云盘",
+			"name": "纸条┃云盘",
+			"type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"playerType": 1,
+			"quickSearch": 1,
+			"filterable": 1,
 			"ext": "4C06E159F8BD6DD16FFD88D277959FD5"
 		},
 		{
