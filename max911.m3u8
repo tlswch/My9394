@@ -274,6 +274,7 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"}
 ],
+"rules" : [{"host" : "*","rule" : ["http((?!http).)*?default\\.365yg\\.com/.*|http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)\\?.*|http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)|http((?!http).){26,}?/m3u8\\?pt=m3u8.*|http((?!http).)*?default\\.ixigua\\.com/.*|http((?!http).)*?cdn-tos[^\\?]*|http((?!http).)*?/obj/tos[^\\?]*|http.*?/player/m3u8play\\.php\\?url=.*|http.*?/player/.*?[pP]lay\\.php\\?url=.*|http.*?/playlist/m3u8/\\?vid=.*|http.*?\\.php\\?type=m3u8&.*|http.*?/download.aspx\\?.*|http.*?/api/up_api.php\\?.*|http.*?\\.66yk\\.cn.*|http((?!http).)*?netease\\.com/file/.*|http((?!http).)*?douyin\\.com/.*/play/\\?.*|http((?!http).)*?huoshan\\.com/.*/\\?item.*"]}],
 "spider": "./jar/top97.jar",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
