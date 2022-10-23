@@ -1,5 +1,6 @@
 {
-  "spider": "./jar/top97.jar",
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/lcx/11/raw/branch/master/live"]}]}],
+"spider": "./jar/top97.jar",
 "sites": [
     {
       "key": "360",
