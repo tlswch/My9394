@@ -718,6 +718,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"
 }
 ],
+"rules" : [{"host" : "*","rule" : ["http((?!http).)*?default\\.365yg\\.com/.*|http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)\\?.*|http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)|http((?!http).){26,}?/m3u8\\?pt=m3u8.*|http((?!http).)*?default\\.ixigua\\.com/.*|http((?!http).)*?cdn-tos[^\\?]*|http((?!http).)*?/obj/tos[^\\?]*|http.*?/player/m3u8play\\.php\\?url=.*|http.*?/player/.*?[pP]lay\\.php\\?url=.*|http.*?/playlist/m3u8/\\?vid=.*|http.*?\\.php\\?type=m3u8&.*|http.*?/download.aspx\\?.*|http.*?/api/up_api.php\\?.*|http.*?\\.66yk\\.cn.*|http((?!http).)*?netease\\.com/file/.*|http((?!http).)*?douyin\\.com/.*/play/\\?.*|http((?!http).)*?huoshan\\.com/.*/\\?item.*"]}],
 "spider": "https://agit.ai/qi169/My9394/raw/branch/master/jar/vod1020.jar;md5;3F4BF5908DBD235EF77385909FE796FD",
 "lives": [
 {
@@ -729,47 +730,6 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="
 ]
 }
-]
-}
-],
-"rules": [
-{
-"host": "*",
-"rule": [
-"douyinvod.com",
-"/video/tos/cn/"
-]
-},
-{
-"host": "*",
-"rule": [
-"default.365yg.com",
-"/video/tos/cn/"
-]
-},
-{
-"host": "umkan.com",
-"rule": [
-"play.videomiao.vip/API.php",
-"time=",
-"key=",
-"path="
-]
-},
-{
-"host": "*",
-"rule": [
-"/m3u8.php",
-"path="
-]
-},
-{
-"host": "zjmiao.com",
-"rule": [
-"play.videomiao.vip/API.php",
-"time=",
-"key=",
-"path="
 ]
 }
 ],
