@@ -290,7 +290,7 @@
 {"name": "Json6","type": 1,"url": "http://39.96.174.234:4433/analysis.php?app=10000&account=SVIP666&password=18123344653&url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name": "Web9","type": 0,"url": "http://wuyou.ueuo.com/jx.html?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
 {"name": "Json7","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-{"name": "Json8","type":1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name": "Json8","type":1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url="}
 ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 "ijk":[
