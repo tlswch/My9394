@@ -844,7 +844,7 @@
 			}
 		},
 		{
-			"name": "Q9",
+			"name": "Q6",
 			"type": 1,
 			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=",
 			"ext": {
@@ -861,16 +861,11 @@
 			}
 		},
 		{
-			"name": "Q10",
+			"name": "Q9",
 			"type": 1,
 			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
-		},
-		{
-			"name": "Q6",
-			"type": 0,
-			"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
 		}
-	],
+		],
 	"ijk": [{
 			"group": "硬解码",
 			"options": [{
