@@ -17,7 +17,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "6FBFF5D4E2C5F174308FECE577E5AFBF"
+			"ext": "http://home.jundie.top:666/token.txt"
 		},
 		{
 			"key": "CZSPP",
@@ -48,6 +48,15 @@
 			"filterable": 0,
 			"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
 		},
+        {
+           "key": "Lib",
+           "name": "Libvio",
+           "type": 3,
+           "api": "csp_Lib",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
+        },      
 		{
 			"key": "csp_xp_libvio",
 			"name": "libvio┃XPMF",
@@ -258,7 +267,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "IKan",
@@ -268,7 +277,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "Zjdr",
@@ -278,7 +287,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "csp_DiDuan",
@@ -327,7 +336,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "Xiaoh",
@@ -337,7 +346,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "AliPS",
@@ -367,7 +376,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "7C4E52A5CBDE64C21EAEFE7115E2EE83"
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "csp_xp_jLgyy",
