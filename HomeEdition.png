@@ -2,7 +2,7 @@
   "sites": [
 //==================================Edition==================================================================
 {"key": "csp_Sp_CZ","name":"厂长资源┃Sp","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "xBPQ_libvio","name": "libvio┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"播放数组\":\"\\\"stui-content__playlist clearfix\\\"&&</ul>\",\"线路数组\":\"class=\\\"iconfont icon-iconfontplay2\\\"&&/h3>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}"},
+{"key":"xBPQ_libvio","name":"libvio┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"播放数组\":\"\\\"stui-content__playlist clearfix\\\"&&</ul>\",\"线路数组\":\"class=\\\"iconfont icon-iconfontplay2\\\"&&/h3>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}"},
 {"key": "csp_M7酷云","name":"酷云七七┃SP","type":3,"api": "csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaika","name":"快看影视┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_哔滴" ,"name": "哔滴影视┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
