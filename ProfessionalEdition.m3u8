@@ -21,8 +21,8 @@
 "ext":"http://home.jundie.top:666/token.txt"
 },
 {
-"key": "csp_CZSPP",
-"name": "🏭厂长资源",
+"key": "CZSPP",
+"name": "厂长资源┃Sp",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -31,8 +31,8 @@
 "ext": ""
 },
 {
-"key": "csp_Sp快看",
-"name": "👀快看影视┃Sp",
+"key": "快看",
+"name": "快看影视┃Sp",
 "type": 3,
 "api": "csp_Kuaikan",
 "searchable": 1,
@@ -137,7 +137,7 @@
 },
 {
 "key": "csp_Bili演唱会",
-"name": "🎸演唱会┃哔哩",
+"name": "演唱会┃哔哩",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -147,7 +147,7 @@
 },
 {
 "key": "csp_Bili戏曲",
-"name": "🎸戏曲┃哔哩",
+"name": "戏曲┃哔哩",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -157,7 +157,7 @@
 },  
 {
 "key": "csp_Nmys",
-"name": "🥝农民",
+"name": "农民",
 "type": 3,
 "api": "csp_Nmys",
 "searchable": 1,
@@ -167,7 +167,7 @@
 },
 {
 "key": "360_spider",
-"name": "💘360┃Sp",
+"name": "360┃Sp",
 "api": "csp_SP360",
 "type": 3,
 "filterable": 1,
@@ -214,7 +214,7 @@
 },
 {
 "key": "csp_Sp苹果",
-"name": "🍎小苹果视频┃Sp",
+"name": "小苹果视频┃Sp",
 "type": 3,
 "api": "csp_LiteApple",
 "searchable": 1,
@@ -223,7 +223,7 @@
 },
 {
 "key": "Lezhu_spider",
-"name": "乐猪影视",
+"name": "乐猪影视┃Sp",
 "api": "csp_Lezhu",
 "type": 3,
 "filterable": 1,
@@ -233,7 +233,7 @@
 },
 {
 "key": "追剧喵",
-"name": "🐯追剧喵",
+"name": "追剧喵┃Sp",
 "type": 3,
 "api": "csp_ZJMiao",
 "searchable": 1,
@@ -242,8 +242,8 @@
 "ext": ""
 },
 {
-"key": "csp_Zxzj",
-"name": "🏠在线之家",
+"key": "Zxzj",
+"name": "在线之家┃Sp",
 "type": 3,
 "api": "csp_Zxzj",
 "searchable": 1,
@@ -253,7 +253,7 @@
 
 {
 "key": "Smdyy",
-"name": "🐎神马影院",
+"name": "神马影院┃Sp",
 "type": 3,
 "api": "csp_Smdyy",
 "searchable": 1,
@@ -263,7 +263,7 @@
 },
 {
 "key": "IKan",
-"name": "💖爱看",
+"name": "爱看┃Sp",
 "type": 3,
 "api": "csp_IKan",
 "searchable": 1,
@@ -273,7 +273,7 @@
 },
 {
 "key": "Zjdr",
-"name": "🌐追剧达人",
+"name": "追剧达人┃Sp",
 "type": 3,
 "api": "csp_Zjdr",
 "searchable": 1,
@@ -282,7 +282,7 @@
 "jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 },
 {"key":"csp_DiDuan" ,
-"name":"⏮️低端┃SP",
+"name":"低端┃SP",
 "type":3,
 "api":"csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -293,7 +293,7 @@
 },
 {
 "key": "mjxq_spider",
-"name": "🌏美剧星球",
+"name": "美剧星球┃Sp",
 "type": 3,
 "api": "csp_Mjxq",
 "searchable": 1,
@@ -302,7 +302,7 @@
 },
 {
 "key": "csp_Bd",
-"name": "💥bidi┃SP",
+"name": "bidi┃SP",
 "type": 3,
 "api": "csp_Bdys01",
 "searchable": 1,
@@ -311,7 +311,7 @@
 },
 {
 "key": "csp_voflix",
-"name": "🌀voflix┃HD",
+"name": "voflix┃HD",
 "type": 3,
 "api": "csp_XBiubiu",
 "searchable": 1,
@@ -631,7 +631,7 @@
 "name": "搬运工┃资源",
 "type": 1,
 "api": "https://cj.banyung.xyz/",
-"playUrl": "",
+"playUrl": ",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
@@ -691,7 +691,7 @@
 "filterable": 1
 },
 {
-"key": "csp_appysv2_天空TV",
+"key": "v2_天空TV",
 "name": "天空TV┃App",
 "type": 3,
 "api": "csp_AppYsV2",
