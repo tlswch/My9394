@@ -50,7 +50,7 @@
 		},
 		{
 			"key": "csp_Bttoo",
-			"name": "✌两个BT",
+			"name": "两个BT",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -59,7 +59,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "🐼Auete",
+			"name": "Auete",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
