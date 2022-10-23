@@ -55,10 +55,7 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://home.jundie.top:666/token.txt"}
 ],
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/top97.jar;md5;E7BC50C96798E106D925ACA5FC269493",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1022.jar;md5;72B16A9306AE31A397789DA43CA304BE",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&extaHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL2xpdmUudHh0"]}]}],
+{"spider": "./jar/top97.jar","lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
