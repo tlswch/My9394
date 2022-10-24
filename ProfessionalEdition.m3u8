@@ -884,7 +884,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://101.34.67.237:5705/txt/py/py_小纸条.py"
+			"ext": "http://刚刚.live/json/alitoken.json"
 		},
 		{
 			"key": "csp_BR",
@@ -912,7 +912,7 @@
 		}]
 	}],
 	"parses": [{ "name": "Json聚合", "type": 3, "url": "Demo" }, { "name": "Web聚合", "type": 3, "url": "Web" }, {
-            "name": "腾云专线",
+            "name": "云驾",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
