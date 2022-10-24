@@ -84,7 +84,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
 		{
 			"key": "csp_xp_剧白白",
 			"name": "剧白白┃XPMF",
@@ -163,8 +162,7 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
 		},
-		
-		{
+        {
 			"key": "IQIYI",
 			"name": "IQIYI┃Sp",
 			"type": 3,
@@ -191,8 +189,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-		{
+        {
 			"key": "csp_XYQ_kgmv",
 			"name": "酷狗MV┃XYQ",
 			"type": 3,
@@ -240,8 +237,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-		{
+        {
 			"key": "Smdyy",
 			"name": "神马影院┃Sp",
 			"type": 3,
