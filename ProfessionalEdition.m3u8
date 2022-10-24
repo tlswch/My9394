@@ -9,6 +9,15 @@
 			"filterable": 0
 		},
         {
+            "key": "dr_drpy",
+            "name": "drpy(道长)",
+            "type": 1,
+            "api": "http://101.34.67.237:5705/vod?rule=drpy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "dr_腾云驾雾",
             "name": "腾云驾雾(drpy)",
             "type": 3,
@@ -157,6 +166,26 @@
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"
 		},
+        {
+            "key": "dr_素白白",
+            "name": "素白白(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237:5705/admin/view/素白白.js"
+        },      
+        {
+            "key": "dr_69美剧",
+            "name": "69美剧(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237:5705/admin/view/69美剧.js"
+        },      
 		{
 			"key": "csp_xpath_heihu",
 			"name": "黑狐┃xpath",
@@ -584,25 +613,15 @@
 			"ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"
 		},
 		{
-			"key": "5G",
-			"name": "5G┃R",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.91dyy.tv/te/{cateId}-{catePg}.html"
-		},
-		{
-			"key": "9sha",
-			"name": "9杀┃R",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"
-		},
+            "key": "dr_69美剧",
+            "name": "69美剧(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237:5705/admin/view/69美剧.js"
+        },
 		{
 			"key": "webdillo",
 			"name": "宝仙HD┃R",
@@ -755,6 +774,23 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
+        {
+            "key": "云海官采",
+            "name": "云海官采(官)",
+            "type": 1,
+            "api": "http://101.34.7.151:600/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "忆梦",
+            "name": "忆梦(官)",
+            "type": 1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        
 		{
 			"key": "csp_Tkys",
 			"name": "天空资源┃SP",
