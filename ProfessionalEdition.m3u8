@@ -19,8 +19,8 @@
             "ext": "http://101.34.67.237:5705/admin/view/腾云驾雾.js"
         },
         {
-			"key": "360_spider",
-			"name": "360┃Sp",
+			"key": "360云_spider",
+			"name": "360云┃Sp",
 			"api": "csp_SP360",
 			"type": 3,
 			"filterable": 1,
@@ -159,7 +159,7 @@
 		},
 		{
 			"key": "csp_Bili演唱会",
-			"name": "演唱会┃哔哩",
+			"name": "演唱会┃哔哩云",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -169,7 +169,7 @@
 		},
 		{
 			"key": "csp_Bili戏曲",
-			"name": "戏曲┃哔哩",
+			"name": "戏曲┃哔哩云",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -188,8 +188,8 @@
 			"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
 		},
 		{
-			"key": "IQIYI",
-			"name": "IQIYI┃Sp",
+			"key": "IQIYI云",
+			"name": "IQIYI云┃Sp",
 			"type": 3,
 			"api": "csp_IQIYI",
 			"searchable": 1,
@@ -197,8 +197,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "QQ",
-			"name": "QQ┃Sp",
+			"key": "Q腾云",
+			"name": "Q腾云┃Sp",
 			"type": 3,
 			"api": "csp_QQ",
 			"searchable": 1,
@@ -206,8 +206,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "MGTV",
-			"name": "MGTV┃Sp",
+			"key": "MGTV云",
+			"name": "MGTV云┃Sp",
 			"type": 3,
 			"api": "csp_IQIYI",
 			"searchable": 1,
@@ -215,8 +215,8 @@
 			"filterable": 1
 		},
          {
-            "key": "dr_优酷",
-            "name": "优酷(drpy)",
+            "key": "dr_酷云",
+            "name": "酷云(drpy)",
             "type": 3,
             "api": "http://101.34.67.237:5705/libs/drpy.min.js",
             "searchable": 2,
@@ -227,7 +227,7 @@
 
 		{
 			"key": "csp_XYQ_kgmv",
-			"name": "酷狗MV┃XYQ",
+			"name": "酷狗云MV┃XYQ",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -836,7 +836,7 @@
 		}]
 	}],
 	"parses": [{ "name": "Json聚合", "type": 3, "url": "Demo" }, { "name": "Web聚合", "type": 3, "url": "Web" }, {
-            "name": "QQ专线",
+            "name": "腾云专线",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
