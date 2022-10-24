@@ -9,14 +9,15 @@
 			"filterable": 0
 		},
         {
-            "key": "dr_drpy",
-            "name": "drpy(道长)",
-            "type": 1,
-            "api": "http://101.34.67.237:5705/vod?rule=drpy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+			"key": "csp_xpath_fantuan",
+			"name": "饭团HD┃XPF",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
+		},
         {
             "key": "dr_腾云驾雾",
             "name": "腾云驾雾(drpy)",
@@ -146,16 +147,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_xpath_fantuan",
-			"name": "饭团HD┃XPF",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
-		},
+		
 		{
 			"key": "csp_xp_剧白白",
 			"name": "剧白白┃XPMF",
@@ -886,6 +878,15 @@
 			"filterable": 1,
 			"ext": "http://刚刚.live/json/alitoken.json"
 		},
+        {
+            "key": "dr_drpy",
+            "name": "drpy(道长)",
+            "type": 1,
+            "api": "http://101.34.67.237:5705/vod?rule=drpy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 		{
 			"key": "csp_BR",
 			"name": "巴士动漫┃R",
