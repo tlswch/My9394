@@ -159,13 +159,23 @@
 },
 {
 "key": "csp_Nmys",
-"name": "农民",
+"name": "农民┃XP",
 "type": 3,
 "api": "csp_Nmys",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
+},
+{
+"key":"csp_555",
+"name":"555影视┃R",
+"type":3,
+"api":"csp_XBiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext": "https://555yy3.com/vodshow/{cateId}--------{catePg}---.html"
 },
 {
 "key": "csp_voflix",
