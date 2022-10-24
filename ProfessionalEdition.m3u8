@@ -28,13 +28,13 @@
 			"ext": ""
 		},
         {
-			"key": "csp_xp_libvio",
+			"key": "csp_LibVio",
 			"name": "libvio┃Sp",
 			"type": 3,
 			"api": "csp_Lib",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 0,
 			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
