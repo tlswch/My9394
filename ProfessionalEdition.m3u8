@@ -35,7 +35,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": ""
+			"jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 		},
 		{
 			"key": "快看",
@@ -64,7 +64,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": ""
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"
 		},
 		{
 			"key": "csp_Bttoo",
@@ -121,7 +121,8 @@
 			"api": "csp_Dy555",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+             "jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt" 
 		},
 		{
 			"key": "AppTT",
