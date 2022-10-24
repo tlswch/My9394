@@ -134,7 +134,8 @@
 			"api": "csp_AppTT",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+            "jar": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"  
 		},
 		{
 			"key": "学习乐园",
