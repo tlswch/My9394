@@ -9,15 +9,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "360_spider",
-			"name": "360┃Sp",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
 			"key": "CZSPP",
 			"name": "厂长资源┃Sp",
 			"type": 3,
@@ -37,16 +28,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_xpath_fantuan",
-			"name": "饭团HD┃XPF",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
-		},
-		{
 			"key": "98影院",
 			"name": "98影院┃xBPQ",
 			"type": 3,
@@ -56,7 +37,7 @@
 			"filterable": 0,
 			"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
 		},
-		{
+        {
 			"key": "csp_xp_libvio",
 			"name": "libvio┃XPMF",
 			"type": 3,
@@ -64,7 +45,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"
+			"ext": ""
 		},
 		{
 			"key": "csp_Bttoo",
@@ -83,6 +64,16 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key": "csp_xpath_fantuan",
+			"name": "饭团HD┃XPF",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
 		},
 		{
 			"key": "csp_xp_剧白白",
@@ -163,6 +154,15 @@
 			"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
 		},
 		{
+			"key": "360_spider",
+			"name": "360┃Sp",
+			"api": "csp_SP360",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
+		{
 			"key": "IQIYI",
 			"name": "IQIYI┃Sp",
 			"type": 3,
@@ -189,6 +189,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+
 		{
 			"key": "csp_XYQ_kgmv",
 			"name": "酷狗MV┃XYQ",
@@ -237,6 +238,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+
 		{
 			"key": "Smdyy",
 			"name": "神马影院┃Sp",
@@ -788,8 +790,94 @@
 			]
 		}]
 	}],
-	
-
+	"parses": [{
+			"name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "Web聚合",
+			"type": 3,
+			"url": "Web"
+		},
+		{
+			"name": "Json1",
+			"type": 1,
+			"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
+			}
+		},
+		{
+			"name": "Web2",
+			"type": 0,
+			"url": "https://vip.parwix.com:4433/player/?url=",
+			"ext": {
+				"flag": ["imgo", "ltnb", "renrenmi", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "Json3",
+			"type": 1,
+			"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+			"ext": {
+				"flag": ["imgo", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "Web4",
+			"type": 0,
+			"url": "https://dm.xmflv.com:4433/?url=",
+			"ext": {
+				"flag": ["imgo", "ltnb", "renrenmi", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "Web5",
+			"type": 0,
+			"url": "https://www.yemu.xyz/?url=",
+			"ext": {
+				"flag": ["imgo", "qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "Json9",
+			"type": 1,
+			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "letv", "乐视", "mgtv", "芒果", "youku", "优酷", "qiyi", "iqiyi", "爱奇艺", "奇艺"]
+			}
+		},
+		{
+			"name": "Web7",
+			"type": 0,
+			"url": "http://42.193.18.62:9999/analysis.php?v=",
+			"ext": {
+				"flag": ["imgo", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "Json8",
+			"type": 1,
+			"url": "http://119.91.206.244:9999/jx/hfys.php?url=",
+			"ext": {
+				"flag": ["imgo", "duoduozy", "renrenmi", "ltnb", "miaoparty", "miaoparty2", "miaoparty3", "laodiyun", "laodim3u8", "lekanzyw", "rx", "CL4K", "fuckapp", "1080P", "wuduzy"]
+			}
+		},
+		{
+			"name": "Json10",
+			"type": 1,
+			"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
+		},
+		{
+			"name": "Web6",
+			"type": 0,
+			"url": "https://www.ckplayer.vip/jiexi/?url="
+		}
+	],
 	"ijk": [{
 			"group": "硬解码",
 			"options": [{
