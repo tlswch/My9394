@@ -19,6 +19,36 @@
             "ext": "http://101.34.67.237:5705/admin/view/腾云驾雾.js"
         },
         {
+            "key": "dr_百忙无果",
+            "name": "百忙无果(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237:5705/admin/view/百忙无果.js"
+        },
+        {
+            "key": "dr_奇珍异兽",
+            "name": "奇珍异兽(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237:5705/admin/view/奇珍异兽.js"
+        },
+        {
+            "key": "dr_菜狗",
+            "name": "菜狗(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237:5705/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237:5705/admin/view/菜狗.js"
+        },
+        {
 			"key": "360云_spider",
 			"name": "360云┃Sp",
 			"api": "csp_SP360",
