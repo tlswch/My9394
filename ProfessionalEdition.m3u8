@@ -8,6 +8,15 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
+        {
+			"key": "360_spider",
+			"name": "360┃Sp",
+			"api": "csp_SP360",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
 		{
 			"key": "CZSPP",
 			"name": "厂长资源┃Sp",
@@ -27,6 +36,16 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+        {
+			"key": "csp_xpath_fantuan",
+			"name": "饭团HD┃XPF",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
+		}, 
 		{
 			"key": "98影院",
 			"name": "98影院┃xBPQ",
@@ -65,16 +84,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_xpath_fantuan",
-			"name": "饭团HD┃XPF",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
-		},
+		
 		{
 			"key": "csp_xp_剧白白",
 			"name": "剧白白┃XPMF",
@@ -153,15 +163,7 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
 		},
-		{
-			"key": "360_spider",
-			"name": "360┃Sp",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
+		
 		{
 			"key": "IQIYI",
 			"name": "IQIYI┃Sp",
