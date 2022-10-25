@@ -9,13 +9,14 @@
 "filterable": 0
 },
 {
-"key": "csp_Bttoo",
-"name": "BT影视┃聚合",
+"key": "csp_Auete",
+"name": "Auete┃聚合",
 "type": 3,
-"api": "csp_Bttoo",
+"api": "csp_Auete",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1
+"filterable": 1,
+"ext": ""
 },
 {
 "key": "360",
@@ -32,16 +33,6 @@
 "name": "厂长┃欧美",
 "type": 3,
 "api": "csp_Czsapp",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
-{
-"key": "csp_Auete",
-"name": "Auete┃聚合",
-"type": 3,
-"api": "csp_Auete",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -218,6 +209,15 @@
 "filterable": 1,
 "ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"
 },
+{
+"key": "csp_Bttoo",
+"name": "BT影视┃聚合",
+"type": 3,
+"api": "csp_Bttoo",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},  
 {
 "key": "csp_xpath_rttks",
 "name": "人人影视┃聚合",
