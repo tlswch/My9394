@@ -628,7 +628,8 @@
 {"name": "F6", "type": 1, "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=", "ext": { "flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"] } }, 
 {"name": "F7", "type": 1, "url": "http://123.57.56.94:9931/lanlan/?url=" }, 
 { "name": "F8", "type": 1, "url": "http://lanlan.ckflv.cn/?url=", "ext": { "flag": [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905" ] } },
-{"name": "F9", "type": 1, "url": "http://119.91.206.244:9999/jx/hfys.php?url=", "ext": { "flag": ["imgo", "duoduozy", "renrenmi", "ltnb", "miaoparty", "miaoparty2", "miaoparty3", "laodiyun", "laodim3u8", "lekanzyw", "rx", "CL4K", "fuckapp", "1080P", "wuduzy"]}}, { "name": "Q9", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" } ],
+{"name": "F9", "type": 1, "url": "http://119.91.206.244:9999/jx/hfys.php?url=", "ext": { "flag": ["imgo", "duoduozy", "renrenmi", "ltnb", "miaoparty", "miaoparty2", "miaoparty3", "laodiyun", "laodim3u8", "lekanzyw", "rx", "CL4K", "fuckapp", "1080P", "wuduzy"]}},
+{ "name": "Q10", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" } ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 "ijk": [{
 "group": "硬解码",
