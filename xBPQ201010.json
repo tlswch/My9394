@@ -1,6 +1,20 @@
 {
   "sites": [
 //==================================xBPQ==================================================================
+{
+"key": "csp_xBPQ_dd",
+"name": "低端",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"click": "ddys.tv;.vjs-big-play-button",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
+},
+
+
+
 {"key":"csp_xBPQ_素白白","name":"素白白┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"},
 {"key":"csp_xBPQ_蓝光影院","name":" 蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"},
 {"key":"csp_xBPQ_prp123","name":"️RENPE影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/RENPE.json"},
