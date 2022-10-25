@@ -615,7 +615,7 @@
 ]
 }]
 }],
-"parses":[{"name":"自动播放遇问题尝试手动点Q1-F9","type":3,"url":"Demo"},{ "name":"Web聚合","type":3,"url":"Web"}, 
+"parses":[{"name":"Json聚合","type":3,"url":"Demo"},{ "name":"Web聚合","type":3,"url":"Web"}, 
 {"name":"Q1","type":0,"url":"https://vip.parwix.com:4433/player/?url="},
 
 { "name": "F10", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" } ],
