@@ -20,7 +20,7 @@
 },
 {
 "key": "360",
-"name": "360影视┃国合",
+"name": "360影视┃国剧",
 "api": "csp_SP360",
 "type": 3,
 "filterable": 1,
@@ -539,7 +539,7 @@
 },
 {
 "key": "小猫咪",
-"name": "小猫咪┃资源",
+"name": "猫咪资源┃资源",
 "type": 1,
 "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
 "searchable": 1,
@@ -547,7 +547,7 @@
 },
 {
 "key": "云海官采",
-"name": "云海官采┃资源",
+"name": "云海资源┃资源",
 "type": 1,
 "api": "http://101.34.7.151:600/api.php/provide/vod/",
 "searchable": 1,
@@ -555,7 +555,7 @@
 },
 {
 "key": "1080", 
-"name": "容兴采集", 
+"name": "容兴资源┃资源", 
 "type": 1, 
 "api": "http://103.222.188.156:99/rongxingapi.php/provide/vod/", 
 "searchable": 1, 
@@ -602,7 +602,7 @@
 },
 {
 "key": "江湖官采",
-"name": "江湖┃资源",
+"name": "江湖资源┃资源",
 "type": 1,
 "api": "http://119.29.1.173/api.php/provide/vod/",
 "searchable": 1,
@@ -610,7 +610,7 @@
 },
 {
 "key": "忆梦",
-"name": "忆梦┃资源",
+"name": "忆梦资源┃资源",
 "type": 1,
 "api": "http://anltv.cn/api.php/provide/vod/",
 "searchable": 1,
@@ -618,7 +618,7 @@
 },
 {
 "key": "诺讯资源",
-"name": "诺讯资源┃官",
+"name": "诺讯资源┃资源",
 "type": 1,
 "api": "http://caiji.nxflv.com/api.php/provide/vod/",
 "searchable": 1,
@@ -735,7 +735,7 @@
 ]
 }]
 }],
-"parses": [{ "name": "自动播放遇问题，尝试手动点。推荐首选-F18", "type": 3, "url": "Demo" }, 
+"parses": [{ "name": "自动播放遇问题，尝试手按数字。推荐首选", "type": 3, "url": "Demo" }, 
 { "name": "推荐首选", "type": 0, "url": "https://vip.parwix.com:4433/player/?url="},  
 { "name": "Q2", "type": 0, "url": "https://www.yemu.xyz/?url="},
 {"name": "F1","url": "http://101.34.67.237:5705/parse/api/酷云.js?url=", "type": 1, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0" } } },
@@ -767,7 +767,7 @@
 {"name": "F16","type": 1,"url": "https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 {"name":"F17","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},  
 { "name": "F18", "type": 1, "url": "http://119.91.206.244:9999/jx/hfys.php?url=", "ext": { "flag": ["imgo", "duoduozy", "renrenmi", "ltnb", "miaoparty", "miaoparty2", "miaoparty3", "laodiyun", "laodim3u8", "lekanzyw", "rx", "CL4K", "fuckapp", "1080P", "wuduzy"]}}, 
-{ "name": "Q9", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" } ],
+{ "name": "F19", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" } ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 "ijk": [{
 "group": "硬解码",
