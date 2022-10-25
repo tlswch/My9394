@@ -9,8 +9,8 @@
 "filterable": 0
 },
 {
-"key": "360云_spider",
-"name": "360云┃Sp",
+"key": "360",
+"name": "360影视┃国合",
 "api": "csp_SP360",
 "type": 3,
 "filterable": 1,
@@ -20,7 +20,7 @@
 },
 {
 "key": "CZSPP",
-"name": "厂长资源┃Sp",
+"name": "厂长┃欧美",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -30,7 +30,7 @@
 },
 {
 "key": "csp_Sp苹果",
-"name": "小苹果视频┃Sp",
+"name": "苹果视频┃聚合",
 "type": 3,
 "api": "csp_LiteApple",
 "searchable": 1,
@@ -40,7 +40,7 @@
 },
 {
 "key": "csp_DiDuan",
-"name": "低端┃SP",
+"name": "低端影视┃欧美",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -51,7 +51,7 @@
 },
 {
 "key": "Zxzj",
-"name": "在线之家┃Sp",
+"name": "在线之家┃欧美",
 "type": 3,
 "api": "csp_Zxzj",
 "searchable": 1,
@@ -91,7 +91,7 @@
 },
 {
 "key": "csp_XYQ_kgmv",
-"name": "酷狗云MV┃XYQ",
+"name": "酷狗音乐┃MV",
 "type": 3,
 "api": "csp_XYQBiu",
 "searchable": 1,
@@ -101,7 +101,7 @@
 },
 {
 "key": "csp_Bili相声",
-"name": "相声小品┃哔哩",
+"name": "相声小品┃相声",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -111,7 +111,7 @@
 },
 {
 "key": "学习乐园",
-"name": "学习乐园",
+"name": "学习乐园┃教育",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -121,7 +121,7 @@
 },
 {
 "key": "csp_Bili演唱会",
-"name": "演唱会┃哔哩云",
+"name": "哔哩┃演唱会",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -131,7 +131,7 @@
 },
 {
 "key": "csp_Bili戏曲",
-"name": "戏曲┃哔哩云",
+"name": "哔哩┃戏曲",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -141,7 +141,7 @@
 },
 {
 "key": "csp_Bttoo",
-"name": "两个BT",
+"name": "BT影视┃聚合",
 "type": 3,
 "api": "csp_Bttoo",
 "searchable": 1,
@@ -159,7 +159,7 @@
 },
 {
 "key": "csp_Nmys",
-"name": "农民┃XP",
+"name": "农民┃国合",
 "type": 3,
 "api": "csp_Nmys",
 "searchable": 1,
@@ -169,7 +169,7 @@
 },
 {
 "key":"csp_555",
-"name":"555影视┃R",
+"name":"555影视┃搜索",
 "type":3,
 "api":"csp_XBiu",
 "searchable":1,
@@ -179,7 +179,7 @@
 },
 {
 "key": "csp_voflix",
-"name": "voflix┃HD",
+"name": "voflix┃聚合",
 "type": 3,
 "api": "csp_XBiubiu",
 "searchable": 1,
@@ -189,7 +189,7 @@
 },
 {
 "key": "csp_xpath_fantuan",
-"name": "饭团HD┃XPF",
+"name": "饭团HD┃聚合",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -199,7 +199,7 @@
 },
 {
 "key": "csp_xp_剧白白",
-"name": "剧白白┃XPMF",
+"name": "剧白白┃聚合",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -209,7 +209,7 @@
 },
 {
 "key": "csp_xp_jLgyy",
-"name": "蓝光影院┃XPMF",
+"name": "蓝光影院┃聚合",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -219,7 +219,7 @@
 },
 {
 "key": "csp_xpath_rttks",
-"name": "人人影视ks┃xpath",
+"name": "人人影视┃聚合",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
@@ -229,7 +229,7 @@
 },
 {
 "key": "csp_xp_完美看看",
-"name": "完美看看┃XPMF",
+"name": "完美看看┃聚合",
 "type": 3,
 "api": "csp_XPathMac",
 "searchable": 1,
@@ -239,7 +239,7 @@
 },
 {
 "key": "csp_xpath_heihu",
-"name": "黑狐┃xpath",
+"name": "黑狐影视┃聚合",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -249,7 +249,7 @@
 },
 {
 "key": "csp_xp_gongreng",
-"name": "工人影视┃XPMF",
+"name": "工人影视┃聚合",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -269,7 +269,7 @@
 },
 {
 "key": "98影院",
-"name": "98影院┃xBPQ",
+"name": "98影院┃聚合",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -279,7 +279,7 @@
 },
 {
 "key": "007",
-"name": "007影视┃XPF",
+"name": "007影视┃聚合",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -289,7 +289,7 @@
 },
 {
 "key": "csp_xp_libvio",
-"name": "libvio┃XPMF",
+"name": "libvio┃聚合",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -299,7 +299,7 @@
 },
 {
 "key": "auete",
-"name": "AUETE┃R",
+"name": "AUETE┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -309,7 +309,7 @@
 },
 {
 "key": "lib",
-"name": "LIB┃R",
+"name": "LIB┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -319,7 +319,7 @@
 },
 {
 "key": "zbk",
-"name": "真不卡┃R",
+"name": "真不卡┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -329,7 +329,7 @@
 },
 {
 "key": "lez2",
-"name": "乐猪┃R",
+"name": "乐猪影视┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -339,7 +339,7 @@
 },
 {
 "key": "快看",
-"name": "快看影视┃Sp",
+"name": "快看影视┃聚合",
 "type": 3,
 "api": "csp_Kuaikan",
 "searchable": 1,
@@ -359,7 +359,7 @@
 },
 {
 "key": "webdillo",
-"name": "宝仙HD┃R",
+"name": "宝仙HD┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -369,7 +369,7 @@
 },
 {
 "key": "ysgc",
-"name": "影视工厂┃R",
+"name": "影视工厂┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -379,7 +379,7 @@
 },
 {
 "key": "cokemv",
-"name": "cokemv┃R",
+"name": "cokemv┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -389,7 +389,7 @@
 },
 {
 "key": "REPEN",
-"name": "RENPE┃R",
+"name": "RENPE┃聚合",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -399,7 +399,7 @@
 },
 {
 "key": "爱看",
-"name": "爱看影视┃xBPQ",
+"name": "爱看影视┃聚合",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -409,7 +409,7 @@
 },
 {
 "key": "巨人",
-"name": "巨人影院┃xBPQ",
+"name": "巨人影院┃聚合",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -592,7 +592,7 @@
 },
 {
 "key": "csp_BR",
-"name": "巴士动漫┃R",
+"name": "巴士动漫┃动漫",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
