@@ -118,6 +118,23 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
 },
 {
+"key": "csp_Zjdr", 
+"name": "追剧达人(爬虫）", 
+"type": 3, 
+"api": "csp_Zjdr", 
+"searchable": 1, 
+"quickSearch": 1, 
+"filterable": 1, 
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
+},
+{
+"key": "drpy_js_低端影视", 
+"name": "低端影视(道长)", 
+"type": 3, 
+"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js", 
+"ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"
+}, 
+{
 "key": "Zxzj",
 "name": "在线之家┃欧美",
 "type": 3,
@@ -138,14 +155,23 @@
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar"
 },
 {
-"key": "csp_xBPQ_zf",
-"name": "抓饭体育┃体育",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.json"
+"key": "csp_Yj1211", 
+"name": "直播合集(爬虫)", 
+"type": 3, 
+"api": "csp_Yj1211", 
+"searchable": 1, 
+"quickSearch": 1, 
+"filterable": 1
+},
+{
+"key": "dr_抓饭体育", 
+"name": "抓饭体育(drpy)", 
+"type": 3, 
+"api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
+"searchable": 2, 
+"quickSearch": 0, 
+"filterable": 0, 
+"ext": "http://www.fenwe.tk:5705/admin/view/抓饭体育.js"
 },
 {
 "key": "dr_短视频",
@@ -596,7 +622,7 @@
 "playerType": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "http://刚刚.live/json/alitoken.json"
+"jar": "http://home.jundie.top:81/jar/top97_1.jar"
 },
 {
 "key": "csp_BR",
