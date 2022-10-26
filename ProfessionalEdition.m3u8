@@ -70,6 +70,13 @@
 "ext": "https://drpyfork.fenwe521.repl.co/admin/view/爱车MV.js"
 },
 {
+"key":"csp_xBPQ_蓝光影院",
+"name":" 蓝光影院┃聚合Q",
+"type":3,
+"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"
+},
+{
 "key": "dr_追剧达人",
 "name": "追剧达人(drpy)",
 "type": 3,
@@ -372,16 +379,6 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
 {
-"key": "lgyy",
-"name": "蓝光影院┃聚合R",
-"type": 3,
-"api": "csp_XBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-},
-{
 "key":"spider_IKan",
 "name":"爱看影视┃聚合",
 "type":3,
@@ -431,6 +428,14 @@
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/auete.json"
 },
+{
+"key":"csp_XBPQ花猫TV",
+"name":" 花猫TV┃聚合Q",
+"type":3,
+"api":"csp_xBPQ","searchable":1,
+"quickSearch":1,"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"
+},  
 {
 "key":"csp_xpath_wanmeikk",
 "name":"完美看看┃聚合P",
