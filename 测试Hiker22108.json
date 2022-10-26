@@ -1,6 +1,6 @@
 {
   "sites": [
-  
+{"key": "csp_XYQ_188kan","name": "️188kan┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/188kan.json"},  
 {"key": "csp_XYQ_lu1","name": "️柠檬TV┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json"},  
 {"key": "csp_XYQ_fantuanhd","name": "️饭团HD影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%a5%ad%e5%9b%a2HD.json"},  
 {"key": "csp_XYQ_czspp","name": "️厂长影院┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/czspp.json"},
