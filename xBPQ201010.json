@@ -1,8 +1,8 @@
 {
   "sites": [
 //==================================xBPQ==================================================================
-{"key":"csp_xBPQ_喵喵","name":"喵喵电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%96%b5%e5%96%b5%e7%94%b5%e5%bd%b1.json"},
-
+{"key":"csp_xBPQ_喵喵","name":"喵喵电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"},
+{"key":"csp_xBPQ_4k","name":"4k┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"},
 
 {"key":"csp_xBPQ_素白白","name":"素白白┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"},
 {"key":"csp_xBPQ_蓝光影院","name":" 蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"},
