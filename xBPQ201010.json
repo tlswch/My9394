@@ -1,6 +1,16 @@
 {
   "sites": [
 //==================================xBPQ==================================================================
+{
+            "key": "douban",
+            "name": "豆瓣推荐影片(需搜索观看)",
+            "type": 4,
+            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+
 {"key":"csp_xBPQ_喵喵","name":"喵喵电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_xBPQ_4k","name":"4k┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4kvm.json"},
 
