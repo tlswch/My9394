@@ -10,6 +10,16 @@
 "filterable": 0
 },
 {
+"key": "csp_voflix",
+"name": "voflix┃聚合B",
+"type": 3,
+"api": "csp_XBiubiu",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
+},
+{
 "key": "csp_Auete",
 "name": "Auete┃聚合",
 "type": 3,
@@ -27,6 +37,16 @@
 "filterable": 1,
 "quickSearch": 1,
 "searchable": 1,
+"ext": ""
+},
+{
+"key": "csp_Sp苹果",
+"name": "苹果视频┃聚合",
+"type": 3,
+"api": "csp_LiteApple",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
 "ext": ""
 },
 {
@@ -59,28 +79,9 @@
 "filterable": 0,
 "ext": "https://drpyfork.fenwe521.repl.co/admin/view/追剧达人.js"
 },
-{"key":"KanSJ_spider",
-"name":"看视界",
-"api":"csp_KanSJ",
-"type":3,
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":""
-},
-{
-"key": "dr_cokemv",
-"name": "cokemv(drpy)",
-"type": 3,
-"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
-"searchable": 2,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "https://drpyfork.fenwe521.repl.co/admin/view/cokemv.js"
-},
 {
 "key": "csp_Nmys",
-"name": "农民影视┃聚合",
+"name": "农民影视┃聚合P",
 "type": 3,
 "api": "csp_Nmys",
 "searchable": 1,
@@ -99,23 +100,13 @@
 },
 {
 "key": "csp_xpath_fantuan",
-"name": "饭团HD┃聚合",
+"name": "饭团HD┃聚合P",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
-},
-{
-"key": "csp_voflix",
-"name": "voflix┃聚合",
-"type": 3,
-"api": "csp_XBiubiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
 },
 {
 "key": "csp_哔滴" ,
@@ -125,26 +116,6 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1
-},
-{
-"key":"csp_Jianyi",
-"name":"简影视频┃聚合",
-"api":"csp_JianYing",
-"type":3,
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"
-},
-{
-"key": "csp_Sp苹果",
-"name": "苹果视频┃聚合",
-"type": 3,
-"api": "csp_LiteApple",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
 },
 {
 "key": "csp_DiDuan",
@@ -167,13 +138,6 @@
 "filterable": 1, 
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
 },
-{
-"key": "drpy_js_低端影视", 
-"name": "低端影视(道长)", 
-"type": 3, 
-"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js", 
-"ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"
-}, 
 {
 "key": "Zxzj",
 "name": "在线之家┃欧美",
@@ -332,14 +296,11 @@
 "ext": "http://www.fenwe.tk:5705/admin/view/tva云播.js"
 },
 {
-"key": "dr_唐人街影视", 
-"name": "唐人街影视(drpy)", 
+"key": "drpy_js_低端影视", 
+"name": "低端影视(道长)", 
 "type": 3, 
-"api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
-"searchable": 2, 
-"quickSearch": 0, 
-"filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/唐人街影视.js"
+"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js", 
+"ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"
 },
 {
 "key": "dr_有声小说吧", 
@@ -353,7 +314,7 @@
 },
 {
 "key": "98影院",
-"name": "98影院┃聚合",
+"name": "98影院┃聚合Q",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -362,7 +323,7 @@
 "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
 },
 {
-"key": "csp_xp_剧白白",
+"key": "csp_xp_剧白白P",
 "name": "剧白白┃聚合",
 "type": 3,
 "api": "csp_XPathMacFilter",
@@ -373,7 +334,7 @@
 },
 {
 "key": "csp_xp_jLgyy",
-"name": "蓝光影院┃聚合",
+"name": "蓝光影院┃聚合P",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -392,7 +353,7 @@
 },  
 {
 "key": "csp_xpath_heihu",
-"name": "黑狐影视┃聚合",
+"name": "黑狐影视┃聚合P",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -402,7 +363,7 @@
 },
 {
 "key": "csp_xp_gongreng",
-"name": "工人影视┃聚合",
+"name": "工人影视┃聚合P",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -412,7 +373,7 @@
 },
 {
 "key": "lgyy",
-"name": "蓝光影院┃R",
+"name": "蓝光影院┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -442,7 +403,7 @@
 },
 {
 "key": "007",
-"name": "007影视┃聚合",
+"name": "007影视┃聚合P",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -452,7 +413,7 @@
 },
 {
 "key": "csp_xp_libvio",
-"name": "libvio┃聚合",
+"name": "libvio┃聚合P",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -462,7 +423,7 @@
 },
 {
 "key": "auete",
-"name": "AUETE┃聚合",
+"name": "AUETE┃聚合B",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -470,6 +431,16 @@
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/auete.json"
 },
+{
+"key":"csp_xpath_wanmeikk",
+"name":"完美看看┃聚合P",
+"type":3,
+"api":"csp_XPathMac",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8bXPathMac.json"
+},  
 {
 "key":"csp_追剧喵",
 "name": "追剧喵┃聚合",
@@ -481,7 +452,7 @@
 },
 {
 "key": "zbk",
-"name": "真不卡┃聚合",
+"name": "真不卡┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -491,7 +462,7 @@
 },
 {
 "key": "lez2",
-"name": "乐猪影视┃聚合",
+"name": "乐猪影视┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -511,7 +482,7 @@
 },
 {
 "key": "ysgc",
-"name": "影视工厂┃聚合",
+"name": "影视工厂┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -521,7 +492,7 @@
 },
 {
 "key": "cokemv",
-"name": "cokemv┃聚合",
+"name": "cokemv┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -531,7 +502,7 @@
 },
 {
 "key": "REPEN",
-"name": "RENPE┃聚合",
+"name": "RENPE┃聚合R",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -551,7 +522,7 @@
 },
 {
 "key": "巨人",
-"name": "巨人影院┃聚合",
+"name": "巨人影院┃聚合Q",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
