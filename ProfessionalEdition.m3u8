@@ -9,30 +9,9 @@
 "quickSearch": 1,
 "filterable": 0
 },
-{"key":"Lgyy","name":"蓝光影视┃聚合","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{
-"key": "csp_voflix",
-"name": "voflix┃聚合B",
-"type": 3,
-"api": "csp_XBiubiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
-},
-{
-"key": "csp_Auete",
-"name": "Auete┃聚合",
-"type": 3,
-"api": "csp_Auete",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
 {
 "key": "360",
-"name": "360影视┃国剧",
+"name": "360影视┃国剧聚合",
 "api": "csp_SP360",
 "type": 3,
 "filterable": 1,
@@ -40,19 +19,10 @@
 "searchable": 1,
 "ext": ""
 },
-{
-"key": "csp_Sp苹果",
-"name": "苹果视频┃聚合",
-"type": 3,
-"api": "csp_LiteApple",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
+{"key":"Lgyy","name":"蓝光影视┃国内外剧","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "CZSPP",
-"name": "厂长影视┃聚合",
+"name": "厂长影视┃国内外剧",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -61,74 +31,20 @@
 "ext": ""
 },
 {
-"key": "dr_爱车MV",
-"name": "爱车MV(drpy)",
+"key": "4K",
+"name": "4K影视┃国内外剧",
 "type": 3,
-"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
-"searchable": 2,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "https://drpyfork.fenwe521.repl.co/admin/view/爱车MV.js"
-},
-{
-"key":"csp_xBPQ_蓝光影院",
-"name":" 蓝光影院┃聚合Q",
-"type":3,
-"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"
-},
-{
-"key": "dr_追剧达人",
-"name": "追剧达人(drpy)",
-"type": 3,
-"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
-"searchable": 2,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://drpyfork.fenwe521.repl.co/admin/view/追剧达人.js"
-},
-{"key":"Kuaikan","name":"快看影视┃聚合","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{
-"key": "csp_Nmys",
-"name": "农民影视┃聚合P",
-"type": 3,
-"api": "csp_Nmys",
-"searchable": 1,
-"quickSearch": 1,
+"api": "csp_xBPQ",
 "filterable": 1,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
-},
-{
-"key": "csp_M7酷云",
-"name":"酷云七七┃聚合",
-"type":3,
-"api": "csp_Kunyu77",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-{
-"key": "csp_xpath_fantuan",
-"name": "饭团HD┃聚合P",
-"type": 3,
-"api": "csp_XPathFilter",
-"searchable": 1,
 "quickSearch": 1,
-"filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
-},
-{
-"key": "csp_哔滴" ,
-"name": "哔滴影视┃聚合",
-"type":3,
-"api":"csp_Bdys01",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
+"searchable": 1,
+"playerType": "1",
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/XbPQ350.jar",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"
 },
 {
 "key": "csp_DiDuan",
-"name": "低端影视┃欧美",
+"name": "低端影视┃欧美日韩",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -138,28 +54,17 @@
 "ext": ""
 },
 {
-"key": "csp_Zjdr", 
-"name": "追剧达人(爬虫）", 
+"key": "csp_Yj1211", 
+"name": "直播合集┃斗哔虎网", 
 "type": 3, 
-"api": "csp_Zjdr", 
+"api": "csp_Yj1211", 
 "searchable": 1, 
 "quickSearch": 1, 
-"filterable": 1, 
-"ext": ""
-},
-{
-"key": "Zxzj",
-"name": "在线之家┃欧美",
-"type": 3,
-"api": "csp_Zxzj",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1, 
-"ext": ""
+"filterable": 1
 },
 {
 "key": "csp_XYQ_lu1",
-"name": "️柠檬电视┃直播",
+"name": "️柠檬电视┃电视直播",
 "type": 3,
 "api": "csp_XYQHiker",
 "searchable": 1,
@@ -168,15 +73,151 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar"
 },
-{"key":"Tbook","name":"听书故事┃听书","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
 {
-"key": "csp_Yj1211", 
-"name": "直播合集(爬虫)", 
+"key": "csp_XYQ_kgmv",
+"name": "酷狗音乐┃音乐MV",
+"type": 3,
+"api": "csp_XYQBiu",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json"
+},
+{"key":"Tbook","name":"听书故事┃主人听书","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
+{
+"key": "csp_Zjdr", 
+"name": "追剧达人┃国内外剧", 
 "type": 3, 
-"api": "csp_Yj1211", 
+"api": "csp_Zjdr", 
 "searchable": 1, 
 "quickSearch": 1, 
+"filterable": 1, 
+"ext": ""
+},
+{
+"key": "csp_Auete",
+"name": "Auete┃国内外剧",
+"type": 3,
+"api": "csp_Auete",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": ""
+},
+{
+"key": "AppTT",
+"name": "图图影视┃选线观看",
+"type": 3,
+"api": "csp_AppTT",
+"searchable": 1,
+"quickSearch": 1,
 "filterable": 1
+},
+{
+"key": "csp_Sp苹果",
+"name": "苹果视频┃国内外剧",
+"type": 3,
+"api": "csp_LiteApple",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": ""
+},
+{
+"key": "IKan",
+"name": "爱看影视┃国内外剧",
+"type": 3,
+"api": "csp_IKan",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+{
+"key": "csp_M7酷云",
+"name":"七七影视┃国内外剧",
+"type":3,
+"api": "csp_Kunyu77",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+{
+"key": "dr_爱车MV",
+"name": "爱车MV┃车载观看",
+"type": 3,
+"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
+"searchable": 2,
+"quickSearch": 0,
+"filterable": 0,
+"ext": "https://drpyfork.fenwe521.repl.co/admin/view/爱车MV.js"
+},
+{
+"key": "Zxzj",
+"name": "在线之家┃欧美日韩",
+"type": 3,
+"api": "csp_Zxzj",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1, 
+"ext": ""
+},
+{
+"key": "csp_voflix",
+"name": "voflix┃国内外剧",
+"type": 3,
+"api": "csp_XBiubiu",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
+},
+{
+"key": "csp_哔滴" ,
+"name": "哔滴影视┃国内外剧",
+"type":3,
+"api":"csp_Bdys01",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+{
+
+{"key":"Kuaikan",
+"name":"快看影视┃聚合",
+"type":3,
+"api":"csp_Kuaikan",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+{
+"key": "csp_Bttoo",
+"name": "BT影视┃聚合",
+"type": 3,
+"api": "csp_Bttoo",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+{
+"key": "csp_Nmys",
+"name": "农民影视┃聚合xpath",
+"type": 3,
+"api": "csp_Nmys",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
+},
+{
+"key": "csp_xpath_fantuan",
+"name": "饭团影视┃聚合xpath",
+"type": 3,
+"api": "csp_XPathFilter",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
 },
 {
 "key": "dr_抓饭体育", 
@@ -199,18 +240,8 @@
 "ext": "http://101.34.67.237:5705/admin/view/短视频.js"
 },
 {
-"key": "csp_XYQ_kgmv",
-"name": "酷狗音乐┃MV",
-"type": 3,
-"api": "csp_XYQBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json"
-},
-{
 "key": "csp_Bili相声",
-"name": "相声小品┃相声",
+"name": "相声小品┃国内相声",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -220,7 +251,7 @@
 },
 {
 "key": "学习乐园",
-"name": "学习乐园┃教育",
+"name": "学习乐园┃国内教育",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -240,7 +271,7 @@
 },
 {
 "key": "csp_Bili戏曲",
-"name": "哔哩┃戏曲",
+"name": "哔哩┃国粹戏曲",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -306,13 +337,6 @@
 "ext": "http://www.fenwe.tk:5705/admin/view/tva云播.js"
 },
 {
-"key": "drpy_js_低端影视", 
-"name": "低端影视(道长)", 
-"type": 3, 
-"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js", 
-"ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"
-},
-{
 "key": "dr_有声小说吧", 
 "name": "有声小说吧(drpy)", 
 "type": 3, 
@@ -342,25 +366,6 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"
 },
-{
-"key": "csp_xp_jLgyy",
-"name": "蓝光影院┃聚合P",
-"type": 3,
-"api": "csp_XPathFilter",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"
-},
-{
-"key": "csp_Bttoo",
-"name": "BT影视┃聚合",
-"type": 3,
-"api": "csp_Bttoo",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
 {"key":"Cokemv","name":"Cokemv┃聚合","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key": "csp_xpath_heihu",
@@ -384,16 +389,6 @@
 },
 {"key":"Dy555","name":"555影视┃聚合","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
 {
-"key":"spider_IKan",
-"name":"爱看影视┃聚合",
-"type":3,
-"api":"csp_IKan",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext": ""  
-},  
-{
 "key":"mtv_My_神马",
 "name":"神马影视┃聚合",
 "type":3,
@@ -403,6 +398,15 @@
 "searchable":1,
 "ext": ""  
 },
+{
+"key":"csp_追剧喵",
+"name": "追剧喵┃聚合",
+"type":3,
+"api":"csp_ZJMiao",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},  
 {
 "key": "007",
 "name": "007影视┃聚合P",
@@ -414,26 +418,6 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/007ts.json"
 },
 {
-"key": "csp_xp_libvio",
-"name": "libvio┃聚合P",
-"type": 3,
-"api": "csp_XPathMacFilter",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/libvio.json"
-},
-{
-"key": "auete",
-"name": "AUETE┃聚合B",
-"type": 3,
-"api": "csp_XBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/auete.json"
-},
-{
 "key":"csp_XBPQ花猫TV",
 "name":" 花猫TV┃聚合Q",
 "type":3,
@@ -441,25 +425,6 @@
 "quickSearch":1,"filterable":1,
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"
 },  
-{
-"key":"csp_xpath_wanmeikk",
-"name":"完美看看┃聚合P",
-"type":3,
-"api":"csp_XPathMac",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8bXPathMac.json"
-},  
-{
-"key":"csp_追剧喵",
-"name": "追剧喵┃聚合",
-"type":3,
-"api":"csp_ZJMiao",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
 {
 "key": "zbk",
 "name": "真不卡┃聚合R",
@@ -469,16 +434,6 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
-},
-{
-"key": "lez2",
-"name": "乐猪影视┃聚合R",
-"type": 3,
-"api": "csp_XBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"
 },
 {
 "key": "dr_69美剧",
@@ -501,16 +456,6 @@
 "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
 },
 {
-"key": "cokemv",
-"name": "cokemv┃聚合R",
-"type": 3,
-"api": "csp_XBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
-},
-{
 "key": "REPEN",
 "name": "RENPE┃聚合R",
 "type": 3,
@@ -519,16 +464,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
-},
-{
-"key": "csp_爱看",
-"name": "爱看影视┃R",
-"type": 3,
-"api": "csp_XBiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
 },
 {
 "key": "巨人",
@@ -540,6 +475,16 @@
 "filterable": 0,
 "ext": "{\"免嗅\":\"0\",\"播放数组\":\"<ul class=\\\"hl-plays-list&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3#动画片$6\",\"分类url\":\"https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html\"}"
 },
+{
+"key": "csp_appysv2",
+"name": "雪人影视┃App",
+"type": 3,
+"api": "csp_AppYsV2",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://app.xueren.one:80/xgapp.php/v2/"
+},  
 {
 "key": "SPQQ",
 "name": "QQ影视┃国剧",
