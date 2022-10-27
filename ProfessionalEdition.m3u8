@@ -9,6 +9,7 @@
 "quickSearch": 1,
 "filterable": 0
 },
+{"key":"Lgyy","name":"蓝光┃聚合","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_voflix",
 "name": "voflix┃聚合B",
