@@ -182,7 +182,7 @@
 },
 {
 "key":"Kuaikan",
-"name":"快看影视┃聚合",
+"name":"快看影视┃国内外剧",
 "type":3,
 "api":"csp_Kuaikan",
 "searchable":1,
@@ -191,7 +191,7 @@
 },
 {
 "key": "csp_Bttoo",
-"name": "BT影视┃聚合",
+"name": "BT影视┃国内外剧",
 "type": 3,
 "api": "csp_Bttoo",
 "searchable": 1,
