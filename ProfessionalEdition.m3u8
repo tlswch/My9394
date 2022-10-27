@@ -9,7 +9,7 @@
 "quickSearch": 1,
 "filterable": 0
 },
-{"key":"Lgyy","name":"蓝光┃聚合","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Lgyy","name":"蓝光影视┃聚合","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_voflix",
 "name": "voflix┃聚合B",
@@ -87,6 +87,7 @@
 "filterable": 0,
 "ext": "https://drpyfork.fenwe521.repl.co/admin/view/追剧达人.js"
 },
+{"key":"Kuaikan","name":"快看影视┃聚合","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_Nmys",
 "name": "农民影视┃聚合P",
@@ -134,7 +135,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
+"ext": ""
 },
 {
 "key": "csp_Zjdr", 
@@ -144,7 +145,7 @@
 "searchable": 1, 
 "quickSearch": 1, 
 "filterable": 1, 
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
+"ext": ""
 },
 {
 "key": "Zxzj",
@@ -154,7 +155,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1, 
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"
+"ext": ""
 },
 {
 "key": "csp_XYQ_lu1",
@@ -167,6 +168,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar"
 },
+{"key":"Tbook","name":"听书故事┃听书","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_Yj1211", 
 "name": "直播合集(爬虫)", 
@@ -358,7 +360,8 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1
-},  
+},
+{"key":"Cokemv","name":"Cokemv┃聚合","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key": "csp_xpath_heihu",
 "name": "黑狐影视┃聚合P",
@@ -379,6 +382,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
+{"key":"Dy555","name":"555影视┃聚合","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key":"spider_IKan",
 "name":"爱看影视┃聚合",
@@ -387,7 +391,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"  
+"ext": ""  
 },  
 {
 "key":"mtv_My_神马",
@@ -397,7 +401,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ct.jar;md5;3F4BF5908DBD235EF77385909FE796FD"  
+"ext": ""  
 },
 {
 "key": "007",
@@ -742,7 +746,7 @@
 "playerType": 1,
 "quickSearch": 1,
 "filterable": 1,
-"jar": "http://home.jundie.top:81/jar/top97_1.jar"
+"jar": "http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB",
 },
 {
 "key": "csp_BR",
@@ -759,7 +763,7 @@
 "host": "*",
 "rule": ["http((?!http).)*?default\\.365yg\\.com/.*|http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)\\?.*|http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)|http((?!http).){26,}?/m3u8\\?pt=m3u8.*|http((?!http).)*?default\\.ixigua\\.com/.*|http((?!http).)*?cdn-tos[^\\?]*|http((?!http).)*?/obj/tos[^\\?]*|http.*?/player/m3u8play\\.php\\?url=.*|http.*?/player/.*?[pP]lay\\.php\\?url=.*|http.*?/playlist/m3u8/\\?vid=.*|http.*?\\.php\\?type=m3u8&.*|http.*?/download.aspx\\?.*|http.*?/api/up_api.php\\?.*|http.*?\\.66yk\\.cn.*|http((?!http).)*?netease\\.com/file/.*|http((?!http).)*?douyin\\.com/.*/play/\\?.*|http((?!http).)*?huoshan\\.com/.*/\\?item.*"]
 }],
-"spider": "https://agit.ai/qi169/My9394/raw/branch/master/jar/vod1020.jar;md5;3F4BF5908DBD235EF77385909FE796FD",
+"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;6170D8CC9E84C9F3708CFF111020D486",
 "lives": [{
 "group": "redirect",
 "channels": [{
@@ -778,7 +782,8 @@
 { "name":"Q3", "type": 0, "url": "https://dm.xmflv.com:4433/?url=", "ext": { "flag": ["imgo", "ltnb", "renrenmi", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "bilibili", "哔哩哔哩", "哔哩"] } }, 
 { "name": "F3.1", "type": 1, "url": "http://43.249.192.246:2626/jhy/json.php?token=ktuxzCFGJNPQTWZ569&url=", "ext": { "flag": [ "rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ] } }, 
 { "name": "F3.2", "type": 1, "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=", "ext": { "flag": [ "rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ] } }, 
-{ "name": "F3.9", "type": 1, "url": "http://jx.vipmv.co/json.php?token=123457&url=", "ext": { "flag": [ "rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ] } }, 
+{ "name": "F3.8", "type": 1, "url": "http://jx.vipmv.co/json.php?token=123457&url=", "ext": { "flag": [ "rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ] } }, 
+{"name":"F3.9","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
 { "name": "Q3.9", "type": 0, "url": "https://hxys.tv/bfq/?url=" }, 
 { "name": "Q5", "type": 0, "url": "https://play.fositv.com/?url=" }, 
 { "name": "Q6", "type": 0, "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36", "url": "https://jx.bozrc.com:4433/player/?url=" }, 
