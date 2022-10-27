@@ -357,7 +357,7 @@
 },
 {
 "key": "csp_xp_剧白白P",
-"name": "剧白白┃国内外剧",
+"name": "剧刷白白┃国内外剧",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -365,7 +365,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"
 },
-{"key":"Cokemv","name":"Cokemv┃聚合","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"Cokemv","name":"可乐影视┃国内外剧","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key": "csp_xpath_heihu",
 "name": "黑狐影视┃国内外剧",
@@ -386,7 +386,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
-{"key":"Dy555","name":"555影视┃聚合","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"Dy555","name":"555影视┃国内外剧","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key":"mtv_My_神马",
 "name":"神马影视┃国内外剧",
@@ -399,7 +399,7 @@
 },
 {
 "key":"csp_追剧喵",
-"name": "追剧喵┃国内外剧",
+"name": "追剧喵喵┃国内外剧",
 "type":3,
 "api":"csp_ZJMiao",
 "searchable":1,
@@ -426,7 +426,7 @@
 },  
 {
 "key": "zbk",
-"name": "真不卡┃国内外剧",
+"name": "不卡影视┃国内外剧",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -545,7 +545,7 @@
 },   
 {
 "key": "搬运工",
-"name": "搬运工┃官采资源",
+"name": "搬运资源┃官采资源",
 "type": 1,
 "api": "https://cj.banyung.xyz/",
 "playUrl": "",
