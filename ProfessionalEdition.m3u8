@@ -143,7 +143,7 @@
 },
 {
 "key": "dr_爱车MV",
-"name": "爱车MV┃车载观看",
+"name": "爱车MV┃观看MV",
 "type": 3,
 "api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
 "searchable": 2,
@@ -200,7 +200,7 @@
 },
 {
 "key": "csp_Nmys",
-"name": "农民影视┃聚合xpath",
+"name": "农民影视┃国内外剧",
 "type": 3,
 "api": "csp_Nmys",
 "searchable": 1,
@@ -210,7 +210,7 @@
 },
 {
 "key": "csp_xpath_fantuan",
-"name": "饭团影视┃聚合xpath",
+"name": "饭团影视┃国内外剧",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -220,7 +220,7 @@
 },
 {
 "key": "dr_抓饭体育", 
-"name": "抓饭体育(drpy)", 
+"name": "抓饭体育┃观看体育", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -230,7 +230,7 @@
 },
 {
 "key": "dr_短视频",
-"name": "短视频(drpy)",
+"name": "短短视频┃观看视频",
 "type": 3,
 "api": "http://101.34.67.237:5705/libs/drpy.min.js",
 "searchable": 0,
@@ -260,7 +260,7 @@
 },
 {
 "key": "csp_Bili演唱会",
-"name": "哔哩┃演唱会",
+"name": "哔哩哔哩┃演唱观看",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -270,7 +270,7 @@
 },
 {
 "key": "csp_Bili戏曲",
-"name": "哔哩┃国粹戏曲",
+"name": "哔哩哔哩┃戏曲观看",
 "type": 3,
 "api": "csp_Bili",
 "searchable": 0,
@@ -280,14 +280,14 @@
 },
 {
 "key": "drpy_js_喵喵", 
-"name": "2345看(道长)", 
+"name": "喵喵影视┃国内外剧", 
 "type": 3, 
 "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"
 },
 {
 "key": "dr_星辰", 
-"name": "星辰(drpy)", 
+"name": "星辰影视┃国内外剧", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -297,7 +297,7 @@
 },
 {
 "key": "dr_麦豆com", 
-"name": "麦豆com(drpy)", 
+"name": "麦豆影视┃国内外剧", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -307,7 +307,7 @@
 },
 {
 "key": "dr_双十电影", 
-"name": "双十电影(drpy)", 
+"name": "双十电影┃国内外剧", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -317,7 +317,7 @@
 }, 
 {
 "key": "dr_爱迪影视", 
-"name": "爱迪影视(drpy)", 
+"name": "爱迪影视┃国内外剧", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -327,7 +327,7 @@
 },
 {
 "key": "dr_tva云播", 
-"name": "tva云播(drpy)", 
+"name": "TVB云播┃国内外剧", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -337,7 +337,7 @@
 },
 {
 "key": "dr_有声小说吧", 
-"name": "有声小说吧(drpy)", 
+"name": "有声小说┃小说故事", 
 "type": 3, 
 "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
 "searchable": 2, 
@@ -347,7 +347,7 @@
 },
 {
 "key": "98影院",
-"name": "98影院┃聚合Q",
+"name": "98影院┃国内外剧",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -357,7 +357,7 @@
 },
 {
 "key": "csp_xp_剧白白P",
-"name": "剧白白┃聚合",
+"name": "剧白白┃国内外剧",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -368,7 +368,7 @@
 {"key":"Cokemv","name":"Cokemv┃聚合","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key": "csp_xpath_heihu",
-"name": "黑狐影视┃聚合P",
+"name": "黑狐影视┃国内外剧",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -378,7 +378,7 @@
 },
 {
 "key": "csp_xp_gongreng",
-"name": "工人影视┃聚合P",
+"name": "工人影视┃国内外剧",
 "type": 3,
 "api": "csp_XPathMacFilter",
 "searchable": 1,
@@ -389,7 +389,7 @@
 {"key":"Dy555","name":"555影视┃聚合","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
 {
 "key":"mtv_My_神马",
-"name":"神马影视┃聚合",
+"name":"神马影视┃国内外剧",
 "type":3,
 "api":"csp_Smdyy",
 "filterable":1,
@@ -399,7 +399,7 @@
 },
 {
 "key":"csp_追剧喵",
-"name": "追剧喵┃聚合",
+"name": "追剧喵┃国内外剧",
 "type":3,
 "api":"csp_ZJMiao",
 "searchable":1,
@@ -408,7 +408,7 @@
 },  
 {
 "key": "007",
-"name": "007影视┃聚合P",
+"name": "007影视┃国内外剧",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
@@ -418,7 +418,7 @@
 },
 {
 "key":"csp_XBPQ花猫TV",
-"name":" 花猫TV┃聚合Q",
+"name":" 花猫TV┃国内外剧",
 "type":3,
 "api":"csp_xBPQ","searchable":1,
 "quickSearch":1,"filterable":1,
@@ -426,7 +426,7 @@
 },  
 {
 "key": "zbk",
-"name": "真不卡┃聚合R",
+"name": "真不卡┃国内外剧",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -436,7 +436,7 @@
 },
 {
 "key": "dr_69美剧",
-"name": "69美剧(drpy)",
+"name": "69美剧┃国内外剧",
 "type": 3,
 "api": "http://101.34.67.237:5705/libs/drpy.min.js",
 "searchable": 2,
@@ -446,7 +446,7 @@
 },
 {
 "key": "ysgc",
-"name": "影视工厂┃聚合R",
+"name": "影视工厂┃国内外剧",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -456,7 +456,7 @@
 },
 {
 "key": "REPEN",
-"name": "RENPE┃聚合R",
+"name": "RENPE┃国内外剧",
 "type": 3,
 "api": "csp_XBiu",
 "searchable": 1,
@@ -466,7 +466,7 @@
 },
 {
 "key": "巨人",
-"name": "巨人影院┃聚合Q",
+"name": "巨人影院┃国内外剧",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -476,7 +476,7 @@
 },
 {
 "key": "csp_appysv2",
-"name": "雪人影视┃App",
+"name": "雪人影视┃App观看",
 "type": 3,
 "api": "csp_AppYsV2",
 "searchable": 1,
@@ -486,7 +486,7 @@
 },  
 {
 "key": "SPQQ",
-"name": "QQ影视┃国剧",
+"name": "QQ影视┃国剧观看",
 "type": 3,
 "api": "csp_QQ",
 "searchable": 1,
@@ -495,7 +495,7 @@
 },
 {
 "key": "SPIQY",
-"name": "IQIYI影视┃国剧",
+"name": "IQIYI影视┃国剧观看",
 "type": 3,
 "api": "csp_IQIYI",
 "searchable": 1,
@@ -504,7 +504,7 @@
 },
 {
 "key": "SPMGTV",
-"name": "MGTV影视┃国剧",
+"name": "MGTV影视┃国剧观看",
 "type": 3,
 "api": "csp_MGTV",
 "searchable": 1,
@@ -513,7 +513,7 @@
 },
 {
 "key": "天堂资源",
-"name": "天堂资源┃资源",
+"name": "天堂资源┃官采资源",
 "type": 1,
 "api": "http://vipmv.cc/api.php/provide/vod/",
 "searchable": 1,
@@ -521,7 +521,7 @@
 },
 {
 "key": "小猫咪",
-"name": "猫咪资源┃资源",
+"name": "猫咪资源┃官采资源",
 "type": 1,
 "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
 "searchable": 1,
@@ -529,7 +529,7 @@
 },
 {
 "key": "云海官采",
-"name": "云海资源┃资源",
+"name": "云海资源┃官采资源",
 "type": 1,
 "api": "http://101.34.7.151:600/api.php/provide/vod/",
 "searchable": 1,
@@ -537,7 +537,7 @@
 },
 {
 "key": "1080", 
-"name": "容兴资源┃资源", 
+"name": "容兴资源┃官采资源", 
 "type": 1, 
 "api": "http://103.222.188.156:99/rongxingapi.php/provide/vod/", 
 "searchable": 1, 
@@ -545,7 +545,7 @@
 },   
 {
 "key": "搬运工",
-"name": "搬运工┃资源",
+"name": "搬运工┃官采资源",
 "type": 1,
 "api": "https://cj.banyung.xyz/",
 "playUrl": "",
@@ -584,7 +584,7 @@
 },
 {
 "key": "江湖官采",
-"name": "江湖资源┃资源",
+"name": "江湖资源┃官采资源",
 "type": 1,
 "api": "http://119.29.1.173/api.php/provide/vod/",
 "searchable": 1,
@@ -592,7 +592,7 @@
 },
 {
 "key": "忆梦",
-"name": "忆梦资源┃资源",
+"name": "忆梦资源┃官采资源",
 "type": 1,
 "api": "http://anltv.cn/api.php/provide/vod/",
 "searchable": 1,
@@ -600,7 +600,7 @@
 },
 {
 "key": "诺讯资源",
-"name": "诺讯资源┃资源",
+"name": "诺讯资源┃官采资源",
 "type": 1,
 "api": "http://caiji.nxflv.com/api.php/provide/vod/",
 "searchable": 1,
@@ -608,7 +608,7 @@
 },
 {
 "key": "v2_天空TV",
-"name": "天空TV┃App",
+"name": "天空TV┃App观看",
 "type": 3,
 "api": "csp_AppYsV2",
 "searchable": 1,
@@ -618,7 +618,7 @@
 },
 {
 "key": "csp_v2amhys",
-"name": "爱麻花影院┃App",
+"name": "麻花影院┃App观看",
 "type": 3,
 "api": "csp_AppYsV2",
 "searchable": 1,
@@ -628,7 +628,7 @@
 },
 {
 "key": "Yisou",
-"name": "易搜┃搜索",
+"name": "易搜阿里┃搜索观看",
 "type": 3,
 "api": "csp_Yiso",
 "playerType": 1,
@@ -639,7 +639,7 @@
 },
 {
 "key": "Zhaozy",
-"name": "找资源┃搜索",
+"name": "找源阿里┃搜索观看",
 "type": 3,
 "api": "csp_Zhaozy",
 "playerType": 1,
@@ -650,7 +650,7 @@
 },
 {
 "key": "Upyunso",
-"name": "p云搜┃搜索",
+"name": "云搜阿里┃搜索观看",
 "type": 3,
 "api": "csp_Upyunso",
 "playerType": 1,
@@ -661,7 +661,7 @@
 },
 {
 "key": "Alips",
-"name": "Ali盘搜┃搜索",
+"name": "Ali盘搜┃搜索观看",
 "type": 3,
 "api": "csp_AliPS",
 "playerType": 1,
@@ -672,7 +672,7 @@
 },
 {
 "key": "push_agent",
-"name": "手机推送┃云盘|磁力",
+"name": "手机推送┃云盘磁力",
 "type": 3,
 "api": "csp_PushAgent",
 "playerType": 1,
@@ -683,7 +683,7 @@
 },
 {
 "key": "csp_云盘",
-"name": "纸条┃云盘",
+"name": "阿里纸条┃云盘观看",
 "type": 3,
 "api": "csp_Gitcafe",
 "searchable": 1,
@@ -694,7 +694,7 @@
 },
 {
 "key": "csp_BR",
-"name": "巴士动漫┃动漫",
+"name": "巴士动漫┃动漫观看",
 "type": 3,
 "api": "csp_XPathFilter",
 "searchable": 1,
