@@ -1,6 +1,16 @@
 {
 "sites": [
 {
+"key": "CZSPP",
+"name": "厂长影视┃国内外剧",
+"type": 3,
+"api": "csp_Czsapp",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": ""
+},
+{
 "key": "T4",
 "name": "影视推荐",
 "type": 4,
@@ -20,16 +30,6 @@
 "ext": ""
 },
 {"key":"Lgyy","name":"蓝光影视┃国内外剧","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{
-"key": "CZSPP",
-"name": "厂长影视┃国内外剧",
-"type": 3,
-"api": "csp_Czsapp",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
 {
 "key": "4K",
 "name": "4K影视┃国内外剧",
