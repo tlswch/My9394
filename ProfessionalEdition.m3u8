@@ -736,7 +736,7 @@
 }]
 }],
 "parses": [{ "name": "自动播放遇问题，尝试手按数字。推荐首选", "type": 3, "url": "Demo" }, 
-{ "name": "推荐首选", "type": 0, "url": "https://vip.parwix.com:4433/player/?url="},  
+{ "name": "推荐首选", "type": 0, "url": "https://dm.xmflv.com:4433/?url="},  
 { "name": "Q2", "type": 0, "url": "https://www.yemu.xyz/?url="},
 {"name": "F1","url": "http://101.34.67.237:5705/parse/api/酷云.js?url=", "type": 1, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0" } } },
 { "name": "F2", "type": 1, "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=", "ext": { "flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"] } },
