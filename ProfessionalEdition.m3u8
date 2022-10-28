@@ -226,7 +226,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/抓饭体育.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%8A%93%E9%A5%AD%E4%BD%93%E8%82%B2.js"
 },
 {
 "key": "dr_短视频",
@@ -236,7 +236,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 0,
-"ext": "http://101.34.67.237:5705/admin/view/短视频.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%9F%AD%E8%A7%86%E9%A2%91.js"
 },
 {
 "key": "csp_Bili相声",
@@ -293,7 +293,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/星辰.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%98%9F%E8%BE%B0(%E9%A6%96%E5%9B%BE2).js"
 },
 {
 "key": "dr_麦豆com", 
@@ -303,7 +303,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/麦豆com.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E9%BA%A6%E8%B1%86.js"
 },
 {
 "key": "dr_双十电影", 
@@ -313,7 +313,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/双十电影.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E5%8F%8C%E5%8D%81%E7%94%B5%E5%BD%B1.js"
 }, 
 {
 "key": "dr_爱迪影视", 
@@ -323,7 +323,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/爱迪影视.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%88%B1%E8%BF%AA%E5%BD%B1%E8%A7%86.js"
 },
 {
 "key": "dr_tva云播", 
@@ -333,7 +333,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/tva云播.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/TV%E4%BA%91%E6%92%AD.js"
 },
 {
 "key": "dr_有声小说吧", 
@@ -343,7 +343,7 @@
 "searchable": 2, 
 "quickSearch": 0, 
 "filterable": 0, 
-"ext": "http://www.fenwe.tk:5705/admin/view/有声小说吧.js"
+"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
 },
 {
 "key": "98影院",
