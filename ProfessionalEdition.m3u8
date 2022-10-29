@@ -29,7 +29,16 @@
 "searchable": 1,
 "ext": ""
 },
-{"key":"Lgyy","name":"蓝光影视┃国内外剧","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{
+"key":"Lgyy",
+"name":"蓝光影视┃国内外剧",
+"type":3,
+"api":"csp_Lgyy",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
+},
 {
 "key": "4K",
 "name": "4K影视┃国内外剧",
@@ -93,7 +102,7 @@
 "searchable": 1, 
 "quickSearch": 1, 
 "filterable": 1, 
-"ext": ""
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
 },
 {
 "key": "csp_Auete",
@@ -133,7 +142,8 @@
 "api": "csp_IKan",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1
+"filterable": 1,
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
 },
 {
 "key": "csp_M7酷云",
@@ -220,7 +230,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": ""
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
 },
 {
 "key": "dr_抓饭体育", 
