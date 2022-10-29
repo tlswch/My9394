@@ -37,7 +37,8 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662",
+"ext": ""
 },
 {
 "key": "4K",
@@ -101,8 +102,9 @@
 "api": "csp_Zjdr", 
 "searchable": 1, 
 "quickSearch": 1, 
-"filterable": 1, 
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
+"filterable": 1,
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662",
+"ext": ""
 },
 {
 "key": "csp_Auete",
@@ -143,7 +145,8 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662"
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;1895F41ED129B669268FC7597C218662",
+"ext": ""
 },
 {
 "key": "csp_M7酷云",
