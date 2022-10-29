@@ -10,6 +10,21 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        {
+	        "key":"csp_xBPQ_电影先生",
+	        "name": "🤵电影先生",
+	        "type": 3,
+	        "api": "csp_xBPQ",
+	        "searchable": 1,
+	        "quickSearch": 0,
+	        "filterable": 0,
+	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.json"
+        }, 
+        
+        
+        
+        
+        
 
 {"key":"csp_xBPQ_喵喵","name":"喵喵电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_xBPQ_4k","name":"4k┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4kvm.json"},
