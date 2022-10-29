@@ -71,7 +71,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar"
+"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1028.jar;md5;A6F58621078443399B1D0EEC8DC62696"
 },
 {
 "key": "csp_XYQ_kgmv",
@@ -81,7 +81,8 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json",
+"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1028.jar;md5;A6F58621078443399B1D0EEC8DC62696"
 },
 {"key":"Tbook","name":"听书故事┃主人听书","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
 {
