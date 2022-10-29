@@ -200,14 +200,14 @@
 "filterable": 1
 },
 {
-"key": "csp_Nmys",
+"key": "csp_xp_农民",
 "name": "农民影视┃国内外剧",
 "type": 3,
-"api": "csp_Nmys",
+"api": "csp_XPathMacFilter",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/xpath/v.xiangdao.json"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
 {
 "key": "csp_xpath_fantuan",
@@ -394,16 +394,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e9%bb%91%e7%8b%90.json"
-},
-{
-"key": "csp_xp_gongreng",
-"name": "工人影视┃国内外剧",
-"type": 3,
-"api": "csp_XPathMacFilter",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
 {"key":"Dy555","name":"555影视┃国内外剧","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},  
 {
