@@ -51,7 +51,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1029%20%282%29.jar;md5;A6F58621078443399B1D0EEC8DC62696"
+"ext": ""
 },
 {
 "key": "csp_Yj1211", 
@@ -110,6 +110,7 @@
 "name": "图图影视┃选线观看",
 "type": 3,
 "api": "csp_AppTT",
+"playerType":1,
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1
@@ -119,6 +120,7 @@
 "name": "苹果视频┃国内外剧",
 "type": 3,
 "api": "csp_LiteApple",
+"playerType":1,
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -186,6 +188,7 @@
 "name":"快看影视┃国内外剧",
 "type":3,
 "api":"csp_Kuaikan",
+"playerType":1,
 "searchable":1,
 "quickSearch":1,
 "filterable":1
@@ -200,10 +203,10 @@
 "filterable": 1
 },
 {
-"key": "csp_xp_农民",
+"key": "csp_xp_Nmys",
 "name": "农民影视┃国内外剧",
 "type": 3,
-"api": "csp_XPathMacFilter",
+"api": "csp_Nmys",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -213,11 +216,11 @@
 "key": "csp_xpath_fantuan",
 "name": "饭团影视┃国内外剧",
 "type": 3,
-"api": "csp_XPathFilter",
+"api": "csp_Fantuan",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/fantuan.json"
+"ext": ""
 },
 {
 "key": "dr_抓饭体育", 
@@ -457,12 +460,22 @@
 "key": "ysgc",
 "name": "影视工厂┃国内外剧",
 "type": 3,
-"api": "csp_XBiu",
+"api": "csp_Ysgc",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+"ext": ""
 },
+{
+"key":"csp_Cokemv",
+"name":"可乐影视┃国内外剧",
+"type":3,
+"api":"csp_Cokemv",
+"playerType":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},  
 {
 "key": "REPEN",
 "name": "RENPE┃国内外剧",
@@ -716,7 +729,7 @@
 "host": "*",
 "rule": ["http((?!http).)*?default\\.365yg\\.com/.*|http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)\\?.*|http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|mov|3gp|asf|rm|rmvb|wmv|mpg|mpeg|mpe|ts|vob|mp3|wma)|http((?!http).){26,}?/m3u8\\?pt=m3u8.*|http((?!http).)*?default\\.ixigua\\.com/.*|http((?!http).)*?cdn-tos[^\\?]*|http((?!http).)*?/obj/tos[^\\?]*|http.*?/player/m3u8play\\.php\\?url=.*|http.*?/player/.*?[pP]lay\\.php\\?url=.*|http.*?/playlist/m3u8/\\?vid=.*|http.*?\\.php\\?type=m3u8&.*|http.*?/download.aspx\\?.*|http.*?/api/up_api.php\\?.*|http.*?\\.66yk\\.cn.*|http((?!http).)*?netease\\.com/file/.*|http((?!http).)*?douyin\\.com/.*/play/\\?.*|http((?!http).)*?huoshan\\.com/.*/\\?item.*"]
 }],
-"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/Tg99.txt;md5;6170D8CC9E84C9F3708CFF111020D486",
+"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq%20.jar;md5;B96E29CC92300D003E12EDDCCBB19D31",
 "lives": [{
 "group": "redirect",
 "channels": [{
