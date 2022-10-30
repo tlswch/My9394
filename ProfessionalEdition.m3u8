@@ -303,13 +303,6 @@
 "ext" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
 },
 {
-"key": "drpy_js_喵喵", 
-"name": "喵喵影视┃国内外剧", 
-"type": 3, 
-"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js", 
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"
-},
-{
 "key": "dr_星辰", 
 "name": "星辰影视┃国内外剧", 
 "type": 3, 
