@@ -2,6 +2,13 @@
 "sites":[
 //{"key": "T4a","name": " T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
  //==================================pluto.js版======================================================================================================================================================================================================
+{
+"key" : "drpy_js_素白白",
+"name" : "看素白白┃国内外剧",
+"type" : 3,
+"api" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+"ext" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
+},
 {"key": "牛马TV(DR)","name": "牛马TV[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%89%9b%e9%a9%acTV.js"},
 {"key": "酷云77(DR)","name": "酷云77[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%85%b7%e4%ba%9177.js"},
 {"key": "LIBVIO(DR)","name": "LIBVIO[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/LIBVIO.js"},
