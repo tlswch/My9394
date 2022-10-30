@@ -91,7 +91,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQ/%e9%85%b7%e7%8b%97mv.json",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/kugou.json",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1028.jar;md5;A6F58621078443399B1D0EEC8DC62696"
 },
 {"key":"Tbook","name":"听书故事┃主人听书","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
