@@ -536,6 +536,26 @@
 "ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e5%86%9b%e4%ba%8b.json"
 },
 {
+"key" : "py_哔哩js",
+"name" : "中医基础┃PY专用",
+"type" : 3,
+"api" : "py_bilimd",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%8c%bb%e8%8d%af.py"
+},
+{
+"key" : "py_哔哩js",
+"name" : "中国文化┃PY专用",
+"type" : 3,
+"api" : "py_bilimd",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%9b%bd%e6%96%87%e5%8c%96.py"
+},
+{
 "key" : "drpy_js_新视觉影视",
 "name" : "视觉影视┃国内外剧",
 "type" : 3,
