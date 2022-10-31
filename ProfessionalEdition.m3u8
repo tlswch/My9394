@@ -178,14 +178,14 @@
 "ext": ""
 },
 {
-"key": "csp_voflix",
-"name": "vofl影视┃国内外剧",
-"type": 3,
-"api": "csp_XBiubiu",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://agit.ai/qi169/My9394/raw/branch/master/XBiubiu/voflix.json"
+"key":"csp_xBPQ_voflixHD",
+"name":"VOFLIX┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/voflixHD.json"
 },
 {
 "key": "csp_哔滴" ,
@@ -296,6 +296,17 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2.php"
 },
 {
+"key":"csp_xBPQ_LIBVIO",
+"name":"LIBVIO┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LIBVIO.json"
+},
+
+{
 "key": "dr_星辰", 
 "name": "星辰影视┃国内外剧", 
 "type": 3, 
@@ -312,6 +323,44 @@
 "api" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 "ext" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%89%9B%E9%A9%ACTV.js"
 },
+{
+"key":"csp_xBPQ_达达龟",
+"name":"达龟影视┃国内外剧",
+"type":3,
+"api":"csp_xBPQ","searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%be%be%e8%be%be%e9%be%9f.json"
+},
+{
+"key":"csp_xBPQ_番茄影视",
+"name":"番茄影视┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%95%aa%e8%8c%84%e5%bd%b1%e8%a7%86.json"
+},
+{
+"key":"csp_xBPQ_皮皮泡影视",
+"name":"皮泡影视┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1%e5%bd%b1%e8%a7%86.json"},
+{
+"key":"csp_xBPQ_瓜皮TV",
+"name":"瓜皮TV┃国内外剧",
+"type":3,
+"api":"csp_xBPQ","searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%93%9c%e7%9a%aeTV.json"
+},
+
 {
 "key" : "drpy_js_人人影视",
 "name" : "人人影视┃国内外剧",
@@ -365,6 +414,13 @@
 "quickSearch": 0, 
 "filterable": 0, 
 "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
+},
+{
+"key" : "drpy_js_新视觉影视",
+"name" : "视觉影视┃国内外剧",
+"type" : 3,
+"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/js/%e6%96%b0%e8%a7%86%e8%a7%89%e5%bd%b1%e8%a7%86.json"
 },
 {
 "key": "98影院",
