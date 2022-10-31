@@ -41,7 +41,7 @@
 },
 {
 "key" : "py_cctv",
-"name" : "央视┃PY专用",
+"name" : "央视频道┃PY专用",
 "type" : 3,
 "api" : "py_cctv",
 "searchable" : 0,
