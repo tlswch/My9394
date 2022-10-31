@@ -666,7 +666,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "69ddb8566b0f4cfb965278be2d6abd94"
+"ext": "http://home.jundie.top:666/token.txt"
 },
 {
 "key": "Zhaozy",
@@ -677,7 +677,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "682c41720d6d4c9d8ded00bcdd712870"
+"ext": "http://home.jundie.top:666/token.txt"
 },
 {
 "key": "Upyunso",
@@ -688,18 +688,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "daae36603bcd490681bdd8d03940783a"
-},
-{
-"key": "Alips",
-"name": "Ali盘搜┃搜索观看",
-"type": 3,
-"api": "csp_AliPS",
-"playerType": 1,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "http://刚刚.live/json/alitoken.json"
+"ext": "http://home.jundie.top:666/token.txt"
 },
 {
 "key": "push_agent",
@@ -710,7 +699,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 0,
-"ext": "cb5a3c72b0b64d43b69bf8a36f64f92c"
+"ext": "http://home.jundie.top:666/token.txt"
 },
 {
 "key": "csp_云盘",
