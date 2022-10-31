@@ -30,6 +30,26 @@
 "ext": ""
 },
 {
+"key": "AppTT",
+"name": "图图影视┃国内外剧",
+"type": 3,
+"api": "csp_AppTT",
+"playerType":1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+{
+"key" : "py_cctv",
+"name" : "央视┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv.py"
+},
+{
 "key":"Lgyy",
 "name":"蓝光影视┃国内外剧",
 "type":3,
@@ -108,23 +128,13 @@
 },
 {
 "key": "csp_Auete",
-"name": "Auete┃国内外剧",
+"name": "AUETE┃国内外剧",
 "type": 3,
 "api": "csp_Auete",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "ext": ""
-},
-{
-"key": "AppTT",
-"name": "图图影视┃选线观看",
-"type": 3,
-"api": "csp_AppTT",
-"playerType":1,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
 },
 {
 "key": "csp_Sp苹果",
@@ -414,6 +424,126 @@
 "quickSearch": 0, 
 "filterable": 0, 
 "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
+},
+{
+"key" : "py_cctvzh",
+"name" : "央视综合┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e7%bb%bc%e5%90%88.json"
+},
+{
+"key" : "py_cctvxw",
+"name" : "央视新闻┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e6%96%b0%e9%97%bb.json"
+},
+{
+"key" : "py_cctvzy",
+"name" : "央视综艺┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/src/master/PY/%e5%a4%ae%e8%a7%86%e7%bb%bc%e5%90%88.json"
+},
+{
+"key" : "py_cctvdy",
+"name" : "央视电影┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e7%94%b5%e5%bd%b1.json"
+},
+{
+"key" : "py_cctvty",
+"name" : "央视体育┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e4%bd%93%e8%82%b2.json"
+},
+{
+"key" : "py_cctvfz",
+"name" : "央视法治┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e6%b3%95%e6%b2%bb.json"
+},
+{
+"key" : "py_cctvkj",
+"name" : "央视科教┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e7%a7%91%e6%95%99.json"
+},
+{
+"key" : "py_cctvyy",
+"name" : "央视音乐┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e9%9f%b3%e4%b9%90.json"
+},
+{
+"key" : "py_cctvse",
+"name" : "央视少儿┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e5%b0%91%e5%84%bf.json"
+},
+{
+"key" : "py_cctvny",
+"name" : "央视农业┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e5%86%9c%e4%b8%9a.json"
+},
+{
+"key" : "py_cctvjs",
+"name" : "央视军事┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e5%86%9b%e4%ba%8b.json"
+},
+{
+"key" : "py_cctvjs",
+"name" : "央视军事┃PY专用",
+"type" : 3,
+"api" : "py_cctv",
+"searchable" : 0,
+"quickSearch" : 0,
+"filterable" : 1,
+"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e5%a4%ae%e8%a7%86%e5%86%9b%e4%ba%8b.json"
 },
 {
 "key" : "drpy_js_新视觉影视",
