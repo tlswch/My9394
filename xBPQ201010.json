@@ -81,7 +81,7 @@
 {"key":"csp_xBPQ_唐人街","name":" 唐人街┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/TangRenJie.json"}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ_1029.jar;md5;DADB0F9D8FE5CAC88A51190464C14FF0",
+"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/xBPQ_1101.jar;md5;DADB0F9D8FE5CAC88A51190464C14FF0",
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
