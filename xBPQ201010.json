@@ -41,7 +41,7 @@
 	        "searchable": 1,
 	        "quickSearch": 1,
 	        "filterable": 0,
-            "ddys.tv;#vjsp > button",
+            "click": "ddys.tv;#vjsp > button",
 	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
         },
         
