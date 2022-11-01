@@ -30,10 +30,20 @@
 	        "searchable": 1,
 	        "quickSearch": 1,
 	        "filterable": 0,
-	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af.json"
+	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86%28xBPQ%29.json"
         }, 
         
-        
+        {
+	        "key":"csp_xBPQ_CCTV",
+	        "name": "CCTV┃xBPQ",
+	        "type": 3,
+	        "api": "csp_xBPQ",
+	        "searchable": 1,
+	        "quickSearch": 1,
+	        "filterable": 0,
+            "ddys.tv;#vjsp > button",
+	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
+        },
         
         
 
