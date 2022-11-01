@@ -30,8 +30,7 @@
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
 "lives":" [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-"rules" :" [{"host":"*","rule":["http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*"]},
-{"host":"*","rule":["http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"]}
+"rules" :" [{"host":"*","rule":["http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*"]}, {"host":"*","rule":["http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"]}
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
