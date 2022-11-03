@@ -364,7 +364,7 @@
 }, 
 {
   "key": "csp_xBPQ_荐片", 
-  "name": "荐片┃国内外剧", 
+  "name": "荐片影院┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -384,7 +384,7 @@
 }, 
 {
   "key": "csp_xBPQ_um", 
-  "name": "UM影┃国内外剧", 
+  "name": "UM影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -394,7 +394,7 @@
 }, 
 {
   "key": "csp_xBPQ_酷客", 
-  "name": "®️酷客┃国内外剧", 
+  "name": "酷客影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -424,7 +424,7 @@
 }, 
 {
   "key": "csp_xb_mzt", 
-  "name": "®️莫扎兔┃xBPQ", 
+  "name": "莫扎兔┃国内外剧", 
   "type": 3, 
   "api": "csp_XBiu", 
   "searchable": 1, 
@@ -454,7 +454,7 @@
 }, 
 {
   "key": "csp_xb_543", 
-  "name": "®️543影院┃国内外剧", 
+  "name": "543影院┃国内外剧", 
   "type": 3, 
   "api": "csp_XBiu", 
   "searchable": 1, 
