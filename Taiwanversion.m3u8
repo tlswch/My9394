@@ -312,8 +312,8 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json"
+
 },
 {
 "key": "学习乐园",
@@ -323,8 +323,8 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php"
+
 },
 {
 "key": "csp_Bili演唱会",
@@ -334,8 +334,8 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
+
 },
 {
 "key": "csp_Bili戏曲",
@@ -345,8 +345,8 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2.php",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2.php"
+
 },
 {
 "key":"csp_xBPQ_LIBVIO",
