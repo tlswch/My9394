@@ -12,7 +12,7 @@
 }, 
 {
     "key": "Pang", 
-    "name": "胖虎", 
+    "name": "胖虎电影┃国内外剧", 
     "type": "3", 
     "api": "csp_Dora", 
     "searchable": "1", 
@@ -22,7 +22,7 @@
 }, 
 {
   "key": "csp_xBPQ_电影先生", 
-  "name": "电影先生┃xBPQ", 
+  "name": "电影先生┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -32,12 +32,13 @@
 }, 
 {
   "key": "csp_xBPQ_电影先生", 
-  "name": "低端电影┃xBPQ", 
+  "name": "低端电影┃欧美日韩", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
   "quickSearch": 1, 
-  "filterable": 0, 
+  "filterable": 0,
+  "click": "ddys.tv;#vjsp > button",
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86%28xBPQ%29.json"
 }, 
 {
@@ -52,18 +53,17 @@
 }, 
 {
   "key": "csp_xBPQ_CCTV", 
-  "name": "CCTV┃xBPQ", 
+  "name": "CCTV频道┃中国节目", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
   "quickSearch": 1, 
   "filterable": 0, 
-  "click": "ddys.tv;#vjsp > button", 
-  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
+   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
 }, 
 {
 "key":"csp_xBPQ_喵喵",
-"name":"喵喵电影┃xBPQ",
+"name":"喵喵电影┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -73,7 +73,7 @@
 },
 {
 "key":"csp_xBPQ_4k",
-"name":"4k┃xBPQ",
+"name":"4k影视┃┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -84,7 +84,7 @@
 
 {
 "key":"csp_xBPQ_素白白",
-"name":"素白白┃xBPQ",
+"name":"素白影视┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -94,7 +94,7 @@
 },
 {
 "key":"csp_xBPQ_蓝光影院",
-"name":" 蓝光影院┃xBPQ",
+"name":" 蓝光影院┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -104,7 +104,7 @@
 },
 {
 "key":"csp_xBPQ_prp123",
-"name":"️RENPE影视┃xBPQ",
+"name":"️RENPE影视┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -114,7 +114,7 @@
 },
 {
 "key":"csp_xBPQ_神马影院",
-"name":" 神马影院┃xBPQ",
+"name":" 神马影院┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -124,7 +124,7 @@
 },
 {
 "key":"csp_XBPQ极品影视",
-"name":" 极品影视┃xBPQ",
+"name":" 极品影视┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -134,7 +134,7 @@
 },
 {
 "key":"csp_XBPQ影视工厂",
-"name":" 影视工厂┃xBPQ",
+"name":" 影视工厂┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -144,7 +144,7 @@
 },	  
 {
 "key":"csp_xBPQ_Fositv",
-"name":" Fositv ┃xBPQ",
+"name":" Fositv┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -154,7 +154,7 @@
 },
 {
 "key":"csp_XBPQLIBVIO",
-"name":" LIBVIO┃xBPQ",
+"name":" LIBVIO┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -164,7 +164,7 @@
 },	  
 {
 "key":"csp_XBPQ爱酷影视",
-"name":" 爱酷影视┃xBPQ",
+"name":" 爱酷影视┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -174,7 +174,7 @@
 }, 
 {
 "key":"csp_XBPQ皮皮泡影视",
-"name":" 皮皮泡影视┃xBPQ",
+"name":" 皮皮泡影视┃国内外剧",
 "type":3,
 "api":"csp_xBPQ",
 "searchable":1,
@@ -184,7 +184,7 @@
 }, 
 {
   "key": "csp_XBPQ真不卡", 
-  "name": " 真不卡┃xBPQ", 
+  "name": " 真不卡┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -194,7 +194,7 @@
 }, 
 {
   "key": "csp_XBPQCokemv", 
-  "name": " Cokemv┃xBPQ", 
+  "name": " Cokemv┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -204,7 +204,7 @@
 }, 
 {
   "key": "csp_XBPQ花猫TV", 
-  "name": " 花猫TV┃xBPQ", 
+  "name": " 花猫TV┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -214,7 +214,7 @@
 }, 
 {
   "key": "csp_XBPQ六度TV", 
-  "name": " 六度TV┃xBPQ", 
+  "name": " 六度TV┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -224,7 +224,7 @@
 }, 
 {
   "key": "csp_xBPQ_干饭影视", 
-  "name": " 干饭影视┃xBPQ", 
+  "name": " 干饭影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -234,7 +234,7 @@
 }, 
 {
   "key": "csp_XBPQ_宝仙HD", 
-  "name": " 宝仙HD┃xBPQ", 
+  "name": " 宝仙HD┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -244,7 +244,7 @@
 }, 
 {
   "key": "csp_xBPQ_番茄影视", 
-  "name": " 番茄影视┃xBPQ", 
+  "name": " 番茄影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -254,7 +254,7 @@
 }, 
 {
   "key": "csp_xBPQ_大米星球", 
-  "name": "️ 大米星球┃xBPQ", 
+  "name": "️ 大米星球┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -264,7 +264,7 @@
 }, 
 {
   "key": "csp_xBPQ_巨人影院", 
-  "name": " 巨人影院 xBPQ", 
+  "name": " 巨人影院┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -274,7 +274,7 @@
 }, 
 {
   "key": "csp_xBPQ_瓜皮TV", 
-  "name": " 瓜皮TV┃xBPQ", 
+  "name": " 瓜皮TV┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -284,7 +284,7 @@
 }, 
 {
   "key": "csp_xBPQ_1080在线", 
-  "name": " 1080在线┃xBPQ", 
+  "name": " 1080在线┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -294,7 +294,7 @@
 }, 
 {
   "key": "csp_xBPQ_追剧猫", 
-  "name": " 追剧猫┃xBPQ", 
+  "name": " 追剧猫┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -304,7 +304,7 @@
 }, 
 {
   "key": "csp_xBPQ_剧迷", 
-  "name": " 剧迷┃xBPQ", 
+  "name": " 剧迷┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -314,7 +314,7 @@
 }, 
 {
   "key": "csp_xBPQ_F7好看剧", 
-  "name": " F7好看剧┃xBPQ", 
+  "name": " F7好看剧┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -324,7 +324,7 @@
 }, 
 {
   "key": "csp_xBPQ_达达龟", 
-  "name": " 达达龟┃xBPQ", 
+  "name": " 达达龟┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -334,7 +334,7 @@
 }, 
 {
   "key": "csp_xBPQ_饭团", 
-  "name": " 饭团┃xBPQ", 
+  "name": " 饭团┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -354,7 +354,7 @@
 }, 
 {
   "key": "csp_xBPQ_um影院", 
-  "name": "UM影院┃xBPQ", 
+  "name": "UM影院┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -364,7 +364,7 @@
 }, 
 {
   "key": "csp_xBPQ_荐片", 
-  "name": "荐片┃xBPQ", 
+  "name": "荐片┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -374,7 +374,7 @@
 }, 
 {
   "key": "csp_xBPQ_段友影院", 
-  "name": "段友影院┃xBPQ", 
+  "name": "段友影院┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -384,7 +384,7 @@
 }, 
 {
   "key": "csp_xBPQ_um", 
-  "name": "UM影┃xBPQ", 
+  "name": "UM影┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -394,7 +394,7 @@
 }, 
 {
   "key": "csp_xBPQ_酷客", 
-  "name": "®️酷客┃xBPQ", 
+  "name": "®️酷客┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -404,7 +404,7 @@
 }, 
 {
   "key": "csp_xBPQ_在线之家", 
-  "name": "️在线之家┃xBPQ", 
+  "name": "️在线之家┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -414,7 +414,7 @@
 }, 
 {
   "key": "csp_xBPQ_鸭奈飞", 
-  "name": "鸭奈飞┃xBPQ", 
+  "name": "鸭奈飞┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -434,7 +434,7 @@
 }, 
 {
   "key": "csp_xBPQ_胖虎", 
-  "name": "胖虎影视 xBPQ", 
+  "name": "胖虎影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -444,7 +444,7 @@
 }, 
 {
   "key": "csp_xBPQ_hoho", 
-  "name": " HoHo影视┃xBPQ", 
+  "name": " HoHo影视┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
@@ -454,7 +454,7 @@
 }, 
 {
   "key": "csp_xb_543", 
-  "name": "®️543影院┃xBPQ", 
+  "name": "®️543影院┃国内外剧", 
   "type": 3, 
   "api": "csp_XBiu", 
   "searchable": 1, 
@@ -464,7 +464,7 @@
 }, 
 {
   "key": "csp_xBPQ_唐人街", 
-  "name": " 唐人街┃xBPQ", 
+  "name": " 唐人街┃国内外剧", 
   "type": 3, 
   "api": "csp_xBPQ", 
   "searchable": 1, 
