@@ -1,16 +1,6 @@
 {
 "sites": [
 {
-"key": "csp_Bliyc",
-"name": "体育健身┃哔哩哔哩",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/b%e7%ab%99%e5%a4%a7%e6%9d%82%e7%83%a9.json"
-},
-{
 "key":"csp_xBPQ_素白白",
 "name":"国内外剧┃素白影视",
 "type":3,
@@ -313,7 +303,6 @@
 "quickSearch": 0,
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json"
-
 },
 {
 "key": "学习乐园",
@@ -324,7 +313,6 @@
 "quickSearch": 0,
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php"
-
 },
 {
 "key": "csp_Bili演唱会",
@@ -335,7 +323,6 @@
 "quickSearch": 0,
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
-
 },
 {
 "key": "csp_Bili戏曲",
@@ -346,7 +333,6 @@
 "quickSearch": 0,
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%88%8f%e6%9b%b2.php"
-
 },
 {
 "key":"csp_xBPQ_LIBVIO",
@@ -893,6 +879,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"
 }
 ],
+//"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar",  
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;D0E949CB4D53B94449D943D06018869A",
 "lives": [{
 "group": "redirect",
