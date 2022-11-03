@@ -56,19 +56,127 @@
         
         
 
-{"key":"csp_xBPQ_喵喵","name":"喵喵电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_xBPQ_4k","name":"4k┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4kvm.json"},
+{
+"key":"csp_xBPQ_喵喵",
+"name":"喵喵电影┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4K%e5%bd%b1%e9%99%a2.json"
+},
+{
+"key":"csp_xBPQ_4k",
+"name":"4k┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/4kvm.json"
+},
 
-{"key":"csp_xBPQ_素白白","name":"素白白┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"},
-{"key":"csp_xBPQ_蓝光影院","name":" 蓝光影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"},
-{"key":"csp_xBPQ_prp123","name":"️RENPE影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/RENPE.json"},
-{"key":"csp_xBPQ_神马影院","name":" 神马影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%a5%9e%e9%a9%ac%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_XBPQ极品影视","name":" 极品影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/JiPinYs.json"},
-{"key":"csp_XBPQ影视工厂","name":" 影视工厂┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%9c%ba.json"},	  
-{"key":"csp_xBPQ_Fositv","name":" Fositv ┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Fositv.json"},
-{"key":"csp_XBPQLIBVIO","name":" LIBVIO┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LIBVIO.json"},	  
-{"key":"csp_XBPQ爱酷影视","name":" 爱酷影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%88%b1%e9%85%b7%e5%bd%b1%e8%a7%86.json"}, 
-{"key":"csp_XBPQ皮皮泡影视","name":" 皮皮泡影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/PiPiPaoYs.json"}, 
+{
+"key":"csp_xBPQ_素白白",
+"name":"素白白┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"
+},
+{
+"key":"csp_xBPQ_蓝光影院",
+"name":" 蓝光影院┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LanGuangYy.json"
+},
+{
+"key":"csp_xBPQ_prp123",
+"name":"️RENPE影视┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/RENPE.json"
+},
+{
+"key":"csp_xBPQ_神马影院",
+"name":" 神马影院┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%a5%9e%e9%a9%ac%e5%bd%b1%e9%99%a2.json"
+},
+{
+"key":"csp_XBPQ极品影视",
+"name":" 极品影视┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/JiPinYs.json"
+},
+{
+"key":"csp_XBPQ影视工厂",
+"name":" 影视工厂┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%9c%ba.json"
+},	  
+{
+"key":"csp_xBPQ_Fositv",
+"name":" Fositv ┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Fositv.json"
+},
+{
+"key":"csp_XBPQLIBVIO",
+"name":" LIBVIO┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LIBVIO.json"
+},	  
+{
+"key":"csp_XBPQ爱酷影视",
+"name":" 爱酷影视┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%88%b1%e9%85%b7%e5%bd%b1%e8%a7%86.json"
+}, 
+{
+"key":"csp_XBPQ皮皮泡影视",
+"name":" 皮皮泡影视┃xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/PiPiPaoYs.json"
+}, 
 {"key":"csp_XBPQ真不卡","name":" 真不卡┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9c%9f%e4%b8%8d%e5%8d%a1.json"},    
 {"key":"csp_XBPQCokemv","name":" Cokemv┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Cokemv.json"},  
 {"key":"csp_XBPQ花猫TV","name":" 花猫TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"},    
