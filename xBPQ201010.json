@@ -2,60 +2,65 @@
   "sites": [
 //==================================xBPQ==================================================================
 {
-            "key": "douban",
-            "name": "豆瓣推荐影片(需搜索观看)",
-            "type": 4,
-            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-
-        {
-	        "key":"csp_xBPQ_电影先生",
-	        "name": "电影先生┃xBPQ",
-	        "type": 3,
-	        "api": "csp_xBPQ",
-	        "searchable": 1,
-	        "quickSearch": 0,
-	        "filterable": 0,
-	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.json"
-        }, 
-        {
-	        "key":"csp_xBPQ_电影先生",
-	        "name": "低端电影┃xBPQ",
-	        "type": 3,
-	        "api": "csp_xBPQ",
-	        "searchable": 1,
-	        "quickSearch": 1,
-	        "filterable": 0,
-	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86%28xBPQ%29.json"
-        }, 
-        {
-        "key":"csp_视觉",
-        "name":"视觉影院┃国内外剧",
-        "type":3,
-        "api":"csp_xBPQ",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":0,
-        "ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%a7%86%e8%a7%89.json"
-        },
-        {
-	        "key":"csp_xBPQ_CCTV",
-	        "name": "CCTV┃xBPQ",
-	        "type": 3,
-	        "api": "csp_xBPQ",
-	        "searchable": 1,
-	        "quickSearch": 1,
-	        "filterable": 0,
-            "click": "ddys.tv;#vjsp > button",
-	        "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
-        },
-        
-        
-
+    "key": "douban", 
+    "name": "豆瓣推荐影片(需搜索观看)", 
+    "type": 4, 
+    "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod", 
+    "searchable": 0, 
+    "quickSearch": 0, 
+    "filterable": 0
+}, 
+{
+    "key": "Pang", 
+    "name": "胖虎", 
+    "type": "3", 
+    "api": "csp_Dora", 
+    "searchable": "1", 
+    "quickSearch": "1", 
+    "filterable": "1", 
+    "ext": "c41fdb671b20925c76fa9b6ff8bad027"
+}, 
+{
+  "key": "csp_xBPQ_电影先生", 
+  "name": "电影先生┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 0, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.json"
+}, 
+{
+  "key": "csp_xBPQ_电影先生", 
+  "name": "低端电影┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86%28xBPQ%29.json"
+}, 
+{
+  "key": "csp_视觉", 
+  "name": "视觉影院┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%a7%86%e8%a7%89.json"
+}, 
+{
+  "key": "csp_xBPQ_CCTV", 
+  "name": "CCTV┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "click": "ddys.tv;#vjsp > button", 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"
+}, 
 {
 "key":"csp_xBPQ_喵喵",
 "name":"喵喵电影┃xBPQ",
@@ -177,35 +182,296 @@
 "filterable":1,
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/PiPiPaoYs.json"
 }, 
-{"key":"csp_XBPQ真不卡","name":" 真不卡┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9c%9f%e4%b8%8d%e5%8d%a1.json"},    
-{"key":"csp_XBPQCokemv","name":" Cokemv┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Cokemv.json"},  
-{"key":"csp_XBPQ花猫TV","name":" 花猫TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"},    
-{"key":"csp_XBPQ六度TV","name":" 六度TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LiuDuTV.json"},
-{"key":"csp_xBPQ_干饭影视","name":" 干饭影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.json"},	  
-{"key":"csp_XBPQ_宝仙HD","name":" 宝仙HD┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%ae%9d%e4%bb%99HD.json"},	  
-{"key":"csp_xBPQ_番茄影视","name":" 番茄影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/FanQieYs.json"},	  
-{"key":"csp_xBPQ_大米星球","name":"️ 大米星球┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.json"},
-{"key":"csp_xBPQ_巨人影院","name":" 巨人影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/JuRenYy.json"},	  
-{"key":"csp_xBPQ_瓜皮TV","name":" 瓜皮TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/GuaPiTV.json"},
-{"key":"csp_xBPQ_1080在线","name":" 1080在线┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/1080%e5%9c%a8%e7%ba%bf.json"},	  
-{"key":"csp_xBPQ_追剧猫","name":" 追剧猫┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%bf%bd%e5%89%a7%e7%8c%ab.json"},	  	  
-{"key":"csp_xBPQ_剧迷","name":" 剧迷┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/gimy.json"},	  
-{"key":"csp_xBPQ_F7好看剧","name":" F7好看剧┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/F7.json"},
-{"key":"csp_xBPQ_达达龟","name":" 达达龟┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/ddgui.json"},	  	  
-{"key":"csp_xBPQ_饭团","name":" 饭团┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"},	  	
-{"key":"csp_xBPQ_厂长资源","name":" 厂长资源┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.json"},
-{"key":"csp_xBPQ_um影院", "name":"UM影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/UMYy.json"},
-{"key":"csp_xBPQ_荐片","name":"荐片┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/jianpian.json"},	 
-{"key": "csp_xBPQ_段友影院","name": "段友影院┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
-{"key":"csp_xBPQ_um","name":"UM影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"},
-{"key":"csp_xBPQ_酷客","name":"®️酷客┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
-{"key": "csp_xBPQ_在线之家","name": "️在线之家┃xBPQ", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\": \"class=\\\"stui-vodlist__head&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"分类\":\"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6\",\"分类url\":\"https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html\",\"筛选\":\"1\"}"},
-{"key": "csp_xBPQ_鸭奈飞","name": "鸭奈飞┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},      
-{"key": "csp_xb_mzt",  "name": "®️莫扎兔┃xBPQ",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_xBPQ_胖虎","name":"胖虎影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%83%96%e8%99%8e.json"},
-//{"key": "csp_xb_543",  "name":"®️543影院┃xBPQ",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/"},
-{"key":"csp_xBPQ_hoho","name":" HoHo影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"},	  
-{"key":"csp_xBPQ_唐人街","name":" 唐人街┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/TangRenJie.json"}
+{
+  "key": "csp_XBPQ真不卡", 
+  "name": " 真不卡┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%9c%9f%e4%b8%8d%e5%8d%a1.json"
+}, 
+{
+  "key": "csp_XBPQCokemv", 
+  "name": " Cokemv┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Cokemv.json"
+}, 
+{
+  "key": "csp_XBPQ花猫TV", 
+  "name": " 花猫TV┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/HuaMaoTV.json"
+}, 
+{
+  "key": "csp_XBPQ六度TV", 
+  "name": " 六度TV┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/LiuDuTV.json"
+}, 
+{
+  "key": "csp_xBPQ_干饭影视", 
+  "name": " 干饭影视┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.json"
+}, 
+{
+  "key": "csp_XBPQ_宝仙HD", 
+  "name": " 宝仙HD┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%ae%9d%e4%bb%99HD.json"
+}, 
+{
+  "key": "csp_xBPQ_番茄影视", 
+  "name": " 番茄影视┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/FanQieYs.json"
+}, 
+{
+  "key": "csp_xBPQ_大米星球", 
+  "name": "️ 大米星球┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.json"
+}, 
+{
+  "key": "csp_xBPQ_巨人影院", 
+  "name": " 巨人影院 xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/JuRenYy.json"
+}, 
+{
+  "key": "csp_xBPQ_瓜皮TV", 
+  "name": " 瓜皮TV┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/GuaPiTV.json"
+}, 
+{
+  "key": "csp_xBPQ_1080在线", 
+  "name": " 1080在线┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/1080%e5%9c%a8%e7%ba%bf.json"
+}, 
+{
+  "key": "csp_xBPQ_追剧猫", 
+  "name": " 追剧猫┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%bf%bd%e5%89%a7%e7%8c%ab.json"
+}, 
+{
+  "key": "csp_xBPQ_剧迷", 
+  "name": " 剧迷┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/gimy.json"
+}, 
+{
+  "key": "csp_xBPQ_F7好看剧", 
+  "name": " F7好看剧┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/F7.json"
+}, 
+{
+  "key": "csp_xBPQ_达达龟", 
+  "name": " 达达龟┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/ddgui.json"
+}, 
+{
+  "key": "csp_xBPQ_饭团", 
+  "name": " 饭团┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"
+}, 
+{
+  "key": "csp_xBPQ_厂长资源", 
+  "name": " 厂长资源┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.json"
+}, 
+{
+  "key": "csp_xBPQ_um影院", 
+  "name": "UM影院┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/UMYy.json"
+}, 
+{
+  "key": "csp_xBPQ_荐片", 
+  "name": "荐片┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/jianpian.json"
+}, 
+{
+  "key": "csp_xBPQ_段友影院", 
+  "name": "段友影院┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
+}, 
+{
+  "key": "csp_xBPQ_um", 
+  "name": "UM影┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
+}, 
+{
+  "key": "csp_xBPQ_酷客", 
+  "name": "®️酷客┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"
+}, 
+{
+  "key": "csp_xBPQ_在线之家", 
+  "name": "️在线之家┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\": \"class=\\\"stui-vodlist__head&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"分类\":\"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6\",\"分类url\":\"https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html\",\"筛选\":\"1\"}"
+}, 
+{
+  "key": "csp_xBPQ_鸭奈飞", 
+  "name": "鸭奈飞┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
+}, 
+{
+  "key": "csp_xb_mzt", 
+  "name": "®️莫扎兔┃xBPQ", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+}, 
+{
+  "key": "csp_xBPQ_胖虎", 
+  "name": "胖虎影视 xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%83%96%e8%99%8e.json"
+}, 
+{
+  "key": "csp_xBPQ_hoho", 
+  "name": " HoHo影视┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"
+}, 
+{
+  "key": "csp_xb_543", 
+  "name": "®️543影院┃xBPQ", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/"
+}, 
+{
+  "key": "csp_xBPQ_唐人街", 
+  "name": " 唐人街┃xBPQ", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/TangRenJie.json"
+}
 ],
 //"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
 "spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/xBPQ_1101.jar;md5;DADB0F9D8FE5CAC88A51190464C14FF0",
