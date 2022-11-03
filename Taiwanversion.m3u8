@@ -652,6 +652,16 @@
 "ext": "{\"免嗅\":\"0\",\"播放数组\":\"<ul class=\\\"hl-plays-list&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3#动画片$6\",\"分类url\":\"https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html\"}"
 },
 {
+"key":"csp_xBPQ_番茄影视",
+"name":"番茄影视┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%95%aa%e8%8c%84%e5%bd%b1%e8%a7%86.json"
+},  
+{
 "key": "csp_appysv2",
 "name": "App观看┃雪人影视",
 "type": 3,
