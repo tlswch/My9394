@@ -304,7 +304,7 @@
 },
 
 
-{
+//{
 "key": "csp_Bili相声",
 "name": "国内相声┃相声小品",
 "type": 3,
@@ -315,7 +315,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"},
 },
-{
+//{
 "key": "学习乐园",
 "name": "国内教育┃学习乐园",
 "type": 3,
@@ -326,7 +326,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"},
 },
-{
+//{
 "key": "csp_Bili演唱会",
 "name": "演唱观看┃哔哩哔哩",
 "type": 3,
@@ -337,7 +337,7 @@
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php",
 "jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"},
 },
-{
+//{
 "key": "csp_Bili戏曲",
 "name": "戏曲观看┃哔哩哔哩",
 "type": 3,
