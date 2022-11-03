@@ -699,7 +699,7 @@
 },
 {
 "key": "天堂资源",
-"name": "天堂资源",
+"name": "官采资源┃天堂资源",
 "type": 1,
 "api": "http://vipmv.cc/api.php/provide/vod/",
 "searchable": 1,
@@ -824,7 +824,7 @@
 },
 {
 "key": "Yisou",
-"name": "搜索观看┃易搜阿里",
+"name": "搜索观看┃阿里易搜",
 "type": 3,
 "api": "csp_Yiso",
 "playerType": 1,
@@ -835,7 +835,7 @@
 },
 {
 "key": "Zhaozy",
-"name": "找源阿里",
+"name": "搜索观看┃阿里找源",
 "type": 3,
 "api": "csp_Zhaozy",
 "playerType": 1,
@@ -846,7 +846,7 @@
 },
 {
 "key": "Upyunso",
-"name": "搜索观看┃云搜阿里",
+"name": "搜索观看┃阿里云搜",
 "type": 3,
 "api": "csp_Upyunso",
 "playerType": 1,
