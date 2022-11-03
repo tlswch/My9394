@@ -275,7 +275,7 @@
 "filterable": 0,
 "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E7%9F%AD%E8%A7%86%E9%A2%91.js"
 },
-{
+//{
 "key": "csp_Bili相声",
 "name": "相声小品┃国内相声",
 "type": 3,
@@ -285,7 +285,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e7%9b%b8%e5%a3%b0.json"
 },
-{
+//{
 "key": "学习乐园",
 "name": "学习乐园┃国内教育",
 "type": 3,
@@ -295,7 +295,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php"
 },
-{
+//{
 "key": "csp_Bili演唱会",
 "name": "哔哩哔哩┃演唱观看",
 "type": 3,
@@ -305,7 +305,7 @@
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
 },
-{
+//{
 "key": "csp_Bili戏曲",
 "name": "哔哩哔哩┃戏曲观看",
 "type": 3,
