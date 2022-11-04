@@ -3,7 +3,7 @@
 {
 "sites": [
 {
-  "key": "csp_xBPQ_子子影视", 
+  "key": "csp_xbpq_子子影视", 
   "name": "国内外剧┃子子影视", 
   "type": 3, 
   "api": "csp_xBPQ", 
@@ -51,16 +51,6 @@
 "filterable":1
 },
 {
-  "key": "csp_XBiu看视界", 
-  "name": "国内外剧┃视界影视", 
-  "type": 3, 
-  "api": "csp_XBiu", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 0, 
-  "ext": "http://1080kan.tv/show/{cateId}--------{catePg}---.html"
-},
-{
   "key": "csp_xBPQ_爱看", 
   "name": "国内外剧┃爱看影视", 
   "type": 3, 
@@ -71,16 +61,6 @@
   "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
 },
 {
-  "key": "csp_XBiu口袋", 
-  "name": "国内外剧┃口袋影视", 
-  "type": 3, 
-  "api": "csp_XBiu", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 0, 
-  "ext": "http://www.koudaitv.com/type/{cateId}-{catePg}.html"
-},    
-{
 "key":"csp_If101",
 "name":"101影视┃自备梯子",
 "type":3,
@@ -89,16 +69,6 @@
 "quickSearch":1,
 "filterable":1
 },
-{
-  "key": "csp_xb_疯狗", 
-  "name": "国内外剧┃疯狗影视", 
-  "type": 3, 
-  "api": "csp_XBiu", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 0, 
-  "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
-}    
 {
 "key":"csp_Xiaoh",
 "name":"小宝影视┃自备梯子",
