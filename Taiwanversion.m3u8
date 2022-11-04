@@ -61,6 +61,16 @@
   "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
 },
 {
+  "key": "csp_XBiu口袋", 
+  "name": "国内外剧┃口袋影视", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "http://www.koudaitv.com/type/{cateId}-{catePg}.html"
+}    
+{
 "key":"csp_If101",
 "name":"101影视┃自备梯子",
 "type":3,
