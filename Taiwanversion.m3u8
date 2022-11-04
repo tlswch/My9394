@@ -71,6 +71,16 @@
   "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
 },
 {
+  "key": "csp_xb_城市", 
+  "name": "国内外剧┃城市电影", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
+}，    
+{
   "key": "csp_XBiu口袋", 
   "name": "国内外剧┃口袋影视", 
   "type": 3, 
