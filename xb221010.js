@@ -1,6 +1,21 @@
 {
   "sites": [
 //==================================XBiu==================================================================
+{
+  "key": "csp_xb_城市", 
+  "name": "国内外剧┃城市电影", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
+}，
+
+
+
+
+
 {"key":"csp_biubiu_豆角网","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%b1%86%e8%a7%92%e7%bd%91.json"},
 {"key":"csp_biubiu_牛马TV","name":"牛马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e7%89%9b%e9%a9%acTV.json"},
 {"key":"csp_biubiu_奇优","name":"奇优影院-不支持搜(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%a5%87%e4%bc%98%e5%bd%b1%e9%99%a2.json"},
