@@ -90,6 +90,16 @@
 "filterable":1
 },
 {
+  "key": "csp_xb_疯狗", 
+  "name": "国内外剧┃疯狗影视", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
+}    
+{
 "key":"csp_Xiaoh",
 "name":"小宝影视┃自备梯子",
 "type":3,
