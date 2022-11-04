@@ -61,6 +61,16 @@
 "ext": ""
 },
 {
+  "key": "csp_视觉", 
+  "name": "视觉影院┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e8%a7%86%e8%a7%89.json"
+}, 
+{
 "key": "4K",
 "name": "4K影视┃国内外剧",
 "type": 3,
