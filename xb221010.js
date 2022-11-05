@@ -50,7 +50,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
-        }，{
+        }，
+        {
             "key": "csp_XBiu口袋",
             "name": "国内外剧┃口袋影视",
             "type": 3,
@@ -451,7 +452,7 @@
             "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
         }
     ],
-    "https://notabug.org/qizhen15800/My9394/raw/master/jar/xinXBiu.jar",
+    "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/xinXBiu.jar",
     "lives": [
         {
             "group": "redirect",
