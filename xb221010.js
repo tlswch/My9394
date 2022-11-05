@@ -14,16 +14,15 @@
             "filterable": 1,
             "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
         }，
-        
         {
-            "key": "csp_xb_aikan ",
-            "name": "爱看影视┃XBiuR",
+            "key": "csp_xb_huix",
+            "name": " 回响影视┃XBiuR",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
+            "ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
         }
     ],
     "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/xinXBiu.jar",
