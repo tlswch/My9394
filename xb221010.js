@@ -1,6 +1,8 @@
+//用于tvbox的个人学习使用，未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+//此条接口儿童不宜,故事由经典港版展开。感谢各位开发者大佬默默付出。不良帅个人整理测试，折腾折腾折腾而已。
 {
-  "sites": [
-//==================================XBiu==================================================================
+"sites": [
+ //==================================XBiu==================================================================
 {
   "key": "csp_xb_城市", 
   "name": "国内外剧┃城市电影", 
@@ -11,30 +13,6 @@
   "filterable": 1, 
   "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
 }，
-//用于tvbox的个人学习使用，未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
-//此条接口儿童不宜,故事由经典港版展开。感谢各位开发者大佬默默付出。不良帅个人整理测试，折腾折腾折腾而已。
-{
-"sites": [
-{
-  "key": "csp_xBPQ_子子影视", 
-  "name": "国内外剧┃子子影视", 
-  "type": 3, 
-  "api": "csp_xBPQ", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 0, 
-  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e5%ad%90%e5%ad%90%e5%bd%b1%e8%a7%86.json"
-},
-{
-"key":"csp_xBPQ_素白白",
-"name":"国内外剧┃素白影视",
-"type":3,
-"api":"csp_xBPQ",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%b4%a0%e7%99%bd%e7%99%bd.json"
-},
 {
 "key":"csp_Alist2",
 "name":"Alist┃网盘合集",
@@ -44,24 +22,6 @@
 "quickSearch":0,
 "filterable":0,
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/Alist.json"
-},
-{
-"key":"csp_trj",
-"name": "唐人影视┃自备梯子",
-"type": 3,
-"api": "csp_Tangrenjie",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
-{
-"key":"csp_Nbys",
-"name":"泥巴视频┃自备梯子",
-"type":3,
-"api":"csp_Nbys",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
 },
 {
   "key": "csp_XBiu看视界", 
@@ -104,15 +64,6 @@
   "ext": "http://www.koudaitv.com/type/{cateId}-{catePg}.html"
 },    
 {
-"key":"csp_If101",
-"name":"101影视┃自备梯子",
-"type":3,
-"api":"csp_If101",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-{
   "key": "csp_xb_疯狗", 
   "name": "国内外剧┃疯狗影视", 
   "type": 3, 
@@ -122,10 +73,6 @@
   "filterable": 0, 
   "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
 },  
-
-
-
-
 {
 	"key": "csp_biubiu_豆角网",
 	"name": "豆角网(XB)",
@@ -227,7 +174,7 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86520.json"
 }, {
 	"key": "csp_xbb_剧白白",
-	"name": "🅱️剧白白┃XBiu",
+	"name": "剧白白┃XBiu",
 	"type": 3,
 	"api": "csp_XBiubiu",
 	"searchable": 1,
@@ -245,7 +192,7 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%80%9f%e6%90%9c%e5%bd%b1%e8%a7%86.json"
 }, {
 	"key": "csp_xbb_AB影院",
-	"name": "🆎影院┃XBiu",
+	"name": "影院┃XBiu",
 	"type": 3,
 	"api": "csp_XBiubiu",
 	"searchable": 1,
@@ -254,7 +201,7 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/AB%E5%BD%B1%E8%A7%86.json"
 }, {
 	"key": "csp_xbb_31看影视",
-	"name": "🅱️31看影视┃XBiu",
+	"name": "31看影视┃XBiu",
 	"type": 3,
 	"api": "csp_XBiubiu",
 	"searchable": 1,
@@ -263,7 +210,7 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/31%e7%9c%8b%e5%bd%b1%e8%a7%86XB.json"
 }, {
 	"key": "csp_biubiu_23影院",
-	"name": "2️⃣23影院┃XBiu",
+	"name": "23影院┃XBiu",
 	"type": 3,
 	"api": "csp_XBiubiu",
 	"searchable": 1,
@@ -281,7 +228,7 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
 }, {
 	"key": "csp_biubiu_VIP1280",
-	"name": "👑Vip电影┃XBiu",
+	"name": "Vip电影┃XBiu",
 	"type": 3,
 	"api": "csp_XBiubiu",
 	"searchable": 1,
@@ -319,7 +266,7 @@
 //==================================XBiuR==================================================================
 {
 	"key": "csp_xb_vofixs",
-	"name": "®️vofixHD┃XBiuR",
+	"name": "vofixHD┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -328,7 +275,7 @@
 	"ext": "https://www.voflix.com/show/{cateId}--------{catePg}---.html"
 }, {
 	"key": "csp_xb_饭团",
-	"name": "®️饭团影视┃XBiuR",
+	"name": "饭团影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -337,7 +284,7 @@
 	"ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"
 }, {
 	"key": "csp_xb_段友",
-	"name": "®️段友影视┃XBiuR",
+	"name": "段友影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -364,7 +311,7 @@
 	"ext": "https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }, {
 	"key": "csp_xb_ysgc",
-	"name": "®️工厂影视┃XBiuR",
+	"name": "工厂影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -373,7 +320,7 @@
 	"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
 }, {
 	"key": "csp_xb_lx",
-	"name": "®️冷曦影视┃XBiuR",
+	"name": "冷曦影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -382,7 +329,7 @@
 	"ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"
 }, {
 	"key": "csp_xb_番茄",
-	"name": "®️番茄影视┃XBiuR",
+	"name": "番茄影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -391,7 +338,7 @@
 	"ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"
 }, {
 	"key": "csp_xb_爱酷酷",
-	"name": "®️爱酷影视┃XBiuR",
+	"name": "爱酷影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -400,7 +347,7 @@
 	"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"
 }, {
 	"key": "csp_xb_达龟",
-	"name": "®️达达龟影视┃XBiuR",
+	"name": "达达龟影视┃XBiuR",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
@@ -472,10 +419,8 @@
 	"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 }
 ],
-//"spider":"https://notabug.org/qizhen15800/My9394/rwa/master/jar/max911jg.jar",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
+"https://notabug.org/qizhen15800/My9394/raw/master/jar/xinXBiu.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
