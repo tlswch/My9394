@@ -308,6 +308,63 @@
 	"quickSearch": 1,
 	"filterable": 1
 },
+{
+	"key": "csp_Smdyy",
+	"name": "神马",
+	"type": 3,
+	"api": "csp_Smdyy",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_Nkdy",
+	"name": "南柯",
+	"type": 3,
+	"api": "csp_Nkdy",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_Xxys",
+	"name": "🐻小熊",
+	"type": 3,
+	"api": "csp_Xxys",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_SP360",
+	"name": "360",
+	"type": 3,
+	"api": "csp_SP360",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_555",
+	"name": "555",
+	"type": 3,
+	"api": "csp_Dy555",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_ny",
+	"name": "念影",
+	"type": 3,
+	"api": "csp_Nianying",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, {
+	"key": "csp_Tkys",
+	"name": "天空",
+	"type": 3,
+	"api": "csp_Tkys",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+},
     {
         "key": "csp_Nfyun",
         "name": "Nf云┃SP",
