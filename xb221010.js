@@ -10,7 +10,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
-        }，{
+        }，
+        {
             "key": "csp_Alist2",
             "name": "Alist┃网盘合集",
             "type": 3,
