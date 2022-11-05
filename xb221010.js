@@ -7,9 +7,10 @@
             "name": "Alist┃网盘合集",
             "type": 3,
             "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/Alist.json"
         },
         {
@@ -272,7 +273,8 @@
             "filterable": 0,
             "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%be%be%e8%be%be%e9%be%9f.json"
         },
-        //==================================XBiuR=================================================================={
+        //==================================XBiuR==================================================================
+        {
             "key": "csp_xb_vofixs",
             "name": "vofixHD┃XBiuR",
             "type": 3,
