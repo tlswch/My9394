@@ -1,6 +1,26 @@
 {
 "sites": [
+{
+  "key": "csp_xb_543", 
+  "name": "543影院┃国内外剧", 
+  "type": 3, 
+  "api": "csp_XBiu", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/"
+},
 
+{
+  "key": "csp_xBPQ_hoho", 
+  "name": " HoHo影视┃国剧聚合", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/fantuanTV.json"
+}
 ],
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;D0E949CB4D53B94449D943D06018869A",
 "lives": [{
