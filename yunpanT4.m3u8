@@ -1,4 +1,28 @@
 {
+  "lives": [{
+		"name": "直播01",
+		"type": 0,
+		"url": "http://home.jundie.top:81/Cat/tv/live.txt",
+		"logo": "",
+		"epg": "http://epg.51zmt.top:8000/e.xml",
+		"ua": ""
+	},
+	{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]
+		}]
+	},
+	{
+		"name": "直播02",
+		"type": 0,
+		"url": "https://ghproxy.com/https://raw.fastgit.org/vamoschuck/TV/main/M3U",
+		"logo": "http://epg.51zmt.top:8000/api/diyp/",
+		"epg": "http://epg.51zmt.top:8000/api/diyp/",
+		"ua": ""
+	}
+],
     "sites": [
         {
             "key": "T4",
@@ -96,30 +120,6 @@
         }
     ],
     "spider": "http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB",
-    "lives": [{
-		"name": "直播01",
-		"type": 0,
-		"url": "http://home.jundie.top:81/Cat/tv/live.txt",
-		"logo": "",
-		"epg": "http://epg.51zmt.top:8000/e.xml",
-		"ua": ""
-	},
-	{
-		"group": "redirect",
-		"channels": [{
-			"name": "redirect",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]
-		}]
-	},
-	{
-		"name": "直播02",
-		"type": 0,
-		"url": "https://ghproxy.com/https://raw.fastgit.org/vamoschuck/TV/main/M3U",
-		"logo": "http://epg.51zmt.top:8000/api/diyp/",
-		"epg": "http://epg.51zmt.top:8000/api/diyp/",
-		"ua": ""
-	}
-],
     "parses": [
         {
             "name": "自动播放遇问题，尝试手按数字。推荐首选",
