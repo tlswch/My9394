@@ -1,6 +1,56 @@
 {
 "sites": [
 {
+  "key": "csp_xBPQ_段友影院", 
+  "name": "段友影院┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
+}, 
+{
+  "key": "csp_xBPQ_um", 
+  "name": "UM影视┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
+}, 
+{
+  "key": "csp_xBPQ_酷客", 
+  "name": "酷客影视┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"
+}, 
+{
+  "key": "csp_xBPQ_在线之家", 
+  "name": "️在线之家┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\": \"class=\\\"stui-vodlist__head&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"分类\":\"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6\",\"分类url\":\"https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html\",\"筛选\":\"1\"}"
+}, 
+{
+  "key": "csp_xBPQ_鸭奈飞", 
+  "name": "鸭奈飞┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
+},
+{
   "key": "csp_xb_543", 
   "name": "543影院┃国内外剧", 
   "type": 3, 
