@@ -2,17 +2,6 @@
 //此条接口儿童不宜,故事由经典港版展开。感谢各位开发者大佬默默付出。不良帅个人整理测试，折腾折腾折腾而已。
 {
 	"sites": [{
-			"key": "csp_Alist2",
-			"name": "Alist┃网盘合集",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 1,
-			"playerType": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/Alist.json"
-		},
-		{
 			"key": "csp_XBiu看视界",
 			"name": "国内外剧┃视界影视",
 			"type": 3,
@@ -23,25 +12,6 @@
 			"ext": "http://1080kan.tv/show/{cateId}--------{catePg}---.html"
 		},
 		{
-			"key": "csp_xb_aikan ",
-			"name": "国内外剧┃爱看影视",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
-		},
-		{
-			"key": "csp_xb_城市",
-			"name": "国内外剧┃城市电影",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
-		}， {
 			"key": "csp_XBiu口袋",
 			"name": "国内外剧┃口袋影视",
 			"type": 3,
@@ -50,6 +20,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://www.koudaitv.com/type/{cateId}-{catePg}.html"
+		},
+		{
+			"key": "csp_xb_aikan ",
+			"name": "国内外剧┃爱看影视",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 		},
 		{
 			"key": "csp_xb_疯狗",
@@ -70,7 +50,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%b1%86%e8%a7%92%e7%bd%91.json"
-		},
+		}, 
 		{
 			"key": "csp_biubiu_牛马TV",
 			"name": "牛马TV(XB)",
@@ -80,7 +60,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e7%89%9b%e9%a9%acTV.json"
-		},
+		}, 
 		{
 			"key": "csp_biubiu_奇优",
 			"name": "奇优影院-不支持搜(XB)",
@@ -90,7 +70,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%a5%87%e4%bc%98%e5%bd%b1%e9%99%a2.json"
-		},
+		}, 
 		{
 			"key": "csp_biubiu_七年",
 			"name": "七年影视(XB)",
@@ -100,7 +80,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e4%b8%83%e5%b9%b4%e5%bd%b1%e8%a7%86.json"
-		},
+		}, 
 		{
 			"key": "csp_biu_完美看看",
 			"name": "完美看看影视┃XBiu",
@@ -120,7 +100,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"
-		},
+		}, 
 		{
 			"key": "csp_biu小强迷",
 			"name": "小强迷┃XBiu",
@@ -130,7 +110,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%b0%8f%e5%bc%ba%e8%bf%b7.json"
-		},
+		}, 
 		{
 			"key": "csp_biu_剧白白",
 			"name": "剧白白-蓝光┃XBiu",
@@ -140,7 +120,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89.json"
-		},
+		}, 
 		{
 			"key": "csp_biu_瓜皮TV",
 			"name": "瓜皮TV┃XBiu",
@@ -150,7 +130,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e7%93%9c%e7%9a%aeTV.json"
-		},
+		}, 
 		{
 			"key": "csp_biu_旧梦影视",
 			"name": "旧梦影视┃XBiu",
@@ -160,7 +140,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e6%97%a7%e6%a2%a6%e5%bd%b1%e8%a7%86.json"
-		},
+		}, 
 		{
 			"key": "csp_biu_rr520",
 			"name": "人人520┃XBiu",
@@ -271,7 +251,6 @@
 			"filterable": 0,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e8%be%be%e8%be%be%e9%be%9f.json"
 		},
-		//==================================XBiuR==================================================================
 		{
 			"key": "csp_xb_vofixs",
 			"name": "vofixHD┃XBiuR",
@@ -362,6 +341,7 @@
 			"filterable": 0,
 			"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"
 		},
+
 		{
 			"key": "csp_xb_达龟",
 			"name": "达达龟影视┃XBiuR",
@@ -434,7 +414,7 @@
 			"ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
 		}
 	],
-	"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/xinXBiu.jar",
+	"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;D0E949CB4D53B94449D943D06018869A",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
