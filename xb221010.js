@@ -1,19 +1,6 @@
-//用于tvbox的个人学习使用，未涉及到商业盈利，如有侵权，请联系，会在第一时间删除谢谢
-//此条接口儿童不宜,故事由经典港版展开。感谢各位开发者大佬默默付出。不良帅个人整理测试，折腾折腾折腾而已。
-   {
-"sites": [
-//==================================XBiu==================================================================
-        {
-           "key": "csp_xb_城市",
-            "name": "国内外剧┃城市电影",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html"
-        }，
-        {
+{
+    "sites": [ 
+      {
             "key": "csp_xb_huix",
             "name": " 回响影视┃XBiuR",
             "type": 3,
