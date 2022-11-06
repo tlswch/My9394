@@ -73,6 +73,13 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e6%9d%a5%e7%9c%8b%e7%82%b9%e6%92%ad.js"
 },
 {
+	"key": "drpy_js_影视工厂",
+	"name": " 影视工厂[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.js"
+},
+{
 	"key": "drpy_js_牛马TV",
 	"name": " 牛马TV[DRPY]",
 	"type": 3,
