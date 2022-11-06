@@ -92,7 +92,14 @@
 	"type": 3,
 	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%85%b7%e4%ba%9177.js"
-}, 
+},
+{
+	"key": "drpy_js_追剧喵",
+	"name": " 追剧喵[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%bf%bd%e5%89%a7%e5%96%b5.js"
+},
 {
 	"key": "drpy_js_皮皮泡",
 	"name": " 皮皮泡[DRPY]",
@@ -113,6 +120,48 @@
 	"type": 3,
 	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%90%bd%e6%94%bb%e9%98%81%e5%bd%b1%e8%a7%86.js"
+},
+{
+	"key": "drpy_js_我爱跟剧",
+	"name": " 我爱跟剧[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e6%88%91%e7%88%b1%e8%b7%9f%e5%89%a7.js"
+}, 
+{
+	"key": "drpy_js_干饭影视",
+	"name": " 干饭影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.js"
+}, 
+{
+	"key": "drpy_js_喵喵",
+	"name": " 喵喵[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"
+}, 
+{
+	"key": "drpy_js_万能影视",
+	"name": " 万能影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.js"
+}, 
+{
+	"key": "drpy_js_在线之家",
+	"name": " 在线之家[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6%e2%85%a1.js"
+}, 
+{
+	"key": "drpy_js_真不卡",
+	"name": " 真不卡[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%9f%e4%b8%8d%e5%8d%a1.js"
 }, 
 {
 	"key": "drpy_js_七小时影院",
