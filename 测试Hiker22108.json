@@ -9,7 +9,77 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/vofix.json"
-},   
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️乐猪TV┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️农民影视┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️皮皮泡┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️素白白┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️鸭奈飞影视┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️追剧达人┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json"
+},
+{
+	"key": "csp_XYQ-vofix",
+	"name": "️万能影视┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.json"
+},
 {
 	"key": "csp_XYQ小强迷",
 	"name": "️小强影视┃XYQH",
