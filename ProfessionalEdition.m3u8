@@ -237,6 +237,28 @@
 "filterable":1
 },
 {
+"key": "drpy_js_霹雳影视",
+"name": " 霹雳影视┃国内外剧",
+"type": 3,
+"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.js"
+},
+{
+
+"key": "drpy_js_趣享星趣",
+"name": " 趣享星趣┃国内外剧",
+"type": 3,
+"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%b6%a3%e4%ba%ab%e6%98%9f%e8%b6%a3.js"
+},
+{
+"key": "drpy_js_首播影院",
+"name": " 首播影院┃国内外剧",
+"type": 3,
+"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%a6%96%e6%92%ad%e5%bd%b1%e9%99%a2.js"
+},
+{
 "key": "csp_Bttoo",
 "name": "2BT影视┃国内外剧",
 "type": 3,
