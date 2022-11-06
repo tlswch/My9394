@@ -87,12 +87,26 @@
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%89%9b%e9%a9%acTV.js"
 },
 {
+	"key": "drpy_js_酷云77",
+	"name": " 酷云77[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%85%b7%e4%ba%9177.js"
+}, 
+{
 	"key": "drpy_js_皮皮泡",
 	"name": " 皮皮泡[DRPY]",
 	"type": 3,
 	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9a%ae%e7%9a%ae%e6%b3%a1.js"
 },
+{
+	"key": "drpy_js_MXONE",
+	"name": " MXONE[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/MXONE.js"
+}, 
 {
 	"key": "drpy_js_落攻阁影视",
 	"name": " 落攻阁影视[DRPY]",
