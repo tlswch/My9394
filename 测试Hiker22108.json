@@ -1,6 +1,15 @@
 {
   "sites": [
-  
+{
+	"key": "csp_XYQ小强迷",
+	"name": "️小强影视┃XYQH",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%b0%8f%e5%bc%ba.json"
+},  
 {
 	"key": "csp_XYQ_在线",
 	"name": "️在线之家┃XYQH",
