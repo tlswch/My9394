@@ -74,28 +74,28 @@
 	"name": " 万能影视[DRPY]",
 	"type": 3,
 	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/万能影视.js"
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.js"
 }, 
 {
 	"key": "drpy_js_在线之家",
 	"name": " 在线之家[DRPY]",
 	"type": 3,
 	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/在线之家.js"
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6%e2%85%a1.js"
 }, 
 {
 	"key": "drpy_js_真不卡",
 	"name": " 真不卡[DRPY]",
 	"type": 3,
 	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/真不卡.js"
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%9f%e4%b8%8d%e5%8d%a1.js"
 }, 
 {
 	"key": "drpy_js_追剧喵",
 	"name": " 追剧喵[DRPY]",
 	"type": 3,
 	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/追剧喵.js"
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%bf%bd%e5%89%a7%e5%96%b5.js"
 }, 
 {
 	"key": "drpy_js_秋霞",
