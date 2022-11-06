@@ -1,5 +1,43 @@
 {
-"sites": [{
+"sites": [
+
+{
+	"key": "drpy_js_厂长资源",
+	"name": " 厂长资源[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"
+},
+{
+	"key": "drpy_js_低端影视",
+	"name": " 低端影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/douban.js"
+},
+{
+	"key": "drpy_js_霹雳影视",
+	"name": " 霹雳影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.js"
+},
+{
+	
+	"key": "drpy_js_趣享星趣",
+	"name": " 趣享星趣[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%b6%a3%e4%ba%ab%e6%98%9f%e8%b6%a3.js"
+},
+{
+	"key": "drpy_js_看视界",
+	"name": " 看视界[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%8b%e8%a7%86%e7%95%8c.js"
+}, 
+{
 	"key": "drpy_js_独播库",
 	"name": " 独播库[DRPY]",
 	"type": 3,
