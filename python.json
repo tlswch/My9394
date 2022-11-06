@@ -1,6 +1,6 @@
 {
 	"sites": [
-		//==================================python========================================================================
+		
 		{
 			"key": "T4",
 			"name": "首页推荐┃爬虫"
@@ -451,7 +451,8 @@
 			"filterable": 1
 		}
 	],
-	"parses":[
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/999.jar;md5;A6F5443098F49A9CCE4CE2FB70E1094F",   
+"parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
