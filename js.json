@@ -225,13 +225,6 @@
 	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/皮皮泡.js"
 }, 
 {
-	"key": "drpy_js_七小时影院",
-	"name": " 七小时影院[DRPY]",
-	"type": 3,
-	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/七小时影院.js"
-}, 
-{
 	"key": "drpy_js_番茄影视",
 	"name": " 番茄影视[DRPY]",
 	"type": 3,
@@ -273,7 +266,13 @@
 	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
 	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/影视工厂.js"
 },
-
+{
+	"key": "drpy_js_七小时影院",
+	"name": " 七小时影院[DRPY]",
+	"type": 3,
+	"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
+	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/七小时影院.js"
+}
 ],
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;D0E949CB4D53B94449D943D06018869A",
 "lives": [{
