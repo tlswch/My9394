@@ -58,7 +58,13 @@
 	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.js"
 }, 
-
+{
+	"key": "drpy_js_两个BT",
+	"name": " 两个BT[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e4%b8%a4%e4%b8%aaBT.js"
+},
 {
 	"key": "drpy_js_七小时影院",
 	"name": " 七小时影院[DRPY]",
