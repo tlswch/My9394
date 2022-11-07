@@ -1,14 +1,5 @@
 {
-	"sites": [{
-			"key": "T4",
-			"name": "首页推荐┃爬虫",
-			"type": 4,
-			"api": "https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/t4pac.json"
-		},
+	"sites": [
 		{
 			"key": "csp_MGTV",
 			"name": " 🍋芒果视频┃官",
