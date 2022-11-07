@@ -148,7 +148,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%a5%ad%e5%9b%a2HD.json"
 		},
 		{
@@ -170,7 +170,6 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/TV%e4%ba%91%e6%92%ad%20.json",
-	
 },  
 		{
 			"key": "csp_XYQ_23wm",
