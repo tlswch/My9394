@@ -10,6 +10,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_Bili演唱会",
+            "name": "哔哩哔哩┃演唱观看",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
+        },
+        {
             "key": "AliPS",
             "name": "AliPS┃查找观看",
             "type": 3,
