@@ -383,7 +383,7 @@
 		}
 	],
 	//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15",
-	"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1028.jar;md5;A6F58621078443399B1D0EEC8DC62696",
+	"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15",
 	//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ.jar;md5;77922de9d661bf941776ed1f6d9a4699",
 	"lives": [{
 		"group": "redirect",
