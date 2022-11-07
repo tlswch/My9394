@@ -49,6 +49,17 @@
 			"filterable": 0,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json"
 		},
+        {
+	       "key": "csp_XYQHiker_Freed",
+	       "name": "Freed ok XYQH",
+	       "type": 3,
+	       "api": "csp_XYQHiker",
+	       "searchable": 1,
+	       "quickSearch": 1,
+	       "filterable": 1,
+	       "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/Free.json",
+	       "jar": ""
+        }, 
 		{
 			"key": "csp_XYQ-奈飞",
 			"name": "️鸭奈飞影视┃XYQH",
