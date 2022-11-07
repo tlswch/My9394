@@ -26,7 +26,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.json"
 		},
 		{
