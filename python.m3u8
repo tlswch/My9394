@@ -326,6 +326,15 @@
 "filterable": 1
 },
 {
+  "key": "csp_Dy1010",
+  "name": "Dy1010",
+  "type": 3,
+  "api": "csp_Dy1010",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
 "key": "csp_If101",
 "name": "If101",
 "type": 3,
