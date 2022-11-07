@@ -16,7 +16,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"
 		},
 		{
@@ -46,12 +46,12 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json"
 		},
         {
 	       "key": "csp_XYQHiker_Freed",
-	       "name": "Freed ok XYQH",
+	       "name": "FreedXYQH",
 	       "type": 3,
 	       "api": "csp_XYQHiker",
 	       "searchable": 1,
@@ -67,7 +67,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"
 		},
 		{
@@ -77,7 +77,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json"
 		},
 		{
@@ -87,7 +87,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.json"
 		},
 		{
@@ -107,7 +107,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/xyqh_%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.json"
 		},
 		{
@@ -158,9 +158,20 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/czspp.json"
 		},
+{
+	"key": "csp_XYQHiker_TV云播",
+	"name": "TV云播(XYQH)",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/TV%e4%ba%91%e6%92%ad%20.json",
+	
+},  
 		{
 			"key": "csp_XYQ_23wm",
 			"name": "️23影视┃XYQH",
@@ -188,7 +199,7 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/auete.org.json"
 		},
 		{
