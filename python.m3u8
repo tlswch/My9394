@@ -205,7 +205,16 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1
-},  
+},
+{
+  "key": "csp_Lib",
+  "name": "Libvio",
+  "type": 3,
+  "api": "csp_Lib",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
 {
 "key":"mtv_My_神马",
 "name":"国内外剧┃神马影视",
@@ -215,6 +224,59 @@
 "quickSearch":1,
 "searchable":1,
 "ext": ""  
+},
+{
+  "key": "csp_jihuang",
+  "name": "剧荒",
+  "type": 3,
+  "api": "csp_Juhuang",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
+  "key": "Tian",
+  "name": "天天",
+  "type": "3",
+  "api": "csp_Dora",
+  "searchable": "1",
+  "quickSearch": "1",
+  "filterable": "1",
+  "ext": "",
+  "jar": ""
+},
+{
+  "key": "Yanet",
+  "name": "鸭奈飞",
+  "type": "3",
+  "api": "csp_Dora",
+  "searchable": "1",
+  "quickSearch": "1",
+  "filterable": "1",
+  "ext": "",
+  "jar": ""
+},
+{
+  "key": "Pang",
+  "name": "胖虎",
+  "type": "3",
+  "api": "csp_Dora",
+  "searchable": "1",
+  "quickSearch": "1",
+  "filterable": "1",
+  "ext": "",
+  "jar": ""
+},
+{
+  "key": "Hei",
+  "name": "石榴",
+  "type": "3",
+  "api": "csp_Dora",
+  "searchable": "1",
+  "quickSearch": "1",
+  "filterable": "1",
+  "ext": "",
+  "jar": ""
 },
 {
 "key":"csp_追剧喵",
