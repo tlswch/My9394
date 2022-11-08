@@ -24,6 +24,16 @@
   "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
 },
 {
+  "key":"NoSearch_csp_BBB",
+  "name":"哔哩哔哩┃综合筛选",
+  "type":3,
+  "api":"csp_Bili",
+  "searchable":0,
+  "quickSearch":0,
+  "filterable":1,
+  "ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9.json"
+},
+{
 "key": "360",
 "name": "360影视┃国剧聚合",
 "api": "csp_SP360",
