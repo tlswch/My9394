@@ -963,7 +963,6 @@
 "playerType": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "http://home.jundie.top:666/token.txt"，  
 "jar": ""
 },
 {
@@ -1250,4 +1249,4 @@
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
 ]
-}	
+}
