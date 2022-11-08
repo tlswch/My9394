@@ -218,16 +218,6 @@
   "filterable": 0, 
   "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/AueteXBPQ.json"
 },
-//{
-"key": "csp_Auete",
-"name": "AUETE┃国内外剧",
-"type": 3,
-"api": "csp_Auete",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
 {
 "key": "csp_Sp苹果",
 "name": "苹果视频┃国内外剧",
