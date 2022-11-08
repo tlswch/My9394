@@ -757,6 +757,15 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "http://app.xueren.one:80/xgapp.php/v2/"
+},
+{
+  "key": "csp_Lib",
+  "name": "Libvio┃国内外剧",
+  "type": 3,
+  "api": "csp_Lib",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },  
 {
 "key": "SPQQ",
