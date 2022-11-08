@@ -58,7 +58,7 @@
 },
 {
   "key": "MiniYs_spider",
-  "name": "迷你影视",
+  "name": "迷你影视┃国内外剧",
   "api": "csp_MiniYs",
   "type": 3,
   "filterable": 1,
@@ -173,22 +173,22 @@
   "quickSearch": 1,
   "searchable": 1,
   "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+  "jar": ""
 },
 {
   "key": "棉花影视",
-  "name": "棉花影视",
+  "name": "棉花影视┃国内外剧",
   "type": 3,
   "api": "csp_MianHua",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
   "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+  "jar": ""
 },
 {
   "key": "sliu_spider",
-  "name": "石榴电影",
+  "name": "石榴电影┃国内外剧",
   "api": "csp_ShiLiuDY",
   "type": 3,
   "filterable": 1,
@@ -196,7 +196,7 @@
   "playerType": 2,
   "searchable": 1,
   "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+  "jar": ""
 },
 {
 "key": "csp_Auete",
