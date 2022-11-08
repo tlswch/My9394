@@ -209,6 +209,16 @@
   "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
 },
 {
+  "key": "csp_xBPQ_Auete", 
+  "name": "AUETE┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/AueteXBPQ.json"
+},
+//{
 "key": "csp_Auete",
 "name": "AUETE┃国内外剧",
 "type": 3,
