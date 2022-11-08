@@ -1,4 +1,4 @@
-å¤®è§†,#genre#
+央视,#genre#
 CCTV1,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -88,7 +88,7 @@ CCTV17,http://39.134.67.110/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV5+,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://39.134.65.208/PLTV/88888888/224/3221225510/index.m3u8
-åœ°æ–¹,#genre#
+地方台,#genre#
 åŒ—äº¬å«è§†,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 ä¸œå—å«è§†,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 ä¸œæ–¹å«è§†,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -150,7 +150,7 @@ CGTN,http://39.135.138.60:18890/PLTV/88888910/224/3221225747/index.m3u8
 æ–‡åŒ–å½±è§†,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
 éƒ½å¸‚,http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
 å…¬å…±åº”æ€¥,http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
-ç§»åŠ¨ä¸“åŒº,#genre#
+移动专用,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -277,7 +277,7 @@ CHCåŠ¨ä½œç”µå½±,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 å¥•å¦æ˜¥ç§‹,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 å‘çŽ°ä¹‹æ—…,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 è€æ•…äº‹,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-4Kä¸“åŒº,#genre#
+4K专区#genre#
 CCTV-4K è¶…é«˜æ¸…,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
 CCTV-4K è¶…é«˜æ¸…,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8 
 CCTV-4K è¶…é«˜æ¸…,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
@@ -291,7 +291,7 @@ CCTV-4K è¶…é«˜æ¸…,http://live.aikan.miguvideo.com/PLTV/88888888/224/3
 å³¨çœ‰ç”µå½±,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 è¶…çº§ç”µå½±,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 è‹å·ž4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
-æ¸¯æ¾³å°,#genre#
+港奥台#genre#
 å‡¤å‡°èµ„è®¯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
@@ -396,7 +396,7 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 æ¾³è§†è‘¡æ–‡,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 ç•ªè–¯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8 
 ç•ªè–¯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8 
-ä½“è‚²,#genre#
+体育#genre#
 å’ªå’•ä½“è‚²,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 äº”æ˜Ÿä½“è‚²,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 å¹¿ä¸œä½“è‚²,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
@@ -408,7 +408,7 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 æ–°è§†è§‰,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 æžé€Ÿæ±½è½¦ä½“è‚²,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 å®‰å¾½ç»¼è‰ºä½“è‚²,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-å°‘å„¿åŠ¨ç”»,#genre#
+少年动画#genre#
 å°çŒªä½©å¥‡,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 æµ™æ±Ÿå°‘å„¿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 æµ™æ±Ÿå°‘å„¿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
@@ -447,7 +447,7 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 ç†Šå¤§ç†ŠäºŒ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 ç†Šå¤§è¿‡å¹´,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 çŒªä¾ è‹±é›„,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-ç›´æ’­ä¸­å›½,#genre#
+直播中国#genre#
 ç›´æ’­ä¸­å›½ç²¾ç¼–ç›´æ’­,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 ç›´æ’­ä¸­å›½ç²¾ç¼–ç›´æ’­,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
 æ¹–å—å¼ å®¶ç•Œæ°´ç»•å››é—¨,http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
