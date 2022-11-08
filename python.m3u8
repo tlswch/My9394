@@ -268,17 +268,6 @@
   "jar": ""
 },
 {
-  "key": "Hei",
-  "name": "石榴",
-  "type": "3",
-  "api": "csp_Dora",
-  "searchable": "1",
-  "quickSearch": "1",
-  "filterable": "1",
-  "ext": "",
-  "jar": ""
-},
-{
 "key":"csp_追剧喵",
 "name": "国内外剧┃追剧喵喵",
 "type":3,
@@ -350,6 +339,96 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1
+},
+{
+"key":"Relax",
+"name":"轻松视频",
+"type":3,
+"api":"csp_RelaxSP",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"playerType":2,
+"ext":""
+},
+{
+"key":"MiniYs_spider",
+"name":"迷你影视",
+"api":"csp_MiniYs",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":""
+},
+{
+"key":"Lezhu_spider",
+"name":"乐猪影视",
+"api":"csp_Lezhu",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":""
+},
+{
+"key":"棉花影视",
+"name":"棉花影视",
+"type":3,
+"api":"csp_MianHua",
+"searchable":1,
+"quickSearch":1,
+"filterable":0
+},
+{
+"key":"sliu_spider",
+"name":"石榴电影",
+"api":"csp_ShiLiuDY",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"playerType":2,
+"searchable":1,
+"ext":""
+},
+{
+"key":"3EDY",
+"name":"3EDY(EXO)",
+"type":3,
+"api":"csp_EEEDY",
+"playerType":2,
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+{
+"key":"csp_Wmkk",
+"name":"完美看看",
+"api":"csp_Wmkk",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1
+},
+{
+"key":"LCsp_spider",
+"name":"乐橙视频",
+"api":"csp_LvChaYs",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":""
+},
+{
+"key":"dm77_spider",
+"name":"齐齐动漫",
+"api":"csp_DM77",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":""
 },
 {
 "key": "csp_Anime1",
