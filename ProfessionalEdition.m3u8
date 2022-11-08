@@ -8,16 +8,20 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
+"ext": "",
 "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
 },
 {
-"key": "T4",
-"name": "影视推荐",
-"type": 4,
-"api": "http://top.fuqizhishi.com/vod",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0
+  "key": "Relax",
+  "name": "轻松视频┃国内外剧",
+  "type": 3,
+  "api": "csp_RelaxSP",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "ext": "",
+  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
 },
 {
 "key": "360",
@@ -27,7 +31,8 @@
 "filterable": 1,
 "quickSearch": 1,
 "searchable": 1,
-"ext": ""
+"ext": "",
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
 },
 {
 "key": "AppTT",
@@ -37,7 +42,9 @@
 "playerType":1,
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1
+"filterable": 1,
+"ext": "",
+"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
 },
 {
 "key" : "py_cctv",
@@ -48,6 +55,17 @@
 "quickSearch" : 0,
 "filterable" : 1,
 "ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv.py"
+},
+{
+  "key": "MiniYs_spider",
+  "name": "迷你影视",
+  "api": "csp_MiniYs",
+  "type": 3,
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "ext": "",
+  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
 },
 {
 "key":"Lgyy",
@@ -147,6 +165,40 @@
 "ext": ""
 },
 {
+  "key": "Lezhu_spider",
+  "name": "乐猪影视",
+  "api": "csp_Lezhu",
+  "type": 3,
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "ext": "",
+  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+},
+{
+  "key": "棉花影视",
+  "name": "棉花影视",
+  "type": 3,
+  "api": "csp_MianHua",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "",
+  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+},
+{
+  "key": "sliu_spider",
+  "name": "石榴电影",
+  "api": "csp_ShiLiuDY",
+  "type": 3,
+  "filterable": 1,
+  "quickSearch": 1,
+  "playerType": 2,
+  "searchable": 1,
+  "ext": "",
+  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/ga.jar;md5;d20405483d86fa4a3542b2bb1bab119d"
+},
+{
 "key": "csp_Auete",
 "name": "AUETE┃国内外剧",
 "type": 3,
@@ -237,26 +289,11 @@
 "filterable":1
 },
 {
-"key": "drpy_js_霹雳影视",
-"name": " 霹雳影视┃国内外剧",
-"type": 3,
-"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.js"
-},
-{
-
 "key": "drpy_js_趣享星趣",
 "name": " 趣享星趣┃国内外剧",
 "type": 3,
 "api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%b6%a3%e4%ba%ab%e6%98%9f%e8%b6%a3.js"
-},
-{
-"key": "drpy_js_首播影院",
-"name": " 首播影院┃国内外剧",
-"type": 3,
-"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%a6%96%e6%92%ad%e5%bd%b1%e9%99%a2.js"
 },
 {
 "key": "csp_Bttoo",
@@ -358,16 +395,6 @@
 "ext":""
 },
 {
-"key": "dr_星辰", 
-"name": "星辰影视┃国内外剧", 
-"type": 3, 
-"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js", 
-"searchable": 2, 
-"quickSearch": 0, 
-"filterable": 0, 
-"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E6%98%9F%E8%BE%B0(%E9%A6%96%E5%9B%BE2).js"
-},
-{
 "key" : "drpy_js_牛马TV",
 "name" : "牛马TV┃国内外剧",
 "type" : 3,
@@ -401,7 +428,6 @@
 "filterable":0,
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/%e7%93%9c%e7%9a%aeTV.json"
 },
-
 {
 "key" : "drpy_js_人人影视",
 "name" : "人人影视┃国内外剧",
@@ -418,13 +444,6 @@
 "quickSearch": 0, 
 "filterable": 0, 
 "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E9%BA%A6%E8%B1%86.js"
-},
-{
-"key" : "drpy_js_子子影视",
-"name" : "子子影视┃国内外剧",
-"type" : 3,
-"api" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
-"ext" : "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
 },
 {
 "key": "dr_爱迪影视", 
@@ -671,16 +690,6 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
-},
-{
-"key": "dr_69美剧",
-"name": "69美剧┃国内外剧",
-"type": 3,
-"api": "http://101.34.67.237:5705/libs/drpy.min.js",
-"searchable": 2,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "http://101.34.67.237:5705/admin/view/69美剧.js"
 },
 {
 "key": "ysgc",
