@@ -1,6 +1,16 @@
 {
 "sites": [
 {
+  "key": "csp_xBPQ_Auete", 
+  "name": "Auete┃国内外剧", 
+  "type": 3, 
+  "api": "csp_xBPQ", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0, 
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/AueteXBPQ.json"
+},
+{
   "key": "csp_xBPQ_荐片", 
   "name": "荐片影院┃国内外剧", 
   "type": 3, 
