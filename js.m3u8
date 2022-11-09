@@ -1,6 +1,16 @@
 {
 "sites": [
 {
+	"key": "js豆瓣",
+	"name": "豆瓣热播┃dr首页",
+	"type": 3,
+	"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
+},
+{
 	"key": "drpy_js_豆瓣",
 	"name": "豆瓣[DRPY]",
 	"type": 3,
