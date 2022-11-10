@@ -1,5 +1,6 @@
 {
-"sites": [
+   //不良帅
+   "sites": [
 {
   "key": "csp_xBPQ_段友影院", 
   "name": "段友影院┃国内外剧", 
@@ -94,8 +95,9 @@
 {"name":"线路2","type":1,"url":"https://jx.bynote.top/API.php?url="},
 {"name":"线路3","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"线路4","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"线路5","type":0,"url":"http://1.117.152.239:39000/?url="},
-{"name":"线路6","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
+{"name":"线路5","type":1,"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"线路6","type":0,"url":"http://1.117.152.239:39000/?url="},
+{"name":"线路7","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 "ijk":[
