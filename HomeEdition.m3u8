@@ -45,7 +45,7 @@
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;d0e949cb4d53b94449d943d06018869a",
 
 //壁纸
-"wallpaper":"https://gitcode.net/trw/tvbox/-/raw/a/wallpaper.png",
+"wallpaper": "http://52bsj.vip:82/late",
 
 //电视直播
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL0RJWS50eHQKIA=="]}]}],
