@@ -1,47 +1,47 @@
 {
   "urls": [
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/python.json",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/HomeEdition.m3u8",
       "name": "python"
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/HomeEdition.png",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/Bili.json",
       "name": "HomeEdition"
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/Bili.json",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/Taiwanversion.m3u8",
       "name": "BiliBili"
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/PY201010.json",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
       "name": "PY201010",
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/Xp201010.js",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/XBiu.m3u8",
       "name": "Xp201010"
       "time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ201010.json",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker.m3u8",
       "name": "xBPQ201010"
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/xb221010.js",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js.m3u8",
       "name": "xb221010"
       "time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/911.png",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/top97.json",
       "name": "911"
       //"time": "2022-10-10 09:01:01"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/max911.png",
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/yunpanT4.m3u8",
       "name": "max911"
       //"time": "2022-10-10 09:01:01"
     }
