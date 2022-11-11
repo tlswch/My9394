@@ -1,6 +1,15 @@
 {
 "cookie": "https://agit.ai/lengniuge/api/raw/branch/master/cookie.txt",
-	"classes": [{
+	"classes": [
+    {
+      "type_name": "4K",
+      "type_id": "4K"
+    },
+    {
+      "type_name": "8K",
+      "type_id": "8K"
+    },
+    {
 		"type_name": "演唱会",
 		"type_id": "演唱会4K"
 	}, {
