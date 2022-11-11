@@ -1,26 +1,31 @@
 {
-  "作者": "菜妮丝",
+  "作者": "菜妮丝https://cainisi.cf",
   "站名": "FreeOK",
   "主页url": "https://www.freeok.vip",
   
-  "分类": "电影$1#剧集$2#动漫$3#综艺$4",
+  "分类": "电影&剧集&动漫&综艺",
+  "分类值": "1&2&3&4",
   
   "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
-  "搜索后缀": "/voddetail/",
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+  "搜索数组": "module-item\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "module-item-note\">&&</div>",
+  "搜索链接": "href=\"&&\"",
   
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
   
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "<div class=\"module-play-list\">&&</div>",
-       
-"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1",
   
   "筛选": {
 "1":[
