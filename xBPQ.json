@@ -18,7 +18,7 @@
 {"key":"csp_PQ_诺讯影视","name":"诺讯影视xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/诺讯影视.json"},
 {"key":"csp_PQ_七小时源","name":"七小时源xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/七小时影院.json"},
 {"key":"csp_PQ_动视影视","name":"动视影视xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/动视影视.json"},
-{"key":"csp_PQ_达达龟源","name":"达达龟源xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/达达龟.json"},
+{"key":"csp_PQ_达达龟源","name":"达达龟源xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/达达龟源.json"},
 {"key":"csp_PQ_神马影院","name":"神马影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/神马影院.json"},
 {"key":"csp_PQ_花猫影视","name":"花猫影视xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/花猫影视.json"},
 {"key":"csp_PQ_在线之家","name":"在线之家xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/在线之家.json"},
