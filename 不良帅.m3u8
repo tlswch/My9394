@@ -3,7 +3,7 @@
 	"sites": [
 {"key":"csp_Sp_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"  ,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_Sp_图图影视","name":"爬虫┃图图影视","type":3,"api":"csp_AppTT"    ,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Sp_轻松视频","name":"爬虫┃轻松视频","type":3,"api":"csp_RelaxSP"  ,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2"},
+{"key":"csp_Sp_轻松视频","name":"爬虫┃轻松视频","type":3,"api":"csp_RelaxSP"  ,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Sp_蓝光影视","name":"爬虫┃蓝光影视","type":3,"api":"csp_Lgyy"     ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"","ext":""},
 {"key":"csp_Sp_农民影视","name":"爬虫┃农民影视","type":3,"api":"csp_Nmys"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Sp_迷你影视","name":"爬虫┃迷你影视","api":"csp_MiniYs"            ,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
