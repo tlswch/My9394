@@ -25,7 +25,7 @@
 {"key":"csp_PQ_饭团影视","name":"饭团影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/饭团影视.json"},
 {"key":"csp_PQ_爱看影视","name":"爱看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/爱看影视.json"},
 {"key":"csp_PQ_爱酷影视","name":"爱酷影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/爱酷影视.json"},
-{"key":"csp_PQ_热播酷源","name":"热播酷源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/热播酷.json"},
+{"key":"csp_PQ_热播酷源","name":"热播酷源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/热播库.json"},
 {"key":"csp_PQ_RENPETV","name":"RenpeTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/RENPE.json"},
 {"key":"csp_PQ_Free影视","name":"Free影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/FreeOK.json"},
 {"key":"csp_PQ_HDIK影视","name":"HDIK影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/HDIK.json"},
