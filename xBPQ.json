@@ -65,7 +65,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
-"spider": ""./raw/master/jar/xBPQ1107.jar;md5;433A703E75C39542E6009A42416533ED",
+"spider":"./jar/xBPQ1107.jar;md5;433A703E75C39542E6009A42416533ED",
 
 //壁纸
 "wallpaper": "http://52bsj.vip:82/late",
