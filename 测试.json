@@ -173,7 +173,7 @@
 {"key":"py_js_JRS球网","name":"体育┃JRS看球网5G","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/JRS看球网.js"},
 {"key":"py_js_JRKAN播","name":"体育┃JRKAN直播","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"py_js_omofun","name":"动漫┃omofun动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/omofun动漫.js"},
-{"key":"push_推送视频","name":"道长┃手机推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a52cc59d21374117858c0dccb4b3c117"}
+{"key":"push_推送视频","name":"道长┃手机推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0","ext":"a52cc59d21374117858c0dccb4b3c117"}
 ],
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
