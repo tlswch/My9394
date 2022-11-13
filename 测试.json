@@ -1,10 +1,8 @@
 {
-
-//道长规则
-     //不良帅整理
+    //不良帅整理
     "sites" : [
 {"key":"py_js_豆瓣热播","name":"道长┃搜索豆瓣","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/drpy.js"},
-{"key":"py_js_酷云七七","name":"道长┃影视酷云77","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/酷云77.js"},
+{"key":"py_js_酷云七七","name":"道长┃酷云77","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/酷云77.js"},
 {"key":"py_js_快看影视","name":"道长┃快看影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/快看.js"},
 {"key":"py_js_低端影视","name":"道长┃低端影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/ddys.js"},
 {"key":"py_js_天天视频","name":"道长┃天天视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/天天视频.js"},
