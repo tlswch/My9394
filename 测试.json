@@ -122,7 +122,7 @@
 {"key":"py_js_吼吼影视","name":"道长┃吼吼影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/HoHo影视.js"},
 {"key":"py_js_蛋蛋赞剧","name":"道长┃蛋蛋赞剧","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/蛋蛋赞.js"},
 {"key":"py_js_酷酷韩剧","name":"道长┃酷酷韩剧","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/酷酷韩剧.js"},
-{"key":"py_js_稀饭影视","name":"道长┃稀饭影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/稀饭影视.js"}
+{"key":"py_js_稀饭影视","name":"道长┃稀饭影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/稀饭影视.js"}, 
 {"key":"py_js_映迷影院","name":"道长┃映迷影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/映迷影院.js"},
 {"key":"py_js_趣享星趣","name":"道长┃趣享星趣","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/趣享星趣.js"},
 {"key":"py_js_独播库剧","name":"道长┃独播库剧","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/独播库.js"},
