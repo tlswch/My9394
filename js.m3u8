@@ -26,22 +26,194 @@
 {"key":"csp_js_在线之家","name":"道长┃在线之家","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6%e2%85%a1.js"},
 {"key":"csp_js_真不卡剧","name":"道长┃真不卡剧","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%9f%e4%b8%8d%e5%8d%a1.js"},
 {"key":"csp_js_七小时剧","name":"道长┃七小时剧","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://github.com/heroaku/TVboxo/raw/main/Js/七小时影院.js"},
+{
+	"key": "js豆瓣",
+	"name": "豆瓣热播┃dr首页",
+	"type": 3,
+	"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
+},
+{
+	"key": "drpy_js_豆瓣",
+	"name": "豆瓣[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/drpy%e8%b1%86%e7%93%a3.js"
+},
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+	"key": "drpy_js_厂长资源",
+	"name": " 厂长资源[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"
+},
+{
+	"key": "drpy_js_低端影视",
+	"name": " 低端影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/ddys.js"
+},
+{
+	"key": "drpy_js_霹雳影视",
+	"name": " 霹雳影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.js"
+},
+{
+	
+	"key": "drpy_js_趣享星趣",
+	"name": " 趣享星趣[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%b6%a3%e4%ba%ab%e6%98%9f%e8%b6%a3.js"
+},
+{
+	"key": "drpy_js_首播影院",
+	"name": " 首播影院[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%a6%96%e6%92%ad%e5%bd%b1%e9%99%a2.js"
+},
+{
+	"key": "drpy_js_看视界",
+	"name": " 看视界[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%8b%e8%a7%86%e7%95%8c.js"
+}, 
+{
+	"key": "drpy_js_独播库",
+	"name": " 独播库[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%8b%ac%e6%92%ad%e5%ba%93.js"
+}, 
+{
+	"key": "drpy_js_追剧达人",
+	"name": " 追剧达人[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.js"
+}, 
+{
+	"key": "drpy_js_两个BT",
+	"name": " 两个BT[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e4%b8%a4%e4%b8%aaBT.js"
+},
+{
+	"key": "drpy_js_来看点播",
+	"name": " 来看点播[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e6%9d%a5%e7%9c%8b%e7%82%b9%e6%92%ad.js"
+},
+{
+	"key": "drpy_js_影视工厂",
+	"name": " 影视工厂[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.js"
+},
+{
+	"key": "drpy_js_牛马TV",
+	"name": " 牛马TV[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%89%9b%e9%a9%acTV.js"
+},
+{
+	"key": "drpy_js_酷云77",
+	"name": " 酷云77[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%85%b7%e4%ba%9177.js"
+},
+{
+	"key": "drpy_js_追剧喵",
+	"name": " 追剧喵[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%bf%bd%e5%89%a7%e5%96%b5.js"
+},
+{
+	"key": "drpy_js_皮皮泡",
+	"name": " 皮皮泡[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9a%ae%e7%9a%ae%e6%b3%a1.js"
+},
+{
+	"key": "drpy_js_MXONE",
+	"name": " MXONE[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/MXONE.js"
+}, 
+{
+	"key": "drpy_js_落攻阁影视",
+	"name": " 落攻阁影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%90%bd%e6%94%bb%e9%98%81%e5%bd%b1%e8%a7%86.js"
+},
+{
+	"key": "drpy_js_我爱跟剧",
+	"name": " 我爱跟剧[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e6%88%91%e7%88%b1%e8%b7%9f%e5%89%a7.js"
+}, 
+{
+	"key": "drpy_js_干饭影视",
+	"name": " 干饭影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.js"
+}, 
+{
+	"key": "drpy_js_喵喵",
+	"name": " 喵喵[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"
+}, 
+{
+	"key": "drpy_js_万能影视",
+	"name": " 万能影视[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.js"
+}, 
+{
+	"key": "drpy_js_在线之家",
+	"name": " 在线之家[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6%e2%85%a1.js"
+}, 
+{
+	"key": "drpy_js_真不卡",
+	"name": " 真不卡[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%9c%9f%e4%b8%8d%e5%8d%a1.js"
+}, 
+{
+	"key": "drpy_js_七小时影院",
+	"name": " 七小时影院[DRPY]",
+	"type": 3,
+	"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
+	"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/七小时影院.js"
+}
+],
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;D0E949CB4D53B94449D943D06018869A",
 "lives": [{
 "group": "redirect",
