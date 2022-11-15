@@ -1,7 +1,7 @@
 {
 	//不良帅
 	"sites": [
-{"key":"csp_Sp_影视推荐","name": "🏡影视推荐🏡","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_Sp_影视推荐","name":"🏘️首页┃豆瓣推荐","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Sp_酷云七七","name":"👒爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"  ,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_Sp_蓝光影视","name":"👓爬虫┃蓝光影视","type":3,"api":"csp_Lgyy"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_影视工厂","name":"🎬爬虫┃影视工厂","type":3,"api":"csp_Ysgc"     ,"searchable":1,"quickSearch":1,"filterable":0},
