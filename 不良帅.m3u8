@@ -1,6 +1,7 @@
 {
 	//不良帅
 	"sites": [
+{"key":"csp_Sp_影视推荐","name": "🏡影视推荐🏡","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Sp_酷云七七","name":"👒爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"  ,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_Sp_蓝光影视","name":"👓爬虫┃蓝光影视","type":3,"api":"csp_Lgyy"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_影视工厂","name":"🎬爬虫┃影视工厂","type":3,"api":"csp_Ysgc"     ,"searchable":1,"quickSearch":1,"filterable":0},
@@ -287,17 +288,17 @@
 {"key":"csp_ap_独优影视","name":"🦚采集┃独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_ap_死威影视","name":"🦚采集┃CV影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_ap_二号币采","name":"🦚采集┃2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
-{"key":"csp_ap_809资源","name":"🦚采集┃8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_ap_八零九零","name":"🦚采集┃8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_采集资源","name":"🦚采集┃M3U8.TV资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_八戒官采","name":"🦚采集┃八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_ap_土狗360","name":"🦚采集┃土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_ap_土狗官采","name":"🦚采集┃土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_看猫资源","name":"🦚采集┃看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_忆梦资源","name":"🦚采集┃忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_木子看剧","name":"🦚采集┃木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_阿远采集","name":"🦚采集┃阿远采集","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_新浪资源","name":"🦚采集┃新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playurl":"","searchable":1,"quickSearch":1},
 {"key":"csp_ap_冠军资源","name":"🦚采集┃冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_ap_FOX资源","name":"🦚采集┃FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_ap_采集资源","name":"🦚采集┃FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_卧龙资源","name":"🦚采集┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_樱花资源","name":"🦚采集┃樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_2001210","name":"🦚采集┃200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playurl":"","searchable":1,"quickSearch":1},
@@ -314,7 +315,7 @@
 {"key":"csp_ap_速影影视","name":"🦚采集┃速影","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 {"key":"csp_ap_千寻时光","name":"🦚采集┃千寻时光","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_网民电影","name":"🦚采集┃网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_ap_MB影视","name":"🦚采集┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}
+{"key":"csp_ap_采集影视","name":"🦚采集┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}
 ],
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
