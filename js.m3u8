@@ -4,7 +4,7 @@
 {"key":"py_js_酷云七七","name":"道长┃酷云七七","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/酷云77.js"},
 {"key":"py_js_快看影视","name":"道长┃快看影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/快看.js"},
 {"key":"py_js_低端影视","name":"道长┃低端影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/ddys.js"},
-{"key":"py_js_DJ音乐","name":"音频┃DJ音乐","type":3,"api":"./js/1ib/drpy .min.js","ext":"./js/DJ音乐.json","playerType" : "2"},
+{"key":"py_js_舞起音乐","name":"音频┃DJ音乐","type":3,"api":"./js/1ib/drpy .min.js","ext":"./js/DJ音乐.js","playerType" : "2"},
 {"key":"py_js_天天视频","name":"道长┃天天视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/天天视频.js"},
 {"key":"py_js_起飞影院","name":"道长┃起飞影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/起飞影院.js"},
 {"key":"py_js_海兔影院","name":"道长┃海兔影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/海兔影院.js"},
