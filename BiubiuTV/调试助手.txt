@@ -152,7 +152,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "qishiye": "1",
-"fenlei": "香港$/vodshow/lianxuju--------#内地$/vodshow/lianxuju--------#韩国$/vodshow/lianxuju--------#台湾$/vodshow/lianxuju--------#电视剧$/vodshow/lianxuju--------#电影$/vodshow/dianying--------#动漫$/vodshow/dongman--------#综艺$/vodshow/zongyi--------",
+"fenlei": "电视剧$/vodshow/lianxuju--------#电影$/vodshow/dianying--------#动漫$/vodshow/dongman--------#综艺$/vodshow/zongyi--------",
 "houzhui": "---.html",
 "shifouercijiequ": "1",
 "jiequqian": "<div class=\"row row-cards\">",
