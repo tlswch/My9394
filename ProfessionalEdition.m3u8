@@ -1,6 +1,16 @@
 {
 "sites": [
 {
+"key":"csp_xBPQ_voflixHD",
+"name":"VOFLIX┃国内外剧",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/voflixHD.json"
+},
+{
 "key": "CZSPP",
 "name": "厂长影视┃国内外剧",
 "type": 3,
@@ -268,16 +278,6 @@
 "quickSearch": 1,
 "filterable": 1, 
 "ext": ""
-},
-{
-"key":"csp_xBPQ_voflixHD",
-"name":"VOFLIX┃国内外剧",
-"type":3,
-"api":"csp_xBPQ",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/voflixHD.json"
 },
 {
 "key": "csp_哔滴" ,
