@@ -28,7 +28,7 @@
 {"key":"csp_Sp_念影影视","name":"🎏爬虫┃念影视剧","type":3,"api":"csp_Nianying" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_听书故事","name":"💤听书┃主人听书","type":3,"api":"csp_Tbook"    ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_动漫巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84"     ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Sp_三亿飘花","name":"❇️爬虫┃三亿飘花","type":3,"api:'csp_EEEDY',"playerType:2,searchable:1,quickSearch:1,filterable:1},
+{"key":"csp_Sp_三亿飘花","name":"❇️爬虫┃三亿飘花","type":3,"api:'csp_EEEDY"     ,"searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_弹幕动漫","name":"🤡动漫┃弹幕动漫","type":3,"api":"csp_Anfuns"   ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_看视界剧","name":"⛳爬虫┃看视界剧","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Sp_天空影视","name":"📡爬虫┃天空影视","type":3,"api":"csp_Tkys"     ,"searchable":1,"quickSearch":1,"filterable":1},
