@@ -2,7 +2,7 @@
 "sites": [
 {
       "key": "csp_xb_lgyy",
-      "name": "蓝光影院(R)",
+      "name": "影院(R)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
