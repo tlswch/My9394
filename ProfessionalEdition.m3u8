@@ -11,6 +11,26 @@
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/voflixHD.json"
 },
 {
+      "key": "csp_xb_lgyy",
+      "name": "bcwzg┃国内外剧",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.bcwzg.com/vodtype/{cateId}--------{catePg}---.html"
+    },
+{
+      "key": "csp_xb_lgyy",
+      "name": "imaxw┃国内外剧",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://imaxw.com/vodshow/{cateId}--------{catePg}---.html"
+    },
+{
 "key": "CZSPP",
 "name": "厂长影视┃国内外剧",
 "type": 3,
