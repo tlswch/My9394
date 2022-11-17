@@ -2,8 +2,8 @@
 	//不良帅整理
 	"sites": [
 {"key":"csp_Sp_影视推荐","name":"🏘️首页┃豆瓣推荐","type":4,"api":  "http://top.fuqizhishi.com/vod","searchable":0,"quickSearch":   0,"filterable":   0},
-{"key":"csp_Sp_影视推荐","name":"🏘️首二┃豆瓣推荐","type":4,"api": "http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":  0,"filterable":  0},
-{"key":"csp_Sp_影视推荐","name":"🏘️首三┃豆瓣推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api": "http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":  0,"filterable":  0},
+{"key":"csp_Sp_豆瓣公共","name":"🏘️首三┃豆瓣公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Sp_酷云七七","name":"👒爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_视频影视","name":"💹爬虫┃VOFLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_图图影视","name":"🐰爬虫┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
@@ -45,9 +45,9 @@
 {"key":"csp_Sp_爱起艺官","name":"🥝官方┃爱起艺官","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_起鹅视频","name":"🐧官方┃起鹅视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_陆小果官","name":"🍋官方┃陆小果官","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
-{"key":"csp_Sp_Gitcafe","name":"📜云一┃阿里纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
-{"key":"csp_Sp_Gitcafe","name":"📜云二┃阿里纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"csp_Sp_Gitcafe","name":"📜云三┃阿里纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"csp_Sp_Gitcafe","name":"📜云一┃绣球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
+{"key":"csp_Sp_Gitcafe","name":"📜云二┃星球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Sp_Gitcafe","name":"📜云三┃地球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 {"key":"csp_Sp_阿里易搜","name":"🆎搜索┃易搜影视","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
 {"key":"csp_Sp_阿里盘搜","name":"😻搜索┃盘搜影视","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
 {"key":"csp_Sp_阿里找源","name":"🦊搜索┃找资源剧","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
