@@ -46,8 +46,8 @@
 {"key":"csp_Sp_起鹅视频","name":"🐧官方┃起鹅视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_陆小果官","name":"🍋官方┃陆小果官","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,playerType:0},
 {"key":"csp_Sp_Gitcafe","name":"📜云一┃绣球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
-{"key":"csp_Sp_Gitcafe","name":"📜云二┃星球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"csp_Sp_Gitcafe","name":"📜云三┃地球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"csp_Sp_星球纸条","name":"📜云二┃星球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Sp_地球纸条","name":"📜云三┃地球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 {"key":"csp_Sp_阿里易搜","name":"🆎搜索┃易搜影视","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
 {"key":"csp_Sp_阿里盘搜","name":"😻搜索┃盘搜影视","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
 {"key":"csp_Sp_阿里找源","name":"🦊搜索┃找资源剧","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
@@ -348,7 +348,10 @@
 {"name":"线路6","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 ],
-
+"rules": [{"host": "*","rule": ["iesdouyin.com/aweme","video_id="]},
+{"host": "*","rule": ["huoshan.com","/item/video/"]},
+{"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+{"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
