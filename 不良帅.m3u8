@@ -1,7 +1,7 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
-{"key": "csp_Bili演唱会","name":"🅱️哔哩┃演唱观看","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/%e6%bc%94%e5%94%b1%e4%bc%9a.php"},
+{"key": "csp_Bili演唱会","name":"🅱️哔哩┃演唱观看","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/演唱会.php"},
 {"key":"csp_Sp_影视推荐","name":"🏘️首页┃豆瓣推荐","type":4,"api":  "http://top.fuqizhishi.com/vod","searchable":0,"quickSearch":   0,"filterable":   0},
 {"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api": "http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":  0,"filterable":  0},
 {"key":"csp_Sp_豆瓣公共","name":"🏘️首三┃豆瓣公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
