@@ -1,13 +1,14 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
+{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
 {"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_Sp_豆瓣公共","name":"🏘️首三┃豆瓣公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Sp_酷云七七","name":"👒影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_视频影视","name":"💹影视┃VOFLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,playerType:2,"ext":"./xBPQ/voflixHD.json"},
 {"key":"csp_Sp_图图影视","name":"🐰影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 {"key":"csp_YQ-柠檬踢微","name":"️💠香佬┃柠檬踢微","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/柠檬.json"},
-{"key":"csp_Sp_蓝光影视","name":"🌌影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
+{"key":"csp_Sp_蓝光影视","name":"🌌影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 {"key":"csp_Sp_影视工厂","name":"🎬影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_农民影视","name":"🌾影视┃农民影视","type":3,"api":"csp_Nmys","searchable":  1,"quickSearch":  1,"filterable":  1,"ext":"./xpath/工人.json"},
 {"key":"csp_Sp_利奥影视","name":"🍪影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
@@ -16,7 +17,7 @@
 {"key":"csp_Sp_乐猪影视","name":"🐷影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_小苹果源","name":"🍎影视┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 {"key":"csp_Sp_低端影视","name":"🛂影视┃低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Sp_哔滴影视","name":"📯影视┃哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
+{"key":"csp_Sp_哔滴影视","name":"📯影视┃哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 {"key":"csp_Sp_在线之家","name":"🏡影视┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_厂长影视","name":"🏗️影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_追剧喵源","name":"🐱影视┃追剧喵源","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
