@@ -1,5 +1,50 @@
 {
 "sites": [
+
+{
+"key": "CZSPP",
+"name": "厂长影视┃国内外剧",
+"type": 3,
+"api": "csp_Czsapp",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "",
+"jar": ""
+},
+{
+"key": "360",
+"name": "360影视┃国剧聚合",
+"api": "csp_SP360",
+"type": 3,
+"filterable": 1,
+"quickSearch": 1,
+"searchable": 1,
+"ext": "",
+"jar": ""
+},
+{
+"key": "AppTT",
+"name": "图图影视┃国内外剧",
+"type": 3,
+"api": "csp_AppTT",
+"playerType":1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "",
+"jar": ""
+},
+{
+"key": "csp_xpath_fantuan",
+"name": "饭团影视┃国内外剧",
+"type": 3,
+"api": "csp_Fantuan",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": ""
+},
 {
 "key":"csp_xBPQ_voflixHD",
 "name":"VOFLIX┃国内外剧",
@@ -31,29 +76,6 @@
       "ext": "https://imaxw.com/vodshow/{cateId}--------{catePg}---.html"
     },
 {
-"key": "CZSPP",
-"name": "厂长影视┃国内外剧",
-"type": 3,
-"api": "csp_Czsapp",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "",
-"jar": ""
-},
-{
-  "key": "Relax",
-  "name": "轻松视频┃国内外剧",
-  "type": 3,
-  "api": "csp_RelaxSP",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 2,
-  "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
-},
-{
   "key":"NoSearch_csp_BBB",
   "name":"哔哩哔哩┃综合筛选",
   "type":3,
@@ -63,29 +85,7 @@
   "filterable":1,
   "ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9.json"
 },
-{
-"key": "360",
-"name": "360影视┃国剧聚合",
-"api": "csp_SP360",
-"type": 3,
-"filterable": 1,
-"quickSearch": 1,
-"searchable": 1,
-"ext": "",
-"jar": ""
-},
-{
-"key": "AppTT",
-"name": "图图影视┃国内外剧",
-"type": 3,
-"api": "csp_AppTT",
-"playerType":1,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "",
-"jar": ""
-},
+
 {
 "key" : "py_cctv",
 "name" : "央视频道┃PY专用",
@@ -96,17 +96,7 @@
 "filterable" : 1,
 "ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv.py"
 },
-{
-  "key": "MiniYs_spider",
-  "name": "迷你影视┃国内外剧",
-  "api": "csp_MiniYs",
-  "type": 3,
-  "filterable": 1,
-  "quickSearch": 1,
-  "searchable": 1,
-  "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
-},
+
 {
 "key":"Lgyy",
 "name":"蓝光影视┃国内外剧",
@@ -215,29 +205,8 @@
   "ext": "",
   "jar": ""
 },
-{
-  "key": "棉花影视",
-  "name": "棉花影视┃国内外剧",
-  "type": 3,
-  "api": "csp_MianHua",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
-},
-{
-  "key": "sliu_spider",
-  "name": "石榴电影┃国内外剧",
-  "api": "csp_ShiLiuDY",
-  "type": 3,
-  "filterable": 1,
-  "quickSearch": 1,
-  "playerType": 2,
-  "searchable": 1,
-  "ext": "",
-  "jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/haopao.jar;md5;52BA61C9695C33F835D3DB75F424C615"
-},
+
+
 {
 "key": "csp_Auete",
 "name": "AUETE┃国内外剧",
@@ -344,16 +313,7 @@
 "filterable": 1,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"
 },
-{
-"key": "csp_xpath_fantuan",
-"name": "饭团影视┃国内外剧",
-"type": 3,
-"api": "csp_Fantuan",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
+
 {
 "key": "dr_抓饭体育", 
 "name": "抓饭体育┃观看体育", 
