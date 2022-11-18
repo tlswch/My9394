@@ -65,16 +65,9 @@
       "filterable": 0,
       "ext": "https://www.bcwzg.com/vodtype/{cateId}--------{catePg}---.html"
     },
-{
-      "key": "csp_xb_lgyy",
-      "name": "imaxw┃国内外剧",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://imaxw.com/vodshow/{cateId}--------{catePg}---.html"
-    },
+{"key":"csp_Sp_Gitcafe","name":"📜云盘┃绣球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
+{"key":"csp_Sp_星球纸条","name":"📜云盘┃星球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Sp_地球纸条","name":"📜云盘┃地球纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 {
   "key":"NoSearch_csp_BBB",
   "name":"哔哩哔哩┃综合筛选",
