@@ -1,6 +1,6 @@
 {"cookie":"buvid3=2976F806-229F-55AD-3B48-5CA8F9FFFB9712397infoc; _uuid=FEE8C3109-F3C8-642C-C959-5C4A6177EDBB12830infoc; buvid_fp=3aeef9e986f36d128aef155fe3047c3e; i-wanna-go-back=-1; CURRENT_BLACKGAP=0; LIVE_BUVID=AUTO5316470826810444; nostalgia_conf=-1; blackside_state=0; b_nut=100; CURRENT_FNVAL=4048; bsource=search_bing; fingerprint=5e6457d365db1dade462f6b0bb59cf11; buvid4=69195BAE-28A6-658C-50DA-E3D67B8CD84F13569-022020422-Pk1O31qDhl47cFqwe+jrf8i4G2tK485JwNiMIXYzoCOWf9lIEHfH4w==; SESSDATA=69449e54,1684158147,da592*b2; bili_jct=e27d39c1be308cd824f0ac1a12a7a8d1; DedeUserID=29274385; DedeUserID__ckMd5=8ba054cf7f91a656; b_ut=5; bp_video_offset_29274385=607111936739725400; sid=5bm92bfr; is-2022-channel=1; _dfcaptcha=45709df6313e1cd0260642270ff0fa96; innersign=1; rpdid=0zbfAHVNA7|WbMasC8t|1Go|3w1OVj5l; b_lsid=810423764_18480D07569; PVID=5; CURRENT_QUALITY=80",
-  "classes": [
-    {
+  "classes":[
+  {
       "type_name": "帕梅拉",
       "type_id": "帕梅拉"
     },
@@ -35,8 +35,4 @@
     {
       "type_name": "动物世界",
       "type_id": "动物世界"
-    }
-  ],
-  "filter": {
-  }
-}
+    }]}]}}
