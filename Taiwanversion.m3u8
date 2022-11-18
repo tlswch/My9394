@@ -48,10 +48,41 @@
 "type":3,
 "api":"csp_Alist",
 "searchable":0,
+"playerType": 2,
 "quickSearch":0,
 "filterable":0,
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/Alist.json"
 },
+{
+      "key": "csp_Alist3",
+      "name": "🅿Alist(SP)",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 0,
+      "playerType": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "🦀9T(Adult)": "https://drive.9t.ee",
+        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
+        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
+        "💂小兵组网盘影视": "https://6vv.app",
+        "🐋一只鱼": "https://alist.youte.ml",
+        "🌊七米蓝": "https://al.chirmyram.com",
+        "🥼帅盘": "https://hi.shuaipeng.wang",
+        "🐉神族九帝": "https://alist.shenzjd.com",
+        "☃️姬路白雪": "https://pan.jlbx.xyz",
+        "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
+        "💾DISK": "http://124.222.140.243:8080",
+        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
+        "✨星梦": "https://pan.bashroot.top",
+        "💫触光": "https://pan.ichuguang.com",
+        "🕵️好汉吧": "https://8023.haohanba.cn",
+        "💢repl": "https://ali.liucn.repl.co",
+        "🌨秋雨分享": "https://share.laowang.me",
+        "💦讯维云盘": "https://pan.xwbeta.com"
+      },
+    },
 {
 "key":"csp_trj",
 "name": "唐人影视┃自备梯子",
@@ -800,6 +831,68 @@
 "欧美剧",
 "海外剧",
 "其他剧"
+]
+},
+{ "key": "cj.lziapi",
+"name": "cj.lziapi",
+"type": 1,
+"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
+},
+{
+"key": "xinlangapi",
+"name": "xinlangapi",
+"type": 1,
+"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]
+},
+{
+"key": "ddzyz1",
+"name": "ddzyz1",
+"type": 1,
+"api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","纪录片","动画片","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺"]
+},
+{
+"key": "guangsuapi",
+"name": "guangsuapi",
+"type": 1,
+"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
+},
+
+{
+"key": "快播",
+"name": "快播影视",
+"type": 1,
+"api": "https://www.kuaibozy.com/api.php/provide/vod/",
+"searchable": 1,
+"filterable": 0,
+"categories": [
+"动漫",
+"国产剧",
+"日韩剧",
+"港台剧",
+"欧美剧",
+"泰剧",
+"动作片",
+"喜剧片",
+"爱情片",
+"科幻片",
+"恐怖片",
+"剧情片",
+"战争片",
+"纪录片",
+"综艺"
 ]
 },
 {
