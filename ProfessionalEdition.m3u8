@@ -2,6 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
+{"key":"csp_Sp_一起舞动","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/健身.json"},
 {"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_Sp_豆瓣公共","name":"🏘️首三┃豆瓣公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Sp_厂长影视","name":"🏗️影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
