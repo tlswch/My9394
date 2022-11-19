@@ -1,6 +1,30 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
+"rules" : [
+    {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
+    {"host":"*","rule":["douyin.com/aweme", "video_id="]},
+    {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
+    {"host":"*","rule":["ysting.ysxs8.vip","m4a"]},
+    {"host":"*","rule":["/m3u8.php","path="]},
+    {"host":"*","rule":["/m3u8.php?path=",".m3u8"]},
+    {"host":"*","rule":["/API.php?time=","key=","path=",".m3u8"]},
+    {"host":"*","rule":["oss-cn-m3u8","myqcloud.com.zh188.net","?url=",".m3u8"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".m3u8"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mp4"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mkv"]},
+    {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
+    {"host":"http://www.sharenice.net/douyin","rule":["https://www.douyin.com/aweme/","video_id="]},
+    {"host":"www.sharenice.net","rule":["huoshan.com","/video/"]},
+    {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="]},
+    {"host":"hdmoli.com","rule":[".m3u8"]},
+    {"host":"https://live.bilibili.com","rule":["bilivideo.com/live-bvc","index.m3u8?expires="]},
+    {"host":"m.ysxs8.vip","rule":["xmcdn.com","m4a"]},
+    {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
+    {"host":"https://www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
+    {"host": "www.007ts.me","rule": ["hls.pchj.net",".m3u8"]},
+    {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}
+  ],
 {"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
 {"key":"csp_Sp_一起舞动","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/健身.json"},
 {"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
@@ -85,11 +109,6 @@
 {"name":"线路6","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
-"rules": [{"host": "*","rule": ["iesdouyin.com/aweme","video_id="]},
-{"host":"*","rule":["douyinvod.com", "/video/tos/cn/"]},
-{"host": "*","rule": ["huoshan.com","/item/video/"]},
-{"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-{"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
 "spider":"./jar/不良帅.jar;md5;C5D61AE27258508EB500232E635E98F0",
 
