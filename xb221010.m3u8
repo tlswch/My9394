@@ -1,7 +1,23 @@
 //用于tvbox的个人学习使用，未涉及到商业盈利，如有侵权，请联系，会在第一时间删除谢谢
 //感谢各位开发者大佬默默付出。不良帅个人整理测试，折腾折腾折腾而已。
 {
-	"sites": [{
+	"sites": [
+
+
+{
+			"key": "csp_XBiu看视界",
+			"name": "国内外剧┃影视",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XB2/北川影视.json"
+		},
+
+
+
+{
 			"key": "csp_XBiu看视界",
 			"name": "国内外剧┃视界影视",
 			"type": 3,
