@@ -1,7 +1,7 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
-{"key":"csp_Sp_谁演唱会","name":"⚠⚠⚠勿相信广告⚠⚠⚠","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext":"."},
+{"key":"csp_Sp_谁演唱会","name":"⚠⚠⚠勿相信广告⚠⚠⚠","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
 {"key":"csp_Sp_一起舞动","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/健身.json"},
 {"key":"csp_Sp_豆瓣火推","name":"🏘️首二┃豆瓣火推","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
