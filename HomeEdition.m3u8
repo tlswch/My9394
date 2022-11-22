@@ -1,6 +1,7 @@
 {
 	//不良帅
 	"sites": [
+{"key":"csp_Sp_直播自用","name":"📺直播┃电视直播","type": 4,"api": "http://120.53.102.254/live2?url=https://notabug.org/qizhen15800/My9394/raw/master/live/djmTV.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Sp_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_Sp_三六零剧","name":"官方┃360影视" ,"type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
