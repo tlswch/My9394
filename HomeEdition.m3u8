@@ -43,7 +43,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
-"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/sq.jar;md5;d0e949cb4d53b94449d943d06018869a",
+"spider":"./jar/不良帅.jar;md5;C5D61AE27258508EB500232E635E98F0",
 
 //壁纸
 "wallpaper": "http://52bsj.vip:82/late",
