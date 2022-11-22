@@ -1,7 +1,7 @@
 {  //香雅作品
   //不良帅整理
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./custom_spider.jar",
+    "spider": "./jar/custom_spider.jar",
     "lives": [
         {
             "group": "自定义",
