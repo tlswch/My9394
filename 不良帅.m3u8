@@ -355,7 +355,6 @@
 {"name":"线路4","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"线路5","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"线路6","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
-
 ],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 "rules": [{"host": "*","rule": ["iesdouyin.com/aweme","video_id="]},
