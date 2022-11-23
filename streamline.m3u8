@@ -1,10 +1,7 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
-{"key":"csp_js_豆瓣热播","name":"🎭影魔┃豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
-{"key":"csp_JS_豆瓣热播","name":"🎭道长┃豆瓣热播","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/drpy%e8%b1%86%e7%93%a3.js"},	
-{"key":"Sp","name":"小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Sp","name":"VOFLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"Sp","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 
 {"key":"Sp","name":"山猫影视","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]}],
