@@ -1,10 +1,6 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
-	"sites": [
-
-{"key":"Sp","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1}
-],
-
+	"sites": [{"key":"Sp","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1}],
 "parses":[
 {"name":"Json聚合","type": 3,"url": "Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
