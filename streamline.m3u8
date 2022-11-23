@@ -2,8 +2,8 @@
 	//不良帅整理
 	"sites": [
 
-{"key":"Sp","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
-
+{"key":"Sp","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1}
+],
 
 "parses":[
 {"name":"Json聚合","type": 3,"url": "Demo"},
