@@ -5,6 +5,7 @@
 {"key":"csp_Sp_豆瓣公共","name":"🏘️首三┃豆瓣公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Sp_酷云七七","name":"👒爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"csp_Sp_视频影视","name":"💹影视┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Sp_视频影视","name":"🐰兔兔┃图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.11.9:6618"},
 {"key":"csp_Sp_图图影视","name":"🐰爬虫┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
 {"key":"csp_Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_蓝光影视","name":"🌌爬虫┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
