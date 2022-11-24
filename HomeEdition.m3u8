@@ -50,7 +50,7 @@
 {"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-
+"rules": [ { "host": "www.sharenice.net", "rule": [ "douyin.com", "/play/" ], "filter": [] }, { "host": "www.sharenice.net", "rule": [ "huoshan.com", "/item/video/" ], "filter": [] }, { "host": "www.sharenice.net", "rule": [ "sovv.qianpailive.com", "vid=" ], "filter": [] }, { "host": "*", "rule": [ "ysting.ysxs8.vip" ], "filter": [] }, { "host": "pdsapi.aliyundrive.com", "rule": [ "/redirect" ] }, { "host": "*", "rule": [ "http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*" ] }, { "host": "*", "rule": [ "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)" ] } ],
 //广告过滤
 "ads":[
 "mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
