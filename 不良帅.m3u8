@@ -299,6 +299,7 @@
 {"key":"csp_xp_黑狐踢威","name":"🌺影视┃黑狐踢威","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xpath/黑狐.json"}, 
 {"key":"csp_xp_工人影视","name":"🌺影视┃工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xpath/工人.json"},
 
+{"key":"csp_ap_天堂资源","name":"💦采集┃天堂图图","type":1,"api":"http://154.38.112.185:7788/api.php/v1.vod","searchable":1,"quickSearch":1},
 {"key":"csp_ap_天堂资源","name":"💦采集┃天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ap_陆油资源","name":"💦采集┃六优资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"csp_ap_诺讯资源","name":"💦采集┃诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
