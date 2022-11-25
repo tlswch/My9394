@@ -9,7 +9,7 @@
 {"key":"csp_js_起飞影院","name":"道长┃起飞影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/起飞影院.js"},
 {"key":"csp_js_海兔影院","name":"道长┃海兔影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/海兔影院.js"},
 {"key":"csp_js_电影大师","name":"道长┃电影大师","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/电影大师.js"},
-{"key":"csp_js_厂长资源","name":"道长┃厂长资源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/厂长资源.js"},
+{"key":"csp_js_厂长资源","name":"道长┃厂长资源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/不良帅/厂长资源.js"},
 {"key":"csp_js_三陆零剧","name":"道长┃三陆零剧","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360影视.js"},
 {"key":"csp_js_奇珍异兽","name":"官源┃奇艺视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"csp_js_优酷视频","name":"官源┃优酷视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/优酷.js"},
