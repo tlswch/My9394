@@ -2,6 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"sp_js_豆瓣热播","name":"道长┃搜索豆瓣","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/drpy.js"},
+{"key":"Ap图图影视","name":"影视图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","img+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-8f718e33-92c3-4e6d-b76b-e8fb9d8e4006/a89fe12f-5e95-4346-a94c-543023c027ef.bmp;md5;45b1bee74341deaafbcf02616d1563f3"},
 {"key":"sp图图影视","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618"},
 {"key":"sp齐齐动漫","name":"齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"sp鸭奈飞","name":"鸭奈飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
