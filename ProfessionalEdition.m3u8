@@ -39,7 +39,7 @@
 {"key":"csp_Sp_奥特影视","name":"🎎影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_追剧达人","name":"👻影视┃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_PQ_踢威逼云","name":"🌩️影视┃TVB云视播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/TVB云播.json"},
-{"key":"csp_Sp_听书全集","name":"💤听书┃主人听书","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "d16d1517e9eaad9909cb35c55ba0b784","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"},
+//{"key":"csp_Sp_听书全集","name":"💤听书┃主人听书","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "d16d1517e9eaad9909cb35c55ba0b784","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"},
 {"key":"csp_Sp_酷狗音乐","name":"🎵音乐┃酷狗MV","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/kugou.json"},
 {"key":"csp_PQ_优嗯影视","name":"🦘影视┃优嗯影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/UM影院.json"},
 {"key":"csp_Sp_南柯影视","name":"🛃影视┃南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
