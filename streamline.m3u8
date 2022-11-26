@@ -2,6 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"csp_js_豆瓣热播","name":"道长┃搜索豆瓣","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/drpy.js"},
+{"key":"sp歌曲演唱","name":"演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./歌曲演唱会.PHP"},
 {"key":"sp一起舞动","name":"一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/哔哩合集T2.php"},
 {"key":"sp谁演唱会","name":"哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
 {"key":"sp小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
