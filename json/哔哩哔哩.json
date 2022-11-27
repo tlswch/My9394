@@ -1,42 +1,7 @@
 {
-"cookie": "https://agit.ai/lengniuge/api/raw/branch/master/cookie.txt",
+
 	"classes": [
-    {
-      "type_name": "4K",
-      "type_id": "4K"
-    },
-    {
-      "type_name": "8K",
-      "type_id": "8K"
-    },
-    {
-		"type_name": "演唱会",
-		"type_id": "演唱会4K"
-	}, {
-		"type_name": "戏曲",
-		"type_id": "戏曲4K"
-	}, {
-		"type_name": "相声小品",
-		"type_id": "相声小品"
-	}, {
-		"type_name": "风景",
-		"type_id": "风景4K"
-	}, {
-		"type_name": "MV",
-		"type_id": "MV4K"
-	}, {
-		"type_name": "歌舞",
-		"type_id": "歌舞"
-	}, {
-		"type_name": "说案",
-		"type_id": "说案"
-	}, {
-		"type_name": "演讲",
-		"type_id": "演讲"
-	}, {
-		"type_name": "解说",
-		"type_id": "解说"
-	}, {
+     {
 		"type_name": "儿童",
 		"type_id": "儿童"
 	}, {
@@ -324,6 +289,7 @@
 				"v": "1"
 			}]
 		}],
+        "cookie": "https://agit.ai/lengniuge/api/raw/branch/master/cookie.txt",
 		"人教版课程": [{
 			"key": "order",
 			"name": "排序",
