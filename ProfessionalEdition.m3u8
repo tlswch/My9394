@@ -16,7 +16,6 @@
 {"key":"csp_Sp_饭团影视","name":"🥗影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_PQ_诺讯影视","name":"🛎影视┃诺讯影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xBPQ/诺讯影视.json"},
 {"key":"csp_Sp_利奥影视","name":"🍪影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Sp_国内外剧","name":"4️⃣影视┃4K影视","type": 3,"api": "csp_xBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 1,"ext":"./xBPQ/4K影院.json"},
 {"key":"csp_Sp_动漫巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_三六零官","name":"🏵️官方┃三六零官","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_js_优酷视频","name":"👑官源┃优酷视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/优酷.js"},
