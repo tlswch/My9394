@@ -113,7 +113,7 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
-"spider":"./不良帅3.jar;md5;1ECF5CBF827260662E77E78E7905C0D1",
+"spider":"./不良帅.jar;md5;C5D61AE27258508EB500232E635E98F0",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
