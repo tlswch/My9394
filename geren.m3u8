@@ -18,7 +18,7 @@
 {"key":"csp_py_央视新闻","name":"📺PY┃央视新闻","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/央视新闻.py"},
 {"key":"csp_Sp_饭团影视","name":"🍱影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_动漫巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_py_哔站影视","name":"🅱️哔站┃哔站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/B站影视.py"},
+{"key":"csp_py_哔站影视","name":"🅱️哔站┃哔站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/B%e7%ab%99%e5%bd%b1%e8%a7%86.py"},
 {"key":"csp_ap_旧欢如梦","name":"🎀影视┃旧欢如梦","type": 1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
 {"key":"csp_Sp_三六零官","name":"🏵️官方┃三六零官","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_js_优酷视频","name":"👑官源┃优酷视频","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"},
