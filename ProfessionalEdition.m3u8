@@ -1,16 +1,15 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
-{"key":"douban","name":"|豆瓣备用","type":4,"api":"http://1.116.152.82:1114/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_豆瓣火推","name":"🏘️主页┃豆瓣推荐","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":  0,"filterable":  0},
+{"key":"douban","name":"|豆瓣备用","type":4,"api":"http://1.116.152.82:1114/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_一起舞动","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"js_舞起音乐","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
 {"key":"Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
 {"key":"Sp_看看电视","name":"️🍋直播┃看看电视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/柠檬.json"},
-{"key":"Sp_厂长资源","name":"🏭影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"},
 {"key":"Sp_图图影视","name":"🐰爬虫┃图图影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"},
-{"key":"Sp_兔兔影视","name":"🐰爬虫┃兔兔影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5"},
+//{"key":"Sp_图图影视","name":"🐰爬虫┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Sp_酷云七七","name":"👒影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_蓝光影视","name":"🚿影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_小苹果源","name":"🍎影视┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
@@ -62,11 +61,11 @@
 {"key":"Sp_月球影院","name":"🐙云盘┃月球影院","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
 {"key":"Sp_火球影院","name":"🐙云盘┃火球影院","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"},
 {"key":"sp_本地视频","name":"📂储存┃本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"Sp_阿里易搜","name":"🔎搜索┃易搜影视","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-{"key":"Sp_阿里找源","name":"🔍搜索┃找资源剧","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-{"key":"Sp_影视磁搜","name":"🔎搜索┃磁搜影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"},
-{"key":"Sp_阿里云搜","name":"🔍搜索┃云搜影视","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-{"key":"Sp_阿里推送","name":"🖥️推送┃手动推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"Sp_阿里易搜","name":"🆎搜索┃易搜影视","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"Sp_阿里找源","name":"🦊搜索┃找资源剧","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"Sp_影视磁搜","name":"🧲搜索┃磁搜影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"},
+{"key":"Sp_阿里云搜","name":"☁️搜索┃云搜影视","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"Sp_阿里推送","name":"🍭推送┃手动推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/tok"},
 {"key":"PQ_抓饭体育","name":"🏀体育┃抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQBiu/抓饭体育.json"},
 {"key":"YQ_酷奇音乐","name":"🎵音乐┃酷奇MV","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQBiu/酷奇MV.json"},
 {"key":"PQ_视觉影院","name":"🔭影视┃视觉影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/视觉影院.json"},
@@ -92,7 +91,8 @@
 {"key":"xp_万能影视","name":"┃万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/万能影视.json"},
 {"key":"xp_奇优影院","name":"影视┃奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/奇优影院.json"},
 {"key":"xp_UM影院","name":"影视┃UM影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/UM影院.json"},
-{"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"}
+//{"key":"Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses":[
 {"name":"播不了","type": 3,"url": "Demo"},
