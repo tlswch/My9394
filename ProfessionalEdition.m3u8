@@ -1,6 +1,7 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
+{"key":"douban","name":"|豆瓣备用","type":4,"api":"http://1.116.152.824:1114/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_豆瓣火推","name":"🏘️主页┃豆瓣推荐","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":  0,"filterable":  0},
 {"key":"Sp_一起舞动","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"js_舞起音乐","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
