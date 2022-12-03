@@ -91,6 +91,9 @@
 {"key":"xp_奇优影院","name":"影视┃奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/奇优影院.json"},
 {"key":"xp_UM影院","name":"影视┃UM影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/UM影院.json"},
 {"key":"Sp_星空影视","name":"️🍋影视┃星空影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/星空.json"},
+{"key":"Sp_美剧天堂","name":"️🍋影视┃美剧天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/美剧天堂.json"},
+{"key":"js_布雷蓝光","name":"👑影视┃布雷蓝光","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/布雷蓝光.js"},
+{"key":"Sp_小猫咪咪","name":"️🍋影视┃小猫咪咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/小猫咪.json"},
 //{"key":"Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
