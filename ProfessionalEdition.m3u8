@@ -92,7 +92,7 @@
 {"key":"xp_万能影视","name":"┃万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/万能影视.json"},
 {"key":"xp_奇优影院","name":"影视┃奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/奇优影院.json"},
 {"key":"xp_UM影院","name":"影视┃UM影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/UM影院.json"},
-{"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"}
+{"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"}
 ],
 "parses":[
 {"name":"播不了","type": 3,"url": "Demo"},
