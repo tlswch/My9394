@@ -7,6 +7,11 @@
 {"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
 {"key":"csp_Sp_看看电视","name":"️🍋直播┃看看电视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/柠檬.json"},
 {"key":"csp_Sp_图图影视","name":"🐰爬虫┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://110.42.6.212:7788"},
+{"key":"Sp_厂长资源","name":"🏭重源┃厂长影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/custom_spider.jar;md5;2D85B94AAD69EA9F44339EB432FB7F15"},
+{"key":"js_厂长影院","name":"🏭重源┃厂长资源","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"./js/不良帅/厂长资源.js"},
+{"key":"Sp_图图影视","name":"🐰重源┃图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"Sp_图图资源","name":"🐰重源┃图图资源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"},
+{"key":"csp_Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_酷云七七","name":"👒影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_蓝光影视","name":"🚿影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_小苹果源","name":"🍎影视┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
@@ -77,7 +82,6 @@
 {"key":"csp_py_央视军事","name":"📺PY┃央视军事","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/央视军事.py"},
 {"key":"csp_py_中医基础","name":"📺PY┃中医基础","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中医药.py"},
 {"key":"csp_py_中国文化","name":"📺PY┃中国文化","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中国文化.py"},
-{"key":"csp_Sp_厂长影视","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses":[
@@ -125,7 +129,7 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.jar;md5;C5D61AE27258508EB500232E635E98F0",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.txt;md5;BBB2FFEE4E9EBF5DA0B8D3F651BE5AD8",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
