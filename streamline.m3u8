@@ -105,7 +105,7 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
-"spider":"https://gitcode.net/weixin_67704284/zhenkankan/-/raw/master/jar/%E4%B8%8D%E8%89%AF%E5%B8%85.jar;md5;C5D61AE27258508EB500232E635E98F0",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.txt;md5;BBB2FFEE4E9EBF5DA0B8D3F651BE5AD8",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
