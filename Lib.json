@@ -3,6 +3,26 @@
 
 	"sites":[
     {
+  "key": "csp_xb_shdy",
+  "name": "骚火电影(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://shdy2.com/list/{cateId}-{catePg}.html"
+ },
+    {
+  "key": "csp_xb_ybkk",
+  "name": "云播看看(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.135kan.com/type/{cateId}-{catePg}/"
+ },
+    {
       "key": "csp_xb_lgyy",
       "name": "imaxw┃国内外剧",
       "type": 3,
