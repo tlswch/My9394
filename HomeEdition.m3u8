@@ -30,6 +30,7 @@
 {"key":"js_爱起艺官","name":"🥝官方┃爱起艺官","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/奇珍异兽.js"},
 {"key":"Sp_起鹅视频","name":"🐧官方┃起鹅视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_看短视频","name":"💃视频┃看短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/短视频.json"},
+{"key":"py_央视新闻","name":"📺PY┃央视新闻","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/央视新闻.py"},
 {"key":"Sp_酷狗音乐","name":"🎵音乐┃酷狗MV","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/kugou.json"},
 {"key":"js_舞起音乐","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
 {"key":"PQ_直播电视","name":"🎧音乐┃音乐视频","type": 4,"api": "http://120.53.102.254/live?url=https://notabug.org/qizhen15800/My9394/raw/master/live/DIY.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
