@@ -30,7 +30,7 @@
 {"key":"PQ_看短视频","name":"💃视频┃看短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/短视频.json"},
 {"key":"Sp_酷狗音乐","name":"🎵音乐┃酷狗MV","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/kugou.json"},
 {"key":"js_舞起音乐","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
-{"key":"xp_品质音乐","name":"🎧音频┃品质音乐","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/高品质音乐.json"},
+{"key":"xp_品质音乐","name":"🎧音频┃品质音乐","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XP/高品质音乐.json"},
 {"key":"PQ_直播电视","name":"🎧音乐┃音乐视频","type": 4,"api": "http://120.53.102.254/live?url=https://notabug.org/qizhen15800/My9394/raw/master/live/DIY.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"PQ_电视直播","name":"📺直播┃直播电视","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/电视直播.json"},
 {"key":"Sp_直播合集","name":"🐬直播┃网红直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
