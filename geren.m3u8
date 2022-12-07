@@ -82,6 +82,7 @@
 {"key":"csp_py_央视军事","name":"📺PY┃央视军事","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/央视军事.py"},
 {"key":"csp_py_中医基础","name":"📺PY┃中医基础","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中医药.py"},
 {"key":"csp_py_中国文化","name":"📺PY┃中国文化","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中国文化.py"},
+{"key":"csp_Sp_兔兔影视","name":"🐰爬虫┃兔兔影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://leevi.ct8.pl/tuapi.php"},
 {"key":"csp_Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses":[
