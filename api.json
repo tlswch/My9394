@@ -1,7 +1,7 @@
 {//所有资源都是来自各大佬分享，只为小白提供一个方便；在此感谢各位大佬无私奉献
 	//不良帅整理
 	"sites": [
-{"key":"csp_app_打驴动漫","name":"打驴动漫","type":1,"api":"https://www.dqsj.cc/index.php/vod/","searchable":1,"quickSearch":1}
+{"key":"csp_app_打驴动漫","name":"打驴动漫","type":1,"api":"https://www.dqsj.cc/index.php/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_app_量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
