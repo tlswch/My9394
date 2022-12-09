@@ -1,5 +1,6 @@
 {
 "sites": [
+{"key":"学习教育","name":"🙅‍♂️教育┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/xue.php"},
 {"key":"美食","name":"美食合集┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e7%be%8e%e9%a3%9f.json"},
 {"key":"演唱会","name":"演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
 {"key":"MV","name":"歌曲MV┃哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e6%ad%8c%e6%9b%b2MV.json"},
@@ -20,9 +21,7 @@
 {"key":"教程","name":"教程合集┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e6%95%99%e7%a8%8b.json"},
 {"key":"看视频","name":"短视频┃合集","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/%e7%9f%ad%e8%a7%86%e9%a2%91.json"}
 ],
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/%e5%9b%be%e5%9b%be.jar",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/max911X.jar;md5;32EE59D74A8B294687952E8E43BACC6D",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL0hvbWVFZGl0aW9uVFYudHh0"]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
