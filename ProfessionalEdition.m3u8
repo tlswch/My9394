@@ -64,7 +64,7 @@
 {"key":"Sp_剧荒影院","name":"😈影视┃剧荒影院","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_弹幕动漫","name":"🤡动漫┃弹幕动漫","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_樱花动漫","name":"🌸影视┃樱花动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Sp_Gitcafe","name":"🐳云盘┃绣球影院","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/token.txt","jar":"./jar/ali.jar;md5;780A9C0CEFCC0E4CAC0A6A84FAA322A8"},
+//{"key":"Sp_Gitcafe","name":"🐳云盘┃绣球影院","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/token.txt","jar":"./jar/ali.jar;md5;780A9C0CEFCC0E4CAC0A6A84FAA322A8"},
 {"key":"Sp_星剧影院","name":"🐋重源┃星剧影院","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"./jar/ali.jar;md5;780A9C0CEFCC0E4CAC0A6A84FAA322A8"},
 {"key":"Sp_地球影院","name":"🐬重源┃地球影院","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok","jar":"./jar/ali.jar;md5;780A9C0CEFCC0E4CAC0A6A84FAA322A8"},
 {"key":"Sp_星球影院","name":"🦈重源┃不良帅影院","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt","jar":"./jar/ali.jar;md5;780A9C0CEFCC0E4CAC0A6A84FAA322A8"},
