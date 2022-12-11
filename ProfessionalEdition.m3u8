@@ -103,6 +103,7 @@
 {"key":"PQ_云播影视","name":"📺影视┃云播影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/TVB云播.json"},
 {"key":"sp_南柯影视","name":"⏺影视┃南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_热播影视","name":"📺影视┃热播影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/热播库.json"},
+{"key":"xb_耐看点播","name":"📺影视┃耐看点播","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.lkvod.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html"},
 {"key":"PQ_图图吐吐","name":"🐰影视┃吐吐影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/图图.json"},
 {"key":"Sp_三五电影","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
