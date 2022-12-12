@@ -1,6 +1,6 @@
-{
-  //不良帅
-  "sites": [
+{//所有资源都是来自各互联网，用于个人测试显示器与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+	//不良帅整理
+"sites":[
 {"key":"csp_Sp_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_Sp_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Sp_利奥影视","name":"爬虫┃利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
