@@ -1,5 +1,7 @@
-{
-	//不良帅
+{//所有资源都是来自各互联网，用于个人测试显示器与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+	//不良帅整理
+
+	
 	"sites": [
 {"key":"csp_PQ_三六零剧","name":"360影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},    
 {"key":"csp_PQ_图图资源","name":"图图资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/图图.json"},
