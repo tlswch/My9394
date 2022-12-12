@@ -1,5 +1,5 @@
-{
-  "sites": [
+{//所有资源都是来自各互联网，用于个人测试显示器与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+	//不良帅整理
 //==================================PY爬虫==================================================================
 {"key":"py_豆瓣影视","name":"豆瓣影视┃PY","type":3,"api":"py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douban.py"},
 {"key":"py_酷云七七","name":"酷云七七┃PY","type":3,"api":"py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/酷云七七.py"},
