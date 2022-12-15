@@ -60,6 +60,10 @@
 {"key":"sp_阿狐云搜","name":"☁️搜索┃阿狐云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"Sp_手机推送","name":"🍭推送┃手机推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"Sp_影视磁搜","name":"🧲搜索┃磁搜影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"},
+
+{"key":"PQ_听书网","name":"💞劳思┃听书网️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/听书网.json"},
+{"key":"PQ_100影视","name":"💞劳思┃100影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/100影视.json"},
+{"key":"PQ_天空影视","name":"💞劳思┃天空影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/天空影视.json"},
 {"key":"PQ_厂长资源","name":"💞劳思┃厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/厂长资源.json"},
 {"key":"PQ_皮泡影视","name":"💞劳思┃皮泡影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/皮泡影视.json"},
 {"key":"PQ_影视工厂","name":"💞劳思┃影视工厂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/影视工场.json"},
