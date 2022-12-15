@@ -1,3 +1,4 @@
+muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text'
 var rule = {
 	title:'鸭奈飞',
 	模板:'mxpro',
