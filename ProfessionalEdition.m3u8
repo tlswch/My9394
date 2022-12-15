@@ -2,7 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"Sp_酷云七七","name":"👒影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/drpy豆瓣.js"},
+{"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"Sp_图图影院","name":"🐰重源┃图图影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://121.205.88.126:7788"},
 {"key":"Sp_饭团影视","name":"🍱影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_厂长影视","name":"🏭影视┃厂长影院","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
