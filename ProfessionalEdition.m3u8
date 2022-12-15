@@ -12,7 +12,7 @@
 {"key":"Sp_可乐影视","name":"🥤影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_低端影视","name":"🛂影视┃低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Sp_视频影视","name":"💹影视┃VOFLLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"sp_新视觉源","name":"🔭影视┃新视觉源","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"sp_新视觉源","name":"🔭影视┃视觉影视","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_神马影视","name":"🦄影视┃神马影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_动漫巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_爱看不看","name":"💘影视┃爱看不看","type": 1,"api": "https://ikan6.vip/api.php/provide/vod","playerType":1,"playUrl": "https://cms.ikan6.vip/nidasicaibudaowozaina/nicaibudaowozaina.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港台剧","综艺","动漫","日韩剧","欧美剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
