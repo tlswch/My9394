@@ -3,6 +3,7 @@
 {"key":"js_豆瓣热播","name":"搜索豆瓣","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/影魔douban.js"},
 {"key":"js_酷云七七","name":"酷云七七","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/酷云77.js"},
 {"key":"js_快看影视","name":"快看影视","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/快看.js"},
+{"key":"js_利奥影视","name":"利奥影视","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/LIBVIO.js"},
 {"key":"js_低端影视","name":"低端影视","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/ddys.js"},
 {"key":"js_舞起音乐","name":"DJ音乐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
 {"key":"js_干饭影视","name":"干饭影视","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/干饭影视.js"},
