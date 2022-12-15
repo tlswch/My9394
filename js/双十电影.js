@@ -1,3 +1,7 @@
+muban.首图2.推荐 = 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href'; 
+muban.首图2.二级.content = '.stui-pannel_bd p:eq(0)';
+muban.首图2.二级.desc = ';;.stui-content__detail p:eq(0);.stui-content__detail p:eq(1);.stui-content__detail p:eq(2)'
+muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line.active.clearfix h3';
 var rule = {
 	title:'双十电影',
 	模板:'首图2',
