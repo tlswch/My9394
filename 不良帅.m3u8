@@ -1,6 +1,7 @@
 {//所有资源都是来自各互联网，用于个人测试显示器与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
 	//不良帅整理
 	"sites": [
+{"key":"js_豆瓣推荐","name":"🏘️搜索┃豆瓣热播","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/drpy豆瓣.js"},
 {"key":"Sp_酷云七七","name":"👒爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"Sp_视频影视","name":"💹影视┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
@@ -378,7 +379,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅1.jar;md5;3EC1CCE4DAB7D41093D163BEEDEB3EBA",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.jar;md5;3EC1CCE4DAB7D41093D163BEEDEB3EBA",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅1.txt;md5;BBB2FFEE4E9EBF5DA0B8D3F651BE5AD8",
 
 //壁纸
