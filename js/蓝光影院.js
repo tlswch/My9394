@@ -1,11 +1,3 @@
-var rule = Object.assign(muban.mxpro,{
-title:'蓝光影院',
-host:'https://lgyy.cc',
-url:'/vodshow/fyclass--------fypage---.html',
-searchUrl:'/vodsearch/**-------------.html',
-class_parse:'.navbar-items li:gt(1):lt(6);a&&Text;a&&href;.*/(.*?).html',
-});
-muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text'
 var rule = {
 	title:'蓝光影院',
 	模板:'mxpro',
