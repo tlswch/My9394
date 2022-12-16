@@ -1,34 +1,7 @@
 {
 
 	"classes": [
-    {
-    "type_name": "搞笑",
-    "type_id": "搞笑"
-},
-{
-    "type_name": "4K资源",
-    "type_id": "4K"
-},
-{
-    "type_name": "8K资源",
-    "type_id": "8K"
-},
-{
-    "type_name": "小姐姐",
-    "type_id": "小姐姐超清"
-},
-{
-    "type_name": "广场舞",
-    "type_id": "广场舞超清"
-},
-{
-    "type_name": "纪录片",
-    "type_id": "纪录片超清"
-},
-{
-    "type_name": "电影解说",
-    "type_id": "电影解说超清"
-},
+    
 
     {
 			"type_name": "健身",
