@@ -1,42 +1,43 @@
-{//所有资源都是来自各互联网，用于个人测试音响与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+//所有资源都是来自各互联网，用于个人测试音响与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
 	//不良帅整理
 
+ {
   "plugins": [
     {
       "name": "bilibili",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/bilibili.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/bilibili.js"
     },
     {
       "name": "咪咕",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/migu.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/migu.js"
     },
     {
       "name": "网易云",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/netease.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/netease.js"
     },
     {
       "name": "全民K歌",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/qmkg.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/qmkg.js"
     },
     {
       "name": "酷我",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/kuwo.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/kuwo.js"
     },
     {
       "name": "千千音乐",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/qianqian.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/qianqian.js"
     },
     {
       "name": "5sing",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/5sing.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/5sing.js"
     },
     {
       "name": "酷狗",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/kugou.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/kugou.js"
     },
     {
       "name": "QQ音乐",
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/qq.js"
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/music/qq.js"
     }
   ]
 }
