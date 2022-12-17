@@ -242,6 +242,7 @@
 {"key":"xb_番茄影视","name":"🏵️菜花┃番茄影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
 {"key":"xb_爱酷酷剧","name":"🏵️菜花┃爱酷影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
 
+{"key":"YQ-猫咪影院","name":"️💠香佬┃猫咪影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/小猫咪.json'"},
 {"key":"YQ-午夜影院","name":"️💠香佬┃午夜影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/午夜影院.json"},
 {"key":"YQ-40影视","name":"️💠香佬┃40影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/40影视.json"},
 {"key":"YQ-Chok8","name":"️💠香佬┃Chok8","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/Chok8.json"},
