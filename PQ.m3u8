@@ -2,6 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"csp_Sp_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,playerType:2},		
+{"key":"csp_PQ云镜","name":"XBPQ 影视┃云镜影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$37#综艺$45#动漫$43","分类url":"https://v.t-ui.cn/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html"}},
 {"key":"csp_PQ_厂长资源","name":"影视┃厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/厂长资源.json"},
 {"key":"csp_PQ_蓝光影视","name":"影视┃蓝光影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/蓝光影院.json"},
 {"key":"csp_PQ_可乐影视","name":"影视┃可乐影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/Cokemv.json"},
