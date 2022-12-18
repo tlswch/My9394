@@ -75,6 +75,10 @@
 {"key":"ap_少看","name":"🚪资源┃少看影视","type": 1,"api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","港台剧","日韩剧","电影","欧美剧","海外剧","综艺","内地动漫","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","其他剧"]},
 {"key":"PQ_热播","name":"📺影视┃热播影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/热播库.json"},
 {"key":"ap_阿狐","name":"🍐影视┃阿狐视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
+{"key":"SP_找源","name":"🔍搜索┃找资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/ts.jar;md5;4DA8597CB30A855EDA0A3539E5B645A0"},
+{"key":"SP_易搜","name":"🆎搜索┃易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
+{"key":"SP_盘搜","name":"📂搜索┃盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
+{"key":"SP_云搜","name":"☁️搜索┃UP云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
 {"key":"Sp_三五","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses":[
