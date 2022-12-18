@@ -56,7 +56,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
-"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1028.jar;md5;d0e949cb4d53b94449d943d06018869a",
+"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQ1218.jar;md5;2D4628CE5DD17710CB2EA47D9A92B081",
 
 //壁纸
 "wallpaper": "http://52bsj.vip:82/late",
