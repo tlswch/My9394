@@ -439,7 +439,7 @@
 "wallpaper": "http://52bsj.vip:82/late",
 
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL0RJWS50eHQKIA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlL1FRVy50eHQ="]}]}],
 
 //解码模式
 "ijk":[
