@@ -52,7 +52,7 @@
 {"key":"Sp_分享","name":"📂储存┃分享云盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Sp_本地","name":"📂储存┃本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"Sp_推送","name":"🍭推送┃手动推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
-{"key":"XP_鹅播","name":"🐧起鹅直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XPath/企鹅直播.json"},
+{"key":"XP_鹅播","name":"🐧起鹅直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XPath/起鹅直播.json"},
 {"key":"RS_赛事","name":"🏀JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XPath/JRS赛事直播.json"},
 {"key":"YQ_17ka","name":"⚽17kan","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/17kan.json"},
 {"key":"PQ_抓饭","name":"🏀体育┃抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQBiu/抓饭体育.json"},
