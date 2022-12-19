@@ -56,6 +56,7 @@
 {"key":"RS_赛事","name":"🏀JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/JRS赛事.json"},
 {"key":"YQ_17ka","name":"⚽17kan","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQ/17kan.json"},
 {"key":"YQ_酷琪","name":"🎵音乐┃酷琪MV","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/酷奇.json"},
+{"key":"PQ_农民","name":"🌾影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/农民影视.json"},
 {"key":"PQ_溪谷","name":"📺影视┃溪谷影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/溪谷影视.json"},
 {"key":"PQ_石榴","name":"📺影视┃石榴电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/石榴电影.json"},
 {"key":"xB_影视","name": "📺影视┃影视之家","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.wybg666.com/vodtype/{cateId}-{catePg}.html","jar":""},
@@ -78,7 +79,6 @@
 {"key":"Sp_南柯","name":"⏺影视┃南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_奈飞","name":"🦆影视┃鸭鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/鸭奶飞.json"},
 {"key":"Sp_乐猪","name":"🐷影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
-{"key":"Sp_农民","name":"🌾影视┃农民影视","type":3,"api":"csp_XPath","searchable":  1,"quickSearch":  1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/工人.json"},
 {"key":"Sp_三五","name":"5️⃣影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses":[
