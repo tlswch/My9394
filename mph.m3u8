@@ -1,12 +1,12 @@
-{
-"sites": [
+{//所有资源都来自各互联网，用于个人测试显示器与电池学习使用。未涉及到商业盈利，如有侵权，请联系，会在第一时间删除 谢谢
+	//不良帅整理
+	"sites": [
 {"key":"js_DJ","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
 {"key":"js_爱车","name":"🎧MV┃爱车音乐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/爱车MV.js"},
 {"key":"js_蜻蜓","name":"🎧广播┃蜻蜓广播","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/蜻蜓FM.js","playerType":"2"},
 {"key":"js_海盗","name":"🎧听书┃海盗听书","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/海盗听书.js","playerType":"2"},
 {"key":"js_书网","name":"🎧听书┃听说书网","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/听书网.js","playerType":"2"},
-{"key":"js_小说","name":"🎧听书┃有声小说","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/有声小说吧.js","playerType":"2"}
-],
+{"key":"js_小说","name":"🎧听书┃有声小说","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/有声小说吧.js","playerType":"2"}],
 "parses":[
 {"name":"播不了","type":2,"url":"Parallel"},
 {"name":"点我吧","type":3,"url":"Web"},
@@ -53,19 +53,27 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
-"spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/js.jar;md5;d0e949cb4d53b94449d943d06018869a",
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/新视觉.jar;md5;BBB2FFEE4E9EBF5DA0B8D3F651BE5AD8",
 
 //壁纸
-"wallpaper": "http://52bsj.vip:82/late",
+"wallpaper": "https://tool.weetai.cn/api",
+
+//电视直播
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9xaXpoZW4xNTgwMC9NeTkzOTQvcmF3L21hc3Rlci9saXZlLyVlNiVhZCU4YyVlNSU4ZCU4ZS50eHQ="]}]}],
+
 //解码模式
 "ijk":[
+{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
 {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
 {"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-
 //广告过滤
 "ads":[
 "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
