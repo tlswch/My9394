@@ -20,4 +20,3 @@
 {"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ]
-}
