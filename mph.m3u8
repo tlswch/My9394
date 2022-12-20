@@ -6,7 +6,7 @@
 {"key":"js_海盗","name":"🎧听书┃海盗听书","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/海盗听书.js","playerType":"2"},
 {"key":"js_书网","name":"🎧听书┃听说书网","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/听书网.js","playerType":"2"},
 {"key":"js_小说","name":"🎧听书┃有声小说","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/有声小说吧.js","playerType":"2"}
-
+],
 //自定义jar
 "spider": "https://notabug.org/qizhen15800/My9394/raw/master/jar/js.jar;md5;d0e949cb4d53b94449d943d06018869a",
 
