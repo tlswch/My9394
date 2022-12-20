@@ -1,7 +1,7 @@
 {
 "sites": [
 {"key":"js_豆瓣热播","name":"搜索豆瓣","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/影魔douban.js"},
-
+{"key":"js_九酷","name":"九酷","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/九酷.js"},
 {"key":"js_69","name":"69美剧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/69美剧.js"},
 {"key":"js_蜥蜴","name":"蜥蜴影视","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/蜥蜴影视.js"},
 {"key":"js_348","name":"348电影","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/348电影网.json"},
