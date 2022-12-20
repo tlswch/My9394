@@ -1,7 +1,6 @@
 {
   "drives": [
-    
-    {
+  {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
@@ -12,6 +11,7 @@
     {
       "name": "資源小站",
       "server": "https://960303.xyz"
-    }
-    ]
-    }
+     }
+  ]
+}
+    
