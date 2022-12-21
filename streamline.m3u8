@@ -2,6 +2,16 @@
 	//不良帅整理
 	"sites": [
 {"key":"csp_js_豆瓣热播","name":"道长┃搜索豆瓣","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/drpy.js"},
+{"key":"928","name":"928直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/928直播.json"},
+{"key":"DJ","name":"DJ音乐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/DJ音乐.json"},
+{"key":"FM","name":"FM电台","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/FM电台.json"},
+{"key":"戏曲","name":"戏曲","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/bili-戏曲.json"},
+{"key":"体育","name":"体育-jrs","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/体育-jrs.json"},
+{"key":"体育","name":"zb8","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/体育-zb8.json"},
+{"key":"幻听","name":"幻听听书","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/幻听网听书.json"},
+{"key":"抓饭","name":"抓饭直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/抓饭直播.json"},
+{"key":"聚合","name":"聚合视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/聚合短视频.json"},
+{"key":"轮播","name":"轮播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/轮播.json"},
 {"key":"sp歌曲演唱","name":"演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./歌曲演唱会.PHP"},
 {"key":"sp一起舞动","name":"一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/哔哩合集T2.php"},
 {"key":"sp谁演唱会","name":"哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
