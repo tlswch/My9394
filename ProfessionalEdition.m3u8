@@ -13,6 +13,7 @@
 {"key":"Sp_巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_哔滴","name":"📯影视┃哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_速优","name":"👑影视┃速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
+{"key":"Sp_布雷","name":"⚡影视┃布雷影视","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_饭团","name":"🍱影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_利奥","name":"🍪影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 {"key":"Sp_快看","name":"👀影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
