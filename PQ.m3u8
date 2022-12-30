@@ -102,7 +102,7 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 //自定义jar
-"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XBPQ_1216.jar;md5;433A703E75C39542E6009A42416533ED",
+"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/XBPQ1229.jar;md5;1A4584F20035AA0432698CED4D5119E6",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
