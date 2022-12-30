@@ -435,9 +435,9 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //自定义jar
-"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
+//"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
 //"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/Yo.jar;md5;3D130340066FACF41B7ED8F08A81FFC4",
-//"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅1.txt;md5;BBB2FFEE4E9EBF5DA0B8D3F651BE5AD8",
+"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;A31253A7F79B34D1F62176740A1F9954",
 
 //壁纸
 "wallpaper": "http://52bsj.vip:82/late",
