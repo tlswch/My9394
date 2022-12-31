@@ -4,7 +4,7 @@
 {"key":"csp_XB_Auete","name":"🏵️菜花┃Auete影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/Auete影视.json"},
 {"key":"csp_XB_DJ音乐","name":"🏵️菜花┃DJ音乐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/DJ音乐.json"},
 {"key":"csp_XB_厂长资源","name":"🏵️菜花┃厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/厂长资源.json"},
-
+{"key":"csp_XB_人人影视","name":"🏵️菜花┃人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XB2/人人影视.json"},
 {"key":"csp_XB_皮泡影视","name":"🏵️菜花┃皮泡影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB2/皮泡影视.json"},
 {"key":"csp_XB_影视工厂","name":"🏵️菜花┃影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB2/影视工场.json"},
 {"key":"csp_XB_瓜皮影视","name":"🏵️菜花┃瓜皮影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/瓜皮TV.json"},
@@ -135,7 +135,7 @@
 {"key":"csp_XB_看一看剧","name":"🏵️菜花┃看一看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/看一看影视.json"},
 {"key":"csp_XB_壹零八零","name":"🏵️菜花┃1080Kkk","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/1080Kkk.json"},
 {"key":"csp_XB_七八九剧","name":"🏵️菜花┃789影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/789影视.json"},
-{"key":"csp_XB_人人影视","name":"🏵️菜花┃人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/人人影视.json"},
+
 {"key":"csp_XB_三一看剧","name":"🏵️菜花┃31看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/31看影视.json"},
 {"key":"csp_XB_看爱港剧","name":"🏵️菜花┃爱港剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/爱港剧.json"},
 {"key":"csp_XB_会员影视","name":"🏵️菜花┃VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/VIP1280.json"},
