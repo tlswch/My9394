@@ -74,7 +74,7 @@
 {"key":"Sp_VOF","name":"📺影视┃VOFLLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/voflixHD.json"},
 {"key":"ap_阿狐","name":"🍐影视┃阿狐视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 {"key":"ap_旧欢","name":"🎀影视┃旧欢如梦","type": 1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧","港台剧","电影","欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
-{"key":"Sp_达人","name":"🌐影视┃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Sp_达人","name":"🌐影视┃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_油酷","name":"👑解析┃油酷视频","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"},
 {"key":"js_百忙","name":"🍋解析┃百忙无果","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/百忙无果.js"},
 {"key":"js_菜狗","name":"🐶解析┃菜狗视频","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"},
