@@ -260,7 +260,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 //自定义jar
 //"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
-"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;9B7497FFABF042503DD121D3ED64F62A",
+"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/XBiubiuLA4.jar;md5;9B7497FFABF042503DD121D3ED64F62A",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
