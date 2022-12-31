@@ -9,7 +9,7 @@
 {"key":"Sp_三六","name":"🏵️解析┃三六影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Sp_可乐","name":"🥤影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_低端","name":"🛂影视┃低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Sp_VOF","name":"💹影视┃VOFLLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Sp_VOFLL","name":"💹影视┃VOFLLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xp_奇优","name":"📺影视┃奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/奇优影院.json"},
 {"key":"Sp_神马","name":"🦄影视┃神马影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_巴士","name":"🤖动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
