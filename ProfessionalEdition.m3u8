@@ -1,12 +1,13 @@
 {//所有资源来自互联网，用于个人学习测试显示器与电池使用。未涉及商业盈利，如有侵权，请联系，会在第一时间删除 谢谢.资源与内容禁止并谢绝未经本人许可下使用.未经本人许可下使用，需自行承担一切风险与责任.所有资源与内容，随时都有可能删除.未经本人许可下使用的，请慎重！慎重！慎重！
 	//不良帅整理
 	"sites": [
-{"key":"js_豆瓣","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
+{"key":"js_豆瓣","name":"🏘️主页┃豆瓣推荐", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js" },
 {"key":"Sp_图图","name":"🐰影视┃图图影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://121.205.88.126:7788"},
 {"key":"Sp_厂长","name":"🏭影视┃厂长影院","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_蓝光","name":"🚿影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_苹果","name":"🍎影视┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
-{"key":"Sp_可乐","name":"🥤影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Sp_三六","name":"🏵️解析┃三六影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Sp_可乐","name":"🥤影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_低端","name":"🛂影视┃低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Sp_VOF","name":"💹影视┃VOFLLIX","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_神马","name":"🦄影视┃神马影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -17,6 +18,7 @@
 {"key":"PQ-333","name": "📺影视┃333影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/333影视.json"},
 {"key":"Sp_饭团","name":"🍱影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YQ_达龟","name":"🐢影视┃达达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/达达龟.json"},
+{ "key": "sp_Yg", "name": "🏭影视┃工厂", "type": 3, "api": "csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"sp_耐看","name":"🗽影视┃耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"XB_人人","name":"影视┃人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86520.json"},
 {"key":"Sp_利奥","name":"🍪影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
@@ -25,7 +27,6 @@
 {"key":"PQ_农民","name":"🌾影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/农民影视.json"},
 {"key":"Sp_奥特","name":"🎎影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_胖虎","name":"🐯影视┃胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Sp_三六","name":"🏵️解析┃三六影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_看看","name":"️🍋直播┃看看电视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/柠檬.json"},
 {"key":"Sp_一起","name":"🅱️健身┃一起健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"Sp_哗哔","name":"🅱️哔哔┃哗哔合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
@@ -58,7 +59,7 @@
 {"key":"PQ_九八","name":"📺影视┃98影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/98.json"},
 {"key":"PQ_骚火","name":"📺影视┃骚火影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/骚火.json"},
 {"key":"PQ_秋霞","name":"📺影视┃秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/秋霞影视.json"},
-{"key":"PQ_达达","name":"🐢影视┃达达影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/达达龟源.json"},
+{"key":"YQ_达龟","name":"🐢影视┃达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/达达龟.json"},
 {"key":"PQ_爱看","name":"📺影视┃爱看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/爱看影视.json"},
 {"key":"xp_奇优","name":"📺影视┃奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/奇优影院.json"},
 {"key":"xp_万能","name":"📺影视┃万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/万能影视.json"},
@@ -160,7 +161,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 //自定义jar
 //"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
-"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;A31253A7F79B34D1F62176740A1F9954",
+"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;9B7497FFABF042503DD121D3ED64F62A",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
