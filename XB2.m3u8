@@ -2,7 +2,9 @@
 	//不良帅整理
 "sites": [
 {"key":"csp_XB_Auete","name":"🏵️菜花┃Auete影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/Auete影视.json"},
+{"key":"csp_XB_DJ音乐","name":"🏵️菜花┃DJ音乐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/DJ音乐.json"},
 {"key":"csp_XB_厂长资源","name":"🏵️菜花┃厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/厂长资源.json"},
+
 {"key":"csp_XB_皮泡影视","name":"🏵️菜花┃皮泡影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB2/皮泡影视.json"},
 {"key":"csp_XB_影视工厂","name":"🏵️菜花┃影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB2/影视工场.json"},
 {"key":"csp_XB_瓜皮影视","name":"🏵️菜花┃瓜皮影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB2/瓜皮TV.json"},
