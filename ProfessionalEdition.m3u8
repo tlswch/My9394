@@ -34,7 +34,7 @@
 {"key":"Bi_歌舞","name":"🅱️哔哔┃歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/json/舞蹈.json"},
 {"key":"Bi_小姐","name":"🅱️哔哔┃小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/json/小姐姐.json"},
 {"key":"Bi_车模","name":"🅱️哔哔┃车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/json/车模.json"},
-{"key":"XB_听书","name":"📚️音频┃听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/听书网.json"},
+{"key":"XB_听书","name":"📚️音频┃听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XB/听书网.json"},
 {"key":"PQ_短视","name":"💃视频┃短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/短视频.json"},
 {"key":"Sp_裤狗","name":"🎵音乐┃裤狗MV","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/kugou.json"},
 {"key":"js_DJ","name":"🎧音频┃DJ摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType" : "2"},
