@@ -82,7 +82,7 @@
 {"key":"sp_耐看","name":"🗽影视┃耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_胖虎","name":"🐯影视┃胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_乐猪","name":"🐷影视┃乐猪","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
-{"key":"sp_st2","name":"🅿网盘┃小雅搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
+{"key":"sp_st2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
 {"key":"sp_ALi","name":"🅿网盘┃AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"},
 {"key":"SP_云搜","name":"☁️搜索┃UP云搜","type":"3","api":"csp_Upyunso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
 {"key":"SP_盘搜","name":"📂搜索┃盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
