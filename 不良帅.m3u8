@@ -253,6 +253,9 @@
 
 {"key":"豆瓣","name":"豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"豆瓣","name":"豆瓣热播","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/drpy%e8%b1%86%e7%93%a3.js"},
+{"key":"js_yi","name":"👑MV┃音悦","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/音悦.js"},
+{"key":"js_jk","name":"👑影视┃九酷","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/九酷.js"},
+{"key":"js_69","name":"👑影视┃69","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/69美剧.js"},
 {"key":"厂长","name":"厂长资源","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
 {"key":"低端","name":"低端影视","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/ddys.js"},
 {"key":"霹雳","name":"霹雳影视","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.js"},
