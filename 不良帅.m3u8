@@ -264,6 +264,15 @@
 {"key":"虎牙","name":"虎牙直播","type":3,"api":"py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_huya.py"},
 {"key":"斗鱼","name":"斗鱼直播","type":3,"api":"py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douyu.py"},
 
+
+{"key":"js_zz","name":"音频┃种子(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/种子音乐.js"},
+{"key":"js_MX","name":"影视┃MXONE(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/MXONE.js"},
+{"key":"js_NF","name":"影视┃NFM(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/NFM.js"},
+{"key":"js_Fu","name":"动漫┃Fun4K(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/Fun4K.js"},
+{"key":"js_xg","name":"影视┃西瓜(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/西瓜.js"},
+{"key":"js_pu","name":"影视┃小狗(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/小狗.js"},
+{"key":"js_FM","name":"FM┃蜻蜓(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/蜻蜓FM.js"},
+{"key":"js_ty","name":"FM┃腾云(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitcode.net/weixin_67704284/zhenkankan/-/raw/master/js/腾云.js"},
 {"key":"豆瓣","name":"豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"豆瓣","name":"豆瓣热播","type":3,"api":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/drpy%e8%b1%86%e7%93%a3.js"},
 {"key":"js_yi","name":"👑MV┃音悦","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/音悦.js"},
