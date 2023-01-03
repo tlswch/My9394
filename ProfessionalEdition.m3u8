@@ -3,7 +3,8 @@
 	"sites": [
 {"key":"js_dp","name":"🏘️主页┃豆瓣","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"sp_Nm","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/农民.json"},
-{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:7799"},
+{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,playerType:1","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅TT.jar;md5;BC6DF52F5A3B9E63A4D2FAF3329DA8BC"},
+//{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:7799"},
 {"key":"Sp_Cz","name":"🏭影视┃厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_Lg","name":"🚿影视┃蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_la","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
