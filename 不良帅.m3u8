@@ -72,6 +72,7 @@
 {"key":"SP_盘搜","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
 {"key":"SP_push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"}, 
 
+{"key":"PQ_wb","name":"🦆影视┃万博","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/万博.json"},
 {  "key": "66影视", "name": "66影视",  "type": 3, "api":"csp_XBPQ", "ext":"免嗅:0,分类:动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12,分类url:https://www.66kandy.cc/frim/{cateId}-{catePg}.html","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/XBPQ1229.jar"},
 {"key":"B站","name":"看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/看B站.json"},
 {"key":"不休","name":"不休影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/不休影院.json"},
