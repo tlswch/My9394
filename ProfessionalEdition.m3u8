@@ -120,7 +120,7 @@
 {"key":"sp_Yg","name":"🏭影视┃工厂","type":3,"api":"csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable":1}
 ],
 "parses":[
-{"name":"播不了","type":2,"url":"Parallel"},
+{"name":"播不了","type":2,"url":"Sequence"},
 {"name":"点我吧","type":3,"url":"Web"},
 {"name":"Q1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"cc","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
