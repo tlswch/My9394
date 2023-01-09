@@ -182,7 +182,7 @@
 "wallpaper": "https://tool.weetai.cn/api",
 
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcWl6aGVuMTY5eHQvY29vbF93aGl0ZS9yYXcvbWFzdGVyL3ZpZGVvcy10b29sL2xpdmUvJUU5JTg3JThFJUU3JTgxJUFCJUU3JTlCJUI0JUU2JTkyJUFELnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcWl6aGVuMTY5eHQvY29vbF93aGl0ZS9yYXcvbWFzdGVyL3ZpZGVvcy10b29sL2xpdmUvJUU3JTlCJUI0JUU2JTkyJUFELnR4dA=="]}]}],
 
 //解码模式
 "ijk":[
