@@ -115,9 +115,9 @@
 {"key":"py_wf","name":"📺中国┃文化","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中国文化.py"}
 ],
 "parses":[
-{"name":"播不了","type":2,"url":"Demo"},
+{"name":"播不了","type":2,"url":"Parallel"},
 {"name":"点我吧","type":3,"url":"Web"},
-{"name":"j1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
+//{"name":"j1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"j2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"j3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"j4","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷", "letv", "乐视", "xigua", "西瓜"]}},
