@@ -2,7 +2,6 @@
 	//不良帅整理20300102新起点
 	"sites": [
 {"key":"js_dp","name":"🏘️主页┃豆瓣","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
-{"key":"js_sg","name":"🐶影视┃狗狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"},
 {"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:9911"},
 {"key":"sp_V0","name":"📛影视┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://api.tt58.tv/config/tttv.json","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/qj.jar;md5;A79BE236922477B52A9183D49F523553"},
@@ -22,6 +21,7 @@
 {"key":"PQ_sl","name":"🍈影视┃石榴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/石榴.json"},
 {"key":"Sp_84","name":"🤖动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_pa","name":"🐯影视┃胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"PQ_mm","name":"🐱影视┃猫咪","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/猫咪.js"},
 {"key":"pq_hh","name":"🐺影视┃黑狐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/黑狐.json"},
 {"key":"Sp_77","name":"👒影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_if","name":"🌹影视┃爱妃","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/艾菲影视.js"},
@@ -92,7 +92,7 @@
 {"key":"Sp_AL","name":"📂储存┃分享","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Sp_Lo","name":"📂储存┃本地","type":3,"api":"csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"Sp_Pu","name":"🍭手机┃推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
-{"key":"PQ_mm","name":"🐱影视┃猫咪","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/猫咪.js"},
+{"key":"js_sg","name":"🐶影视┃狗狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"},
 {"key":"PQ_cy","name":"🏙️影视┃城市","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/城市.js"},
 {"key":"PQ_lj","name":"🎀影视┃领巾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/领巾.json"},
 {"key":"xp_nv","name":"💰影视┃万能","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/万能影视.json"},
