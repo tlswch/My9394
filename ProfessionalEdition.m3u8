@@ -57,7 +57,7 @@
 {"key":"PQ_df","name":"🏀体育┃抓饭","type":3,"api":"csp_xBPQ", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/抓饭体育.json"},
 {"key":"XP_JR","name":"⚽体育┃JRS","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/JRS赛事.json"},
 {"key":"js_88","name":"🏀体育┃88","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.1.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/88看球.js"},
-{"key":"YQ_kq","name":"🎵MV┃酷琪","type":3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/酷奇MV.js"},
+{"key":"YQ_kq","name":"🎵MV┃酷琪","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XPath/酷奇.js"},
 {"key":"Sp_Sm","name":"🦄影视┃神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_Yg","name":"🏭影视┃工厂","type":3,"api":"csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable":1},
 {"key":"Sp_bd","name":"📯影视┃哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
