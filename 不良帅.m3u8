@@ -3,7 +3,7 @@
 	"sites": [
 {"key":"js_豆瓣","name":"🏘️搜索┃豆瓣热播","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"Sp_七七","name":"👒影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Sp_图图","name":"🐰影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9911"},
+{"key":"Sp_图图","name":"🐰影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
 {"key":"Sp_厂长","name":"🏭影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_蓝光","name":"🌌影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_视觉","name":"🔭影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
