@@ -2,7 +2,7 @@
 	//不良帅整理20300102新起点
 	"sites": [
 {"key":"js_dp","name":"🏘️主页┃豆瓣","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
-{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:9911"},
+{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:9955"},
 {"key":"sp_V0","name":"📛影视┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://api.tt58.tv/config/tttv.json","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/qj.jar;md5;A79BE236922477B52A9183D49F523553"},
 {"key":"Sp_la","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,playerType:1},
