@@ -3,7 +3,8 @@
 	"sites": [
 {"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 //{"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"http://124.248.66.107:9955"},
-{"key":"Sp_qe","name":"🐧影视┃小Q","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js_qq","name":"🐧影视┃小Q","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/腾云.js"},
+//{"key":"Sp_qe","name":"🐧影视┃小Q","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_Ae","name":"🍎影视┃小苹果","type" : 3,"api" : "csp_Dora", "jar": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/ts.jar;md5;4da8597cb30a855eda0a3539e5b645a0","ext":"6deed4548c44b18d268a5d828f04d86e","playerType":1},
 {"key":"sp_V0","name":"📛影视┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/ts.jar;md5;4da8597cb30a855eda0a3539e5b645a0"}, 
