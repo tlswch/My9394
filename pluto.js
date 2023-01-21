@@ -87,7 +87,7 @@
 {"key": "蓝光影院(DR)","name": "蓝光影院[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/蓝光影院.js"},
 {"key": "万能影视(DR)","name": "万能影视[JS]","type": 3,"api": "https://notabug.org/qizhen15800/My9394/raw/master/jar/drpy.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/万能影视.js"}
 ],
-"spider":"./jar/不良帅0.jar",
+"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;a31253a7f79b34d1f62176740a1f9954",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FpMTY5L015OTM5NC9yYXcvYnJhbmNoL21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
