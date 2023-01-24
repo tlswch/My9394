@@ -64,7 +64,7 @@
 {"key":"Sp_wh","name":"🐬直播┃网红","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_nx","name":"🛎影视┃诺讯","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/诺讯影视.json"},
 {"key":"Sp_bt","name":"👣影视┃鼻涕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
-{"key":"Sp_zx","name":"🏡影视┃在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Sp_zx","name":"🏡影视┃在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_an","name":"🌸动漫┃樱花","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"XP_qe","name":"🐧起鹅┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/起鹅直播.json"},
 {"key":"PQ_df","name":"🏀体育┃抓饭","type":3,"api":"csp_xBPQ", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/抓饭体育.json"},
