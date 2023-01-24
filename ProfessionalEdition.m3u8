@@ -42,6 +42,7 @@
 {"key":"xb_bk","name":"影视┃真很卡", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 //{"key":"Sp_kf","name":"🍱影视┃饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Sp_Cz","name":"🏭影视┃厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Sp_Cz","name":"🏭影视┃厂长","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/厂长.js"},
 {"key":"Sp_ju","name":"😈影视┃剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xp_VB","name":"📺影视┃TVB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/tvb.js"},
 {"key":"Sp_li","name":"🍪影视┃利奥","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
@@ -129,6 +130,7 @@
 "parses":[
 {"name":"点我吧","type":3,"url":"Web"},
 {"name":"播不了","type":2,"url":"Sequence"},
+{"name":"w8","type": 0,"url": "https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"xm","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 //{"name":"j1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"j2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
@@ -146,7 +148,6 @@
 {"name":"j7","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"j8","type":1,"url":"https://jiuku.site/addons/dp/player/dp.php?key=0&from=&id=104818&api=&url="},
 {"name":"w7","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"w8","type": 0,"url": "https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"j9","type": 1,"url": "http://jx.mfjx.tk/?url="},
 {"name":"j10","type":1,"url":"https://play.fuqizhishi.com/juhe/api.php?appkey=caijijuhe220902&url="},
 {"name":"w9","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
