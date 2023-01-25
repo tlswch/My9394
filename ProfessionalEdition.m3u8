@@ -13,6 +13,7 @@
 {"key":"sp_Nm","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/农民.json"},
 {"key":"pq_bl","name":"⚡影视┃布雷","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/布蕾.js"},
 {"key":"PQ_ik","name":"💛影视┃爱看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/爱看.json"},
+{"key":"QH_pk","name":"🎞️影视┃片库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/片库.js"},
 //{"key":"Sp_bu","name":"⚡影视┃布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xp_Lg","name":"🚿影视┃蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/ts.jar;md5;4da8597cb30a855eda0a3539e5b645a0"}, 
 {"key":"Sp_Lg","name":"🚿影视┃蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
