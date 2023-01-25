@@ -147,6 +147,8 @@
 {"key":"Sp_小果","name":"🍋解析┃小果影视","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"XP_鹅播","name":"🐧起鹅直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XPath/企鹅直播.json"},
 {"key":"RS_赛事","name":"🏀JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XPath/JRS赛事直播.json"},
+
+{"key":"PQ_dy","name":"📽️影视┃电影先生","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/电影先生.js"},
 {"key":"PQ_sl","name":"🍈影视┃石榴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/石榴.json"},
 {"key":"xp_qr","name":"🚩影视┃奇优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/奇优.json"},
 {"key":"ap_al","name":"🍐影视┃阿狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/al90.jar;md5;2B29C2CA8D909FB75E7E43C29FA7B432"},
