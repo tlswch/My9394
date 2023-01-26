@@ -53,6 +53,7 @@
 {"key":"Sp_kk","name":"️🍋直播┃电视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/柠檬.json"},
 {"key":"Sp_Bi","name":"🅱️哔哔┃健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"Sp_hj","name":"🅱️哔哔┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
+{"key":"js_qq","name":"🐰教育┃兔小贝","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/兔小贝.js"},
 {"key":"Sp_yd","name":"🅱️教育┃园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/学习园地.json"},
 {"key":"Bi_gw","name":"🅱️哔哔┃歌舞","type":3,"api":"csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/json/舞蹈.json"},
 {"key":"Bi_xj","name":"🅱️哔哔┃小姐姐","type":3,"api":"csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/json/小姐姐.json"},
