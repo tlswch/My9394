@@ -53,7 +53,7 @@
 {"key":"Sp_au","name":"🎎影视┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_托乌视频","name":"️托乌(XBPQ)","type":3,"api":"xBPQ","ext":"免嗅:1,分类:电影$1#电视剧$2#综艺$3#动漫$4#MV$34#纪录片$5#豆瓣$68#奥斯卡$72,分类url:https://www.tootw.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"},
 //{"key":"PQ_ck","name":"🔮影视┃cok","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/cokemv.js"},
-{"key":"PQ_ck","name":"🔮影视┃cok","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/coke.js"},
+{"key":"PQ_ck","name":"🔮影视┃cok","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/COKE.js"},
 {"key":"Sp_kk","name":"️🍋直播┃电视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/柠檬.json"},
 {"key":"Sp_Bi","name":"🅱️哔哔┃健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"Sp_hj","name":"🅱️哔哔┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
