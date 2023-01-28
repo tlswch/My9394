@@ -367,7 +367,7 @@
 {"key":"虎牙","name":"虎牙直播","type":3,"api":"py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_huya.py"},
 {"key":"斗鱼","name":"斗鱼直播","type":3,"api":"py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douyu.py"},
 
-
+{"key":"js_sl","name":"👑影视┃秋香","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/秋香.js"},
 {"key":"js_zz","name":"音频┃种子(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/种子音乐.js"},
 {"key":"js_MX","name":"影视┃MXONE(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/MXONE.js"},
 {"key":"js_NF","name":"影视┃NFM(js)","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/js/NFM.js"},
