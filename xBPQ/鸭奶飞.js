@@ -1,12 +1,12 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
+  "作者": "tvb",
   "站名": "鸭奈飞",
-  "主页url": "https://yanetflix.com",
+  "主页url": "https://yanetflix.tv",
   
   "分类": "电影&连续剧&综艺&动漫",
   "分类值": "dianying&lianxuju&zongyi&dongman",
   
-  "分类url": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://yanetflix.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
