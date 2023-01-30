@@ -28,7 +28,7 @@
 {"key":"Sp_kk","name":"👀影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_55","name":"5️⃣影视┃555","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/555.js"},
 {"key":"Sp_lz","name":"🐷影视┃乐猪","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
-{"key":"sp_93","name":"🆚影视┃293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/my.jar;md5;FEA6CF915992FEC2AA5911C60FBC860D"},
+{"key":"sp_93","name":"🆚影视┃293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,playerType:2,","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/my.jar;md5;FEA6CF915992FEC2AA5911C60FBC860D"},
 //{"key":"Sp_co","name":"🥤影视┃可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YQ_zt","name":"影视┃zjtu","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/zjtu.js"},
 {"key":"xb_hd","name":"🍙影视┃饭团","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
