@@ -44,7 +44,7 @@
 {"key":"sp_pa","name":"🐯影视┃胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_mm","name":"🐱影视┃猫咪","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/猫咪.js"},
 {"key":"AP_xl","name":"🥏速腾┃勿信广告","type":1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["大陆剧","港澳剧","台湾剧","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","欧美剧","动漫电影","韩剧","日剧","泰剧"] },
-{"key":"xb_bk","name":"影视┃真很卡", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"xb_bk","name":"影视┃真很卡", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0,playerType:2,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 //{"key":"Sp_kf","name":"🍱影视┃饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_Cz","name":"🏭影视┃厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,playerType:2},
 //{"key":"Sp_Cz","name":"🏭影视┃厂长","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/厂长.js"},
