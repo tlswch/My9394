@@ -1,6 +1,7 @@
 {//所有资源来自互联网，用于个人学习测试显示器与电池使用。未涉及商业盈利，如有侵权，请联系，会在第一时间删除 谢谢.资源与内容禁止并谢绝未经本人许可下使用.未经本人许可下使用，需自行承担一切风险与责任.所有资源与内容，随时都有可能删除.未经本人许可下使用的，请慎重！慎重！慎重！
 	//不良帅整理20300102新起点
 	"sites": [
+{"key":"js_nm","name":"🌾影视┃农民[js]","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://agit.ai/qi169/kankan/raw/branch/master/js2/农民.js"},
 {"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"Sp_TT","name":"🐰影视┃图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
 {"key":"js_qq","name":"🐧影视┃小Q","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/腾云.js"},
