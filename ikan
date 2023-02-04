@@ -2,7 +2,7 @@
 	//不良帅整理
 	"sites": [
 {"key":"js_nm","name":"🌾影视┃农民[js]","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://agit.ai/qi169/kankan/raw/branch/master/js2/农民.js"},
-{"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
+{"key":"js_dp","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
 {"key":"sp_AL","name":"💾网盘┃AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"},
 {"key":"SP_Up","name":"🆙搜索┃UP云","type":3,"api":"csp_UpYun","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
