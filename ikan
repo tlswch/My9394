@@ -3,7 +3,12 @@
 	"sites": [
 {"key":"js_nm","name":"🌾影视┃农民[js]","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://agit.ai/qi169/kankan/raw/branch/master/js2/农民.js"},
 {"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
-
+{"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
+{"key":"sp_AL","name":"💾网盘┃AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"},
+{"key":"SP_Up","name":"🆙搜索┃UP云","type":3,"api":"csp_UpYun","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
+{"key":"SP_Ps","name":"📀搜索┃盘搜","type":3,"api":"csp_PanSou","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
+{"key":"SP_Yi","name":"🆎搜索┃易搜","type":3,"api":"csp_YiSo","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
+{"key":"SP_Zz","name":"🔍搜索┃找资源","type":3,"api":"csp_Zhaozy","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
 {"key":"js_qq","name":"🐧影视┃小Q","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/腾云.js"},
 {"key":"js_qr","name":"🥝影视┃小爱","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/奇珍异兽.js"},
 {"key":"js_sg","name":"🐶影视┃狗狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"},
@@ -84,12 +89,7 @@
 
 {"key":"xp_rr","name":"🚻影视┃人人","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XPath/人人影视.json"},
 
-{"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
-{"key":"sp_AL","name":"💾网盘┃AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"},
-{"key":"SP_Up","name":"🆙搜索┃UP云","type":3,"api":"csp_UpYun","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Ps","name":"📀搜索┃盘搜","type":3,"api":"csp_PanSou","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Yi","name":"🆎搜索┃易搜","type":3,"api":"csp_YiSo","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Zz","name":"🔍搜索┃找资源","type":3,"api":"csp_Zhaozy","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
+
 
 {"key":"Sp_AL","name":"📂储存┃分享","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Sp_Lo","name":"📂储存┃本地","type":3,"api":"csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
