@@ -102,12 +102,12 @@
 {"key":"xp_dj","name":"➰影视┃豆角","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XP/豆角网.json"}
 ],
 "parses":[
-{"name":"普清","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},    
+{"name":"普清","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},    
 {"name":"高清有点慢","type":3,"url":"Demo"},
 { "name":"hn", "type":1,"url": "https://jiexi.hnslg.com.cn/home/api?type=ys&uid=11505586&key=denoqtuBJKLQRTVY79&url=", "ext": { "flag": [ "qq", "腾讯", "letv", "乐视", "mgtv", "芒果", "youku", "优酷", "qiyi", "iqiyi", "爱奇艺", "奇艺" ] } },
 {"name":"ll","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"fu","type":1,"url":"https://play.fuqizhishi.com/xiaobai/API.php?appkey=xiaoqun&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"备用","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
+{"name":"备用","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 ],
 
 "rules": [{"host": "*","rule": ["iesdouyin.com/aweme","video_id="]},
