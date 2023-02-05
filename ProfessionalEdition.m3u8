@@ -6,6 +6,7 @@
 {"key":"T4_douban","name":"豆瓣热榜(t4)","type": 4, "api": "https://t4.饭太硬.ml/vod", "searchable": 0, "quickSearch": 0, "filterable":0},
 {"key":"Sp_la","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"SP-yq","name":"🏆影视┃一起看","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,playerType:2,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar"},
+{"key":"js_tg","name":"🔮影视┃土狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/土狗.js"},
 {"key":"PQ-fd","name":"🍝影视┃饭团","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/饭团.js"},
 {"key":"Sp_dr","name":"🛂影视┃低端","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Sp_bu","name":"⚡影视┃布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
