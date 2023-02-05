@@ -9,6 +9,7 @@
 {"key":"js_tg","name":"🔮影视┃土狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/不良帅/土狗.js"},
 {"key":"PQ-fd","name":"🍝影视┃饭团","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/饭团.js"},
 {"key":"Sp_dr","name":"🛂影视┃低端","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"js_sb","name":"🔮影视┃素白","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 2, "quickSearch": 0, "filterable": 1,"ext":"https://agit.ai/qi169/kankan/raw/branch/master/js2/subaibai.js"},
 {"key":"Sp_bu","name":"⚡影视┃布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"QH_pk","name":"🎞️影视┃片库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/片库.js"},
 {"key":"xp_VB","name":"📺影视┃TVB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/tvb.js"},
