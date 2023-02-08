@@ -108,10 +108,10 @@
 {"key":"sp_nk","name":"🗽影视┃耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
 {"key":"sp_AL","name":"💾网盘┃AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"},
-{"key":"SP_Up","name":"🆙搜索┃UP云","type":3,"api":"csp_UpYun","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Ps","name":"📀搜索┃盘搜","type":3,"api":"csp_PanSou","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Yi","name":"🆎搜索┃易搜","type":3,"api":"csp_YiSo","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/token.txt"},
-{"key":"SP_Zz","name":"🔍搜索┃找资源","type":3,"api":"csp_Zhaozy","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/ali/token.txt$$$yingshi$$$abcd1234"},
+{"key":"SP_Up","name":"🆙搜索┃UP云","type":3,"api":"csp_UpYun","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
+{"key":"SP_Ps","name":"📀搜索┃盘搜","type":3,"api":"csp_PanSou","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
+{"key":"SP_Yi","name":"🆎搜索┃易搜","type":3,"api":"csp_YiSo","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
+{"key":"SP_Zz","name":"🔍搜索┃找资源","type":3,"api":"csp_Zhaozy","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt$$$xxooo$$$qq112233"},
 {"key":"Sp_Pa","name":"🐳云盘┃纸条","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/ali/token.txt"},
 {"key":"Sp_AL","name":"📂储存┃分享","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Sp_Lo","name":"📂储存┃本地","type":3,"api":"csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -208,8 +208,9 @@
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 //自定义jar
+"spider":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.txt",
 //"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
-"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;a31253a7f79b34d1f62176740a1f9954",
+//"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;a31253a7f79b34d1f62176740a1f9954",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
