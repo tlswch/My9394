@@ -26,6 +26,16 @@
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"110c922de7d69804467fb83d3bb664b5"}, 
 {"key":"xp_qr","name":"🚩影视┃奇优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/奇优.js"},
 {"key":"js_if","name":"🌹影视┃爱妃[js]","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/艾菲影视.js"},
+{
+			"key": "91",
+			"name": "91vip",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/91vip.js"
+		},
 {"key":"xb_CT","name":"🥅影视┃CITY", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html" },
 {"key":"yq_nf","name":"影视┃咕噜","type":3,"api":"csp_XYQHiker","filterable":1,"searchable":1,"quickSearch":1,playerType:2,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XYQHiker/咕噜.js"},
 {"key":"pq-4K","name":"影视┃4K", "type": 3, "api": "csp_xBPQ", "filterable": 1, "quickSearch": 1, "searchable": 1,playerType:1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/4kvm.js"},
