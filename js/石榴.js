@@ -1,7 +1,7 @@
 var rule={
     title:'石榴电影',
-    //host:'https://hei19.com',
-    host:'https://hei17.com',
+    host:'https://hei19.com',
+    //host:'https://hei17.com',
     // url:'/catalog?column=fyclass&sort=1&per_page=72&page=fypage',
 	url: '/catalog?column=fyclassfyfilter&per_page=72&page=fypage&sort=1',
 	filterable:1,//是否启用分类筛选,
