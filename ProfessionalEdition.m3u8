@@ -201,107 +201,9 @@
 "parses":[
 {"name":"点我吧","type":3,"url":"Web"},
 {"name":"播不了","type":2,"url":"Sequence"},
- {
-            "name": "了",
-            "type": 0,
-            "url": "https://xfcj1.mgtv.co/tu.php?tu="
-        },
-         {
-            "name": "了u",
-            "type": 0,
-            "url": "https://lala.dianyingwang.top/?url="
-        },
+ 
 { "name": "dm", "url": "https://dm.xmflv.com:4433/?url=", "type": 0, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0" } }, "header": { "User-Agent": "Mozilla/5.0" } },
-{"name":"xm","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
- {
-            "name": "龙门13",
-            "type": 0,
-            "url": "https://jx.playerjy.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-    
-        {
-            "name": "龙门17",
-            "type": 0,
-            "url": "http://www.pangujiexi.cc/jiexi.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-     
- {
-            "name": "坏了",
-            "type": 0,
-            "url": "http://www.miaoys.cc/vip/?url="
-        },
-        {
-            "name": "龙门2",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-       
+{"name":"xm","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"} } },
 //{"name":"w1","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"QJ1","type":0,"url":"https://svip.bljiex.cc/?v="}
 ],
@@ -360,4 +262,4 @@
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
 ]
-}
+} 
