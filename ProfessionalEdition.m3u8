@@ -173,10 +173,10 @@
 {"key":"SP_Yi","name":"🆎搜索┃易搜","type":3,"api":"csp_YiSo","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
 {"key":"SP_Zz","name":"🔍搜索┃找资源","type":3,"api":"csp_Zhaozy","playerType": 1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt$$$自己去注册$$$qq112233"
         },
-{"key":"Sp_Pa","name":"🐳云盘┃纸条","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/ali/token.txt"},
+{"key":"Sp_Pa","name":"🐳云盘┃纸条","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
 {"key":"Sp_AL","name":"📂储存┃分享","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Sp_Lo","name":"📂储存┃本地","type":3,"api":"csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"Sp_Pu","name":"🍭手机┃推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
+{"key":"Sp_Pu","name":"🍭手机┃推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/alitoken/ali/token.txt"},
 {"key":"PQ_cy","name":"🏙️影视┃城市","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/城市.js"},
 {"key":"PQ_lj","name":"🎀影视┃领巾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/领巾.json"},
 {"key":"xp_nv","name":"💰影视┃万能","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/万能影视.json"},
