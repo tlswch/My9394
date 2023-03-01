@@ -1,6 +1,6 @@
 {
-"作者":"张弘",
-"站名":"小猫咪",
+"作者":"bls",
+"站名":"猫咪",
 "主页url":"https://fositv.com",
 "数组":"class=\"myui-vodlist__thumb&&</a>",
 "图片":"data-original=\"&&\"",
