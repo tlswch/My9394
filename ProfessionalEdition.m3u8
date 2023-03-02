@@ -24,8 +24,19 @@
 {"key":"sp_野塘","name":"️🥥影视┃荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 {"key":"sp-非凡","name":"🐳影视┃新起","type":1,"api":"http://www.ffzy.tv/api.php/provide/vod/","searchable": 1,"filterable":0,"changeable":1,"categories": ["国产剧", "国产动漫", "大陆综艺", "动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台综艺", "日韩综艺", "欧美综艺"] },
 {
+      "key":"sp_Tutu",
+      "name":"🐰图图┃飞",
+      "api":"csp_TutuYs",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+	  "jar":"https://agit.ai/qi169/kankan/raw/branch/master/jar/bls.jar",
+      "ext":"http://124.248.66.89:7788/"
+    },
+{
             "key": "sp_TT",
-            "name": "🐰影视┃图图",
+            "name": "🐰影视┃图图飞",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
