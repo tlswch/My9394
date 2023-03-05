@@ -19,7 +19,7 @@
 		},
 		{
 			"key": "小苹果",
-			"name": "🍎小苹果",
+			"name": "🍎影视┃苹果",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"playerType": 1,
@@ -236,7 +236,7 @@
 			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/js2/1e6e.js"
 		},
 		{
-			"key": "js_bk",
+			"key": "js_很卡",
 			"name": "🎯影视┃很卡",
 			"type": 3,
 			"api": "https://agit.ai/qi169/kankan/raw/branch/master/libs/drpy2.min.js",
@@ -250,14 +250,14 @@
 			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/js2/007.js"
 		},
 		{
-			"key": "js_qy",
+			"key": "js_创艺",
 			"name": "🍥影视┃创艺",
 			"type": 3,
 			"api": "https://agit.ai/qi169/kankan/raw/branch/master/libs/drpy2.min.js",
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/qy.js"
 		},
 		{
-			"key": "AP_xl",
+			"key": "AP_兴浪",
 			"name": "❌勿相信广告",
 			"type": 1,
 			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
@@ -267,7 +267,7 @@
 			"categories": ["大陆剧", "港澳剧", "台湾剧", "动漫", "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
 		},
 		{
-			"key": "xb_bk",
+			"key": "xb_真卡",
 			"name": "🆖影视┃真很卡",
 			"type": 3,
 			"api": "csp_XBiu",
@@ -278,7 +278,7 @@
 			"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
 		},
 		{
-			"key": "Sp_Bi",
+			"key": "Sp_健身",
 			"name": "🅱️哔哔┃健身",
 			"type": 3,
 			"api": "csp_Bili",
@@ -289,7 +289,7 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "Sp_hj",
+			"key": "Sp_合集",
 			"name": "🅱️哔哔┃合集",
 			"type": 3,
 			"api": "csp_Bili",
@@ -300,8 +300,8 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "Sp_yd",
-			"name": "🅱️教育┃园地",
+			"key": "Sp_乐园",
+			"name": "🅱️教育┃乐园",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 1,
@@ -311,7 +311,7 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "Bi_gw",
+			"key": "Bi_歌舞",
 			"name": "🅱️哔哔┃歌舞",
 			"type": 3,
 			"api": "csp_Bili",
@@ -322,7 +322,7 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "Bi_xj",
+			"key": "Bi_贵姓",
 			"name": "🅱️哔哔┃小姐姐",
 			"type": 3,
 			"api": "csp_Bili",
@@ -333,7 +333,7 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "Bi_mm",
+			"key": "Bi_车模",
 			"name": "🅱️哔哔┃车模",
 			"type": 3,
 			"api": "csp_Bili",
@@ -344,14 +344,14 @@
 			"jar": "https://notabug.org/qizhen15800/My9394/raw/master/jar/bili.jar"
 		},
 		{
-			"key": "js_xm",
+			"key": "js_拉雅",
 			"name": "🎧音频┃喜马",
 			"type": 3,
 			"api": "https://agit.ai/qi169/kankan/raw/branch/master/libs/drpy2.min.js",
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/xima.js"
 		},
 		{
-			"key": "da_ry",
+			"key": "自嗨-1",
 			"name": "🎵音乐┃MV",
 			"type": 4,
 			"api": "http://120.53.102.254/dsp/",
@@ -368,7 +368,7 @@
 			"playerType": "2"
 		},
 		{
-			"key": "PQ_ry",
+			"key": "自嗨-2",
 			"name": "🎧音乐┃视频",
 			"type": 4,
 			"api": "http://120.53.102.254/live?url=https://notabug.org/qizhen15800/My9394/raw/master/live/DIY.txt",
@@ -377,7 +377,7 @@
 			"filterable": 1
 		},
 		{
-			"key": "Sp_wh",
+			"key": "Sp_网红",
 			"name": "🐬直播┃网红",
 			"type": 3,
 			"api": "csp_Yj1211",
@@ -386,7 +386,7 @@
 			"filterable": 1
 		},
 		{
-			"key": "Sp_an",
+			"key": "Sp_樱花",
 			"name": "🌸动漫┃樱花",
 			"type": 3,
 			"api": "csp_Anime1",
@@ -395,7 +395,7 @@
 			"filterable": 1
 		},
 		{
-			"key": "XP_qe",
+			"key": "XP_起鹅",
 			"name": "🐧起鹅┃直播",
 			"type": 3,
 			"api": "csp_XPath",
@@ -442,7 +442,7 @@
 			"jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fcdb43bf3c66db75008f5c8983895f39"
 		},
 		{
-			"key": "SP_Up",
+			"key": "SP_云搜",
 			"name": "🆙搜索┃UP云",
 			"type": 3,
 			"api": "csp_UpYun",
@@ -453,7 +453,7 @@
 			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/ali/token.txt"
 		},
 		{
-			"key": "SP_Ps",
+			"key": "SP_盘搜",
 			"name": "📀搜索┃盘搜",
 			"type": 3,
 			"api": "csp_PanSou",
@@ -464,7 +464,7 @@
 			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/ali/token.txt"
 		},
 		{
-			"key": "SP_Yi",
+			"key": "SP_易搜",
 			"name": "🆎搜索┃易搜",
 			"type": 3,
 			"api": "csp_YiSo",
@@ -475,7 +475,7 @@
 			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/ali/token.txt"
 		},
 		{
-			"key": "xb_hd",
+			"key": "xb_饭团",
 			"name": "🍙影视┃饭团",
 			"type": 3,
 			"api": "csp_XBiu",
